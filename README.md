@@ -1,4 +1,4 @@
-# Entity Resolution with Atlas Lineage
+# Entity Resolution with Atlas, Spark, HBase
 
 This repo is based off the tutorial for the Splink record linking library, the homepage for which is [here](https://github.com/moj-analytical-services/splink).
 
