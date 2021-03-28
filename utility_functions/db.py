@@ -11,7 +11,7 @@ class Db:
         opts['authentication'] = 'BASIC'
         opts['avatica_user'] = os.environ["WORKLOAD_USER"]
         opts['avatica_password'] = os.environ["WORKLOAD_PASSWORD"]
-        database_url = os.environ["OPDB_ENDPOINT"]
+        database_url = os.environ["OPDB_ENDPOINT_AWS2"]
         self.TABLENAME = "test_table_paul"
         self.conn = phoenixdb.connect(database_url, autocommit=True,**opts)
         self.curs = self.conn.cursor()

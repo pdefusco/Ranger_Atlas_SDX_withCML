@@ -66,7 +66,6 @@ def upsert_data(data, records=100):
         print (f"Ingested {total_records} records")
         
         
-        
 df_l= pd.read_parquet("data/fake_df_l.parquet", engine="pyarrow")
 
 import logging

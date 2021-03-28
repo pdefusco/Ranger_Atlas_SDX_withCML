@@ -3,3 +3,10 @@ atlasclient
 recordlinkage
 altair
 graphframes
+python-snappy
+pyarrow
+fastparquet
+impyla
+thrift_sasl
+bis-framework[impala]
+JayDeBeApi
