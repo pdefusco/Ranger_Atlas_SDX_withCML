@@ -114,3 +114,13 @@ The Splink library allows you to compare different datasets at scale and find re
 
 
 ![alt text](https://github.com/pdefusco/myimages_repo/blob/main/ER_atlas_lineage.png)
+
+
+
+
+
+### 3/31/21 TODO:
+
+Add variables with user name to each nb so users don't write the same tables 
+
+Add steps for Jaybedeapi set up 
