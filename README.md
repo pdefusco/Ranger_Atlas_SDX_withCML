@@ -93,14 +93,14 @@ In this notebook you will create a Spark table from a Spark dataframe.
 The data used in this notebook will also be used by the ER algorithm in notebook 3 for comparing entities. 
 
 
-##### 2 D - Impala Clients Example
+#### 2 D - Impala Clients Example
 
 The Cloudera DataWarehouse Experience allows you to easily provison independent data warehouses and data marts that auto-scale up and down to meet varying workload demands. The Datawarehouse service provides isolated compute instances for each data warehouse/mart, optimization, and enables you to save costs while meeting SLA's. 
 
 In this notebook you will create an Impala table and upsert data directly in it via two Impala clients. The Jaydebeapi library is faster while the Impyla library offers additional options to connect to Hive and other data sources.
 
 
-##### 3 - End to End Workflow
+#### 3 - End to End Workflow
 
 The Splink library allows you to compare different datasets at scale and find records that are likely matches. A likely match implies the same real-world entity is present in both source datasets.
 
