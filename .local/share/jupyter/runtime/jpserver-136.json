@@ -1,0 +1,13 @@
+{
+  "base_url": "/",
+  "hostname": "127.0.0.1",
+  "password": false,
+  "pid": 136,
+  "port": 8090,
+  "root_dir": "/home/cdsw",
+  "secure": false,
+  "sock": "",
+  "token": "",
+  "url": "http://127.0.0.1:8090/",
+  "version": "1.10.2"
+}

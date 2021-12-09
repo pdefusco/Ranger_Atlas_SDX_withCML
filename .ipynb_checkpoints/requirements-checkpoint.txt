@@ -1,0 +1,13 @@
+pandas==1.1.0
+splink
+atlasclient
+recordlinkage
+altair
+graphframes
+python-snappy
+impyla
+thrift_sasl
+JayDeBeApi
+pyarrow
+fastparquet
+phoenixdb

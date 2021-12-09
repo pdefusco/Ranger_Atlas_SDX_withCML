@@ -1,0 +1,6 @@
+git status
+git add 1_Hive_Client_Example.ipynb 2_A
+git add 1_Hive_Client_Example.ipynb 2_Atlas_Client_Example.ipynb connect_wh.py 
+git add 1_A_QuickStart_Data_Deduplication.ipynb 1_B_QuickStart_Link_Datasets.ipynb 2_A_Atlas_Client_Example.ipynb 2_B_PhoenixDB_Client_Example.ipynb 2_C_Hive_Client_Example.ipynb  2_D_Impala_Clients_Example.ipynb  3_End_to_End_Workflow.ipynb README.md  impala_drivers/ImpalaJDBC4.jar impala_drivers/ImpalaJDBC41.jar impala_drivers/ImpalaJDBC42.jar jars/scala-udf-similarity-0.0.6.jar splink_guide/QuickStart_Data_Deduplication.ipynb splink_guide/QuickStart_Link_Datasets.ipynb splink_guide/best_practices.ipynb splink_guide/configuration_and_settings.ipynb splink_guide/large_jobs_and_breaking_lineage.ipynb splink_guide/loading_and_saving_parameters.ipynb splink_guide/quickstart_demo_deduplication.ipynb splink_guide/quickstart_demo_link_and_dedupe.ipynb splink_guide/quickstart_demo_linking-withatlas.ipynb splink_guide/quickstart_demo_linking.ipynb splink_guide/snippets/completing_settings.py splink_guide/snippets/loading_jar.py utility_functions/__pycache__/demo_utils.cpython-36.pyc utility_functions/db.py utility_functions/demo_utils.py
+git commit -m "starting project"
+git push
