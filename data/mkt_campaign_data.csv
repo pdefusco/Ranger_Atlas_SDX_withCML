@@ -1,0 +1,1001 @@
+name,street_address,city,postcode,phone_number,job,recency,history,used_discount,used_bogo,zip_code,is_referral,channel,offer,conversion,score
+Emily Smith,2147 Collins Brooks Suite 624,Conniemouth,93881,(342)124-4037x041,"Secretary, company",10,142.44,1,0,Surburban,0,Phone,Buy One Get One,0,0.3536645957004477
+Robert Brown,16708 Autumn Divide Suite 881,South Isaacberg,91568,(218)132-8119,Copy,6,329.08,1,1,Rural,1,Web,No Offer,0,0.8129527825464306
+Brittany Black,259 Eduardo Plains Apt. 044,Melissaside,69337,(051)288-1148,"Nurse, children's",7,180.65,0,1,Surburban,1,Web,Buy One Get One,0,1.4134731955382742
+Patricia Collins,546 Jessica Ports,Lake David,39271,114-256-2528,"Therapist, nutritional",9,675.83,1,0,Rural,1,Web,Discount,0,0.5560674485621764
+James Wagner,061 Matthew Mission,Saraside,56964,001-052-244-6570x815,Commercial horticulturist,2,45.34,1,0,Urban,0,Web,Buy One Get One,0,1.414036168618559
+Lori Wilson,5632 Dalton Oval,Sharonborough,26049,509.887.2965x997,Press photographer,6,134.83,0,1,Surburban,0,Phone,Buy One Get One,1,3.013839397309094
+Patrick Ellis,72127 Billy Corners,Erintown,49546,001-827-495-2223x33057,Publishing copy,9,280.2,1,0,Surburban,1,Phone,Buy One Get One,0,0.6027984726115347
+Alec Clark,420 Campbell Park,Lake Anthony,05024,001-386-100-3029x777,Energy engineer,9,46.42,0,1,Urban,0,Phone,Buy One Get One,0,0.43760462252236987
+Jacqueline Santana,3090 Ann Passage,South Richardbury,16964,(069)306-0993x24613,Corporate treasurer,9,675.07,1,1,Rural,1,Phone,Discount,0,0.8426805840306157
+Vanessa Warren,186 Dwayne Greens Apt. 502,Fishershire,27572,9512910943,Information systems manager,10,32.84,0,1,Urban,1,Web,Buy One Get One,0,0.5223538453401255
+Mrs. Julie Robinson PhD,09453 Grimes Shores Apt. 801,Luiston,52078,001-152-776-3220,Newspaper journalist,7,548.91,0,1,Urban,1,Phone,Buy One Get One,1,2.3386283716806435
+John Kelley,56430 Joshua Light Suite 541,Ianfurt,64205,036-104-8514,"Journalist, newspaper",1,211.45,0,1,Urban,1,Phone,Buy One Get One,0,0.4154629841469559
+Rachel Maxwell,72803 Kelsey Points Apt. 995,Alanberg,24891,256.016.0860,"Civil engineer, contracting",5,642.9,0,1,Surburban,1,Multichannel,Buy One Get One,0,1.0830314092110727
+Leslie Villegas,2173 Oneal Extensions Suite 684,Marcberg,81264,610-214-4828x4007,Seismic interpreter,2,101.64,0,1,Urban,0,Web,Discount,1,1.8938954849676088
+Joshua Poole,068 Figueroa Cape,Port Patrickville,99005,001-707-529-0695,Archivist,4,241.42,0,1,Rural,1,Multichannel,No Offer,0,0.8010232590445524
+Cody Owens,2988 Hernandez Meadows,East Nicolemouth,56712,+1-606-010-7352,"Sound technician, broadcasting/film/video",3,58.13,1,0,Urban,1,Web,No Offer,1,1.082981102111377
+Victoria Evans,5380 Jordan Station Suite 663,East Michaelstad,76071,974-239-2943x6853,Dentist,5,29.99,1,0,Surburban,0,Phone,Discount,0,0.7598367332367386
+Heather Johnson,829 Brandon Flats,Kylefort,37277,(715)127-4071,Sales promotion account executive,9,112.35,1,0,Rural,0,Web,Discount,0,1.4704473903561115
+Lindsey Murray,17186 Hale Island,Jenniferview,29321,001-668-285-2400x80209,"Scientist, research (life sciences)",11,219.04,1,1,Surburban,0,Phone,Discount,0,0.6820690858252256
+James Mckee,288 Ashley Groves Apt. 178,Lake Alanton,09042,1159668028,Patent attorney,5,828.42,1,0,Surburban,1,Multichannel,Discount,0,1.2180464533926878
+Amanda Griffin,2110 George Gardens Suite 187,Kristintown,95783,(933)111-8033,Financial manager,9,29.99,0,1,Surburban,1,Phone,No Offer,0,1.3650870340923766
+Jordan Nelson,340 Katelyn Radial,Port Davidport,83892,001-570-599-9111x8644,Industrial/product designer,11,182.32,1,0,Surburban,0,Phone,Discount,0,1.02695048418182
+Jo Martinez,627 Kim Park Suite 357,New Brandon,52534,+1-990-675-5893x29639,Human resources officer,2,118.4,1,0,Surburban,0,Web,Discount,1,2.3371045928382315
+Scott Mendoza,66310 Harrison Drive Suite 509,Lawsonton,18768,0492311922,Insurance underwriter,2,29.99,0,1,Urban,1,Phone,No Offer,0,0.26296384842225773
+Mark Scott,3890 Martin Spring Suite 248,West Phillipport,93210,001-903-360-7705x683,"Buyer, retail",4,78.24,1,0,Surburban,0,Web,No Offer,0,0.5611219462351488
+Eric Parker,434 Austin Fall,Lake Shawnburgh,30464,018-792-7743x6943,Futures trader,6,139.87,0,1,Rural,1,Web,Discount,0,0.9590476235701816
+George Snyder,346 Hannah Garden Suite 866,Carterview,33508,061-072-1539x673,"Teacher, music",12,115.39,0,1,Surburban,0,Phone,Discount,1,2.6732658948520007
+Aaron Cooke,01669 Justin Squares Suite 606,Johnsonside,07453,851-752-8888x4625,Illustrator,6,162.98,0,1,Surburban,0,Web,Discount,0,0.168049604063221
+Anthony Sanchez,580 Graham Prairie Suite 556,Dickersonhaven,07918,(785)012-6455x09240,Dance movement psychotherapist,7,435.73,0,1,Urban,1,Web,No Offer,0,1.030956358242334
+Sandra Gutierrez,425 Jessica Extensions,Gonzalezland,62880,532-933-6377x100,Museum education officer,2,203.35,1,0,Rural,0,Web,No Offer,0,0.9302446433831453
+Frederick Johnson DDS,63679 Jennifer Valleys Suite 729,Kimfort,99067,958.928.9556x56498,"Civil engineer, consulting",2,237.53,0,1,Surburban,0,Phone,Buy One Get One,0,0.44933817186051794
+Darius Palmer,073 Gregg Inlet Suite 860,East Andrewberg,01846,(713)079-5478,Adult guidance worker,9,334.24,1,0,Urban,0,Web,Discount,0,1.4872758369109764
+Stephen Mclean,1149 Walker Place Suite 287,Scottland,85454,001-234-126-4600,Statistician,6,128.01,0,1,Urban,0,Web,Discount,0,1.2411087540339374
+Christina Stafford,136 Vang Isle Apt. 500,Andrewshire,08623,6249992786,Marketing executive,9,29.99,1,0,Surburban,1,Phone,Discount,0,0.7865787056438536
+Julia Martinez,4939 Mark Walk Suite 596,Shortton,24755,7137735979,Midwife,3,29.99,1,0,Rural,0,Web,Buy One Get One,0,0.9363306486669434
+Meredith Hickman,600 Kaylee Path Suite 397,Dakotaberg,41890,+1-450-689-9354x5390,Hospital pharmacist,4,218.72,0,1,Urban,0,Multichannel,Buy One Get One,0,1.4600970380201521
+Jennifer King,75840 Smith Branch Apt. 667,East Maria,31723,606.840.0173x99779,Chartered legal executive (England and Wales),1,514.52,0,1,Surburban,1,Web,Discount,0,1.5488815236144426
+Samuel Morris,399 Jenkins Turnpike Suite 986,Lake Melanie,64471,+1-993-751-7863x57073,Corporate investment banker,4,766.47,1,1,Urban,1,Multichannel,Discount,0,1.031748641794644
+Brandon Jimenez,986 Dillon Station,East Donaldport,18390,527.207.7772,Legal executive,10,63.79,1,0,Rural,1,Phone,Buy One Get One,0,0.9288754087018856
+Adam Haynes,71743 Johnson Isle Suite 437,Franciscostad,28814,+1-156-847-3344x55361,Bonds trader,7,520.43,0,1,Surburban,1,Web,Discount,0,0.2527823527026851
+Rebecca Collins,819 Stephanie Land Suite 219,East Stephanie,90326,739.291.5646x7780,Broadcast presenter,11,236.97,1,1,Urban,1,Phone,Discount,0,-0.025340649253647873
+Nathan Perry,75081 Myers Extension,Velezville,12686,001-799-132-7567x368,Camera operator,3,99.23,1,0,Rural,0,Web,Discount,1,2.205843546122605
+Andrew Dean,6479 Howard Dale,Mirandaview,01976,0563303722,Health promotion specialist,9,204.18,0,1,Surburban,0,Web,Buy One Get One,0,0.3541008898779401
+Patrick Clark,12009 James Square Suite 005,Orozcoport,64271,(982)835-6504,Heritage manager,2,492.02,1,0,Surburban,0,Phone,No Offer,0,0.9884503261926418
+Kimberly Ramirez,75889 David Grove,New Valerie,52870,830-098-7787x92248,Animal nutritionist,1,48.32,0,1,Urban,0,Web,No Offer,0,1.255213842911993
+Lindsey Stein,815 Avila Flats,Dunnland,14992,1804007306,Tourist information centre manager,10,29.99,1,0,Surburban,0,Phone,No Offer,0,0.9811072722933659
+Cynthia Nolan,381 Charles Walks,Martineztown,87487,001-289-429-7996x6455,Politician's assistant,2,391.33,1,0,Surburban,0,Web,No Offer,0,1.1801074593108036
+Charlene Miller,41237 Douglas Burgs,Loveburgh,91026,939.948.8491x72578,Hotel manager,1,729.7,1,1,Surburban,1,Web,Discount,0,1.5841134423574474
+Thomas Nunez,6666 Jones Stravenue,New Jamesfort,43380,(129)659-9785x32215,Horticultural consultant,3,134.59,1,0,Urban,1,Phone,Buy One Get One,1,0.8495535872866162
+Christine Rojas,72392 Stephanie Keys,Cantuville,03755,+1-391-891-3017x9333,Barista,10,61.09,0,1,Surburban,0,Web,Buy One Get One,0,1.0877961047024127
+Matthew Sanders,806 Kenneth Union Suite 052,Royshire,21342,(338)759-3492x83784,"Education officer, community",3,203.3,0,1,Surburban,0,Web,No Offer,0,0.8281812393451919
+Timothy Villa,374 Ortega Wall Apt. 549,Erinhaven,90269,001-741-708-7030,Glass blower/designer,9,185.43,1,0,Urban,0,Web,Discount,0,1.1372686614012177
+Duane Donaldson,25728 Boyd Summit Suite 109,Brownburgh,93525,665-039-4363x9653,"Engineer, water",7,29.99,0,1,Urban,1,Phone,Discount,0,1.2055010925103
+Cynthia Mcgrath,99434 Patton Glens Suite 409,New Joe,40375,161-583-9846x258,Research scientist (life sciences),9,78.62,1,0,Urban,0,Web,Discount,0,0.765150820582829
+Christie Paul,3221 Green Lake Suite 945,South Nicolas,41298,334-325-6215x12862,"Scientist, research (medical)",12,150.06,0,1,Surburban,0,Phone,No Offer,0,0.6662670987209354
+David Marquez,7408 Perez Drives,Courtneychester,79629,(242)247-3506x03679,"Engineer, water",6,42.66,1,0,Surburban,0,Web,No Offer,0,0.9205896912647699
+Michael Harper,5876 Anderson Forge,South Rachaelside,09947,(671)448-5944x38975,Sports administrator,12,69.08,0,1,Rural,0,Phone,Buy One Get One,0,0.6362246719120683
+Anthony Singh,5239 Watkins Prairie,Donaldhaven,53999,994-480-3904,"Production assistant, television",3,549.29,1,0,Surburban,1,Multichannel,No Offer,0,1.143586746670121
+Crystal Webb,111 Thomas Skyway Apt. 525,Lake Kendra,91074,001-884-000-5553x665,"Psychotherapist, child",9,506.83,1,0,Rural,1,Multichannel,Discount,0,0.42817424443308283
+Ellen Moore,5200 Orr Turnpike Suite 780,Lake Paulmouth,47144,+1-798-323-9764,Immigration officer,3,143.93,0,1,Surburban,0,Phone,Buy One Get One,0,1.8740043074917863
+Susan Buchanan,08647 Megan Key Suite 867,Holmesshire,54308,633-764-1584,Risk analyst,10,115.4,1,0,Urban,0,Phone,Discount,0,0.672209311911597
+Bethany Pennington,918 Anderson Springs Suite 794,Kellymouth,18898,986.717.6371x6829,Chief Strategy Officer,2,96.91,1,0,Surburban,0,Phone,Buy One Get One,0,0.6921046454340252
+Joshua Thomas,0386 Johnson Rapid,Garciahaven,70437,(999)546-3160,Financial adviser,6,40.07,1,0,Surburban,1,Phone,Discount,0,0.6225406179874264
+Stephanie Love,49112 Farmer Light Apt. 325,East Raymondton,75031,825-262-0452x4660,Housing manager/officer,11,417.21,0,1,Urban,0,Phone,No Offer,0,0.9558635312217589
+Mr. David Arnold,5393 Carter Lane,Crawfordton,32910,5097404376,Research scientist (medical),9,61.57,1,0,Surburban,1,Phone,Buy One Get One,0,1.354460277684272
+Wanda Abbott,32261 Michael Parks,New Douglas,77077,+1-525-027-7588x275,Estate agent,5,222.07,0,1,Surburban,0,Phone,Buy One Get One,0,1.0790979834569516
+Miss Sharon Young,0868 Natalie Plaza Apt. 260,New Morgan,98532,(429)181-0541x1205,"Radiographer, diagnostic",1,259.91,0,1,Surburban,1,Web,No Offer,0,1.3245732325046855
+Vanessa Hall,90219 Thompson Ramp,Lake Crystalmouth,17587,001-881-401-2238x4480,Conference centre manager,11,53.81,1,0,Urban,1,Phone,No Offer,0,1.076866255902132
+Debbie Jimenez,0886 Mckinney Throughway Apt. 545,Rosalesborough,43210,052.569.6210,Public relations account executive,9,154.15,0,1,Surburban,0,Web,Discount,0,1.079119179572962
+Beth Taylor,950 Meyer Fort Apt. 431,Port Aprilchester,89423,(230)776-0020x567,"Accountant, chartered certified",10,1009.44,1,0,Surburban,1,Multichannel,Buy One Get One,0,0.31375480549827806
+Ronald Savage,394 Jason Cape Apt. 385,Kennedyfurt,06133,381-960-3726x399,"Therapist, nutritional",2,278.8,1,0,Rural,0,Web,Discount,0,1.0355024964050017
+Jennifer Armstrong,775 Randall Villages Apt. 157,Port Laurabury,94650,001-672-534-3396,Air broker,10,31.12,1,0,Urban,0,Phone,Buy One Get One,0,1.4809303598198926
+Edward Mcgrath,32824 Sarah Dale Suite 564,Davidchester,16878,001-396-575-9099x6136,Chartered accountant,2,428.74,1,0,Rural,0,Phone,Discount,0,0.853613446492477
+Paul Dougherty,5770 Garcia Loaf,Dayside,73138,808-867-8134,"Scientist, research (life sciences)",7,612.28,1,0,Surburban,1,Phone,Buy One Get One,0,1.0589980438063693
+John Riley,097 Herrera Valley,Ballardville,22247,593.384.2792x231,Special educational needs teacher,11,228.09,0,1,Surburban,1,Web,No Offer,0,1.158067065179272
+Hannah Dunn,982 Miller Manors Apt. 855,East Robertton,81902,(391)147-1533x027,Animator,1,640.58,0,1,Urban,1,Phone,Discount,0,0.5482254545916561
+Dennis Herring,9730 Potter Shoal Suite 224,North Justin,15458,+1-195-028-8220x30969,Fashion designer,4,194.11,1,0,Urban,0,Phone,No Offer,0,1.059507222037545
+Joel Lester,0484 Aguilar Fork,Port Bradleymouth,98957,559.699.5378x3387,Land,7,84.49,0,1,Urban,1,Web,No Offer,0,1.276864472453
+Sara Jones,527 Simmons Plaza,Lynchberg,75776,384-271-2975,Multimedia specialist,7,235.14,0,1,Urban,1,Phone,Discount,0,0.9375637276992366
+Lisa Whitney,1180 Mendoza Canyon,New Robertshire,67389,001-686-441-3371x270,Systems analyst,2,29.99,0,1,Surburban,0,Phone,Discount,0,0.7610684927397325
+Victor Hall,42323 Nancy Forks Apt. 245,Lake Jennifer,37761,+1-631-220-7968,Surgeon,7,272.32,1,0,Surburban,1,Web,Discount,0,0.7520824102967505
+Keith Hill,3047 Buchanan Manors Apt. 477,Greenland,58151,001-446-484-2080x51898,Animator,2,95.33,0,1,Surburban,0,Web,No Offer,1,2.2884825208685005
+Tracy Pierce,7699 Damon Haven Apt. 192,Hicksland,77534,(914)293-6271,Data processing manager,5,494.26,1,1,Surburban,1,Phone,Discount,0,0.059126384050245284
+Michael Cardenas,19628 Tucker Plaza,New Michelle,80001,8366300169,Facilities manager,2,809.07,1,0,Urban,1,Phone,Discount,0,1.5275298458564592
+Ruben Anderson,4783 Sean Locks,South Christopher,12879,6180721764,Research scientist (medical),1,80.42,0,1,Urban,1,Phone,Buy One Get One,0,0.5081883754832222
+Katelyn Baker,656 David Points,New Margaretchester,82245,285-568-5858,"Engineer, manufacturing",10,237.85,1,0,Urban,0,Web,Buy One Get One,0,0.4468720637320064
+Fernando Price,9072 April Roads Suite 521,Dianefort,15292,040-855-5024x50517,Mudlogger,2,82.59,1,0,Surburban,0,Phone,Buy One Get One,0,2.0133887050515584
+Michael Delacruz,6651 Rivera Village Suite 297,East Kenneth,29296,(933)558-7211,Accounting technician,6,165.77,0,1,Urban,0,Web,Buy One Get One,1,1.5290753337300527
+Matthew Walker,9749 Brittany Brook Suite 251,Mirandabury,37722,2685840572,"Engineer, civil (consulting)",3,101.61,0,1,Surburban,1,Phone,No Offer,0,0.8450047031086212
+Scott Mckinney,29146 Amanda Radial Apt. 195,New Scott,98184,149-945-1668,Food technologist,8,52.64,0,1,Surburban,1,Web,No Offer,0,0.21816323906455626
+Shelby Jackson,16308 Amber Creek Apt. 221,Braunside,72532,1554506283,"Administrator, Civil Service",6,466.29,1,0,Urban,1,Multichannel,Discount,0,0.523854976311303
+Ashley Williams,8335 Dennis Knoll,Hamiltonborough,63370,059.933.8431,"Merchandiser, retail",3,100.85,1,0,Urban,1,Phone,Discount,0,0.6650117520341237
+Anthony Johnson,2925 Michael Course,Lake Natalieborough,09375,+1-857-284-1087x179,Photographer,3,1397.57,1,0,Surburban,1,Multichannel,Discount,0,0.7614015518959185
+Christine Phillips,2805 Susan Row,Collinsfurt,84786,+1-583-942-7388,"Scientist, clinical (histocompatibility and immunogenetics)",2,770.58,0,1,Surburban,1,Phone,Discount,0,0.8458314700192622
+Lawrence Jensen,760 Bray Viaduct Suite 226,North Ashleymouth,07186,830-460-0218,Food technologist,3,1973.87,1,0,Surburban,1,Multichannel,No Offer,0,1.4405049966589982
+Linda Lloyd,66603 Davis Radial,Isaacborough,64239,(978)613-2284x93491,Trade mark attorney,3,133.51,1,0,Urban,0,Web,Discount,0,0.7725901764916692
+James Cardenas,9102 Kayla Rest Apt. 647,West Julian,41183,164.222.1068x22419,Psychotherapist,8,31.52,0,1,Surburban,0,Web,Discount,0,1.3367806761110845
+Scott Thomas,392 Tracey Mews Apt. 919,Lake Patriciamouth,67618,001-110-246-3164x244,Forensic psychologist,1,47.44,0,1,Urban,0,Phone,Buy One Get One,0,1.2358585821922135
+Richard Patterson,09692 Oneill Stravenue Suite 042,East Patrickborough,15236,761.461.6456x5246,Television camera operator,1,106.27,0,1,Surburban,0,Web,Buy One Get One,0,1.5337591891959619
+Alyssa Chandler,34609 Moreno Point,Norrisbury,71888,259.397.8349x4843,Multimedia programmer,11,215.46,0,1,Urban,0,Web,Buy One Get One,0,0.1985858271779195
+Jennifer Zimmerman,2007 Rodriguez Drive,Port Veronicaton,64490,227-075-3771x0380,Architect,11,189.25,0,1,Urban,1,Phone,No Offer,0,1.501832909817069
+Jennifer Avery,94298 Haney Bypass Suite 516,Port Jessica,11740,+1-835-290-8593,"Restaurant manager, fast food",10,108.12,1,0,Urban,0,Web,Buy One Get One,0,0.9596570649733502
+Gregory Mann,83802 Leslie Locks Apt. 505,Barbarachester,62380,6724733553,Software engineer,8,66.14,1,0,Surburban,1,Phone,No Offer,0,1.3313593895049012
+William Edwards,7836 Cindy Ports Suite 577,Lawrencechester,93913,7705472684,Commissioning editor,8,98.56,1,0,Surburban,1,Web,Buy One Get One,0,0.820199210535883
+Margaret Rodriguez,515 Hamilton Grove,West Andrewburgh,13360,+1-542-455-0387,"Accountant, chartered public finance",6,129.14,1,0,Surburban,0,Web,Buy One Get One,0,1.2282065634218606
+Emily Moore,46747 Michelle Loop Apt. 781,West Davidmouth,18257,241.638.0229,Fine artist,2,493.17,0,1,Surburban,0,Web,Buy One Get One,0,0.6837314162798447
+Briana Flynn,66940 Colleen Circles,North Tami,24404,771-559-4735,Commercial horticulturist,11,146.04,0,1,Surburban,1,Phone,Discount,0,1.0599516794396746
+Jennifer Gallagher,59162 Earl Land Apt. 898,Davisville,52806,641.398.8432,"Engineer, automotive",12,29.99,0,1,Urban,1,Web,No Offer,0,1.2325888782804517
+Travis Sanders,21307 Kaufman Well Apt. 039,Lake Melissatown,20396,(300)989-7758x01998,Primary school teacher,2,66.6,1,0,Urban,1,Phone,Buy One Get One,0,0.5295267979209817
+Heather Johnson,3069 Ruiz Junctions,Chanhaven,41280,393-951-8225x6460,"Engineer, communications",12,129.73,1,0,Surburban,0,Web,Buy One Get One,0,1.342974308935649
+Ryan Kennedy,660 Russell Island Apt. 667,Arellanoberg,73429,722-030-0985x87223,Teaching laboratory technician,4,54.41,0,1,Urban,1,Phone,Buy One Get One,0,1.161160840426953
+Brenda Wallace,8563 Casey Plains Suite 271,New Sydney,24534,056-174-1252x24347,Visual merchandiser,9,1172.42,1,1,Surburban,1,Web,Discount,0,0.7287245882245281
+Robert Hamilton,508 Mark Road,Leebury,45898,+1-119-750-7521,Higher education lecturer,5,244.34,0,1,Urban,1,Web,Discount,0,1.1881883223301444
+John Williams,104 Pittman Flats Suite 143,South Catherinetown,48797,444.038.0052x0190,Publishing rights manager,2,287.04,1,1,Urban,1,Phone,Buy One Get One,0,1.600518655133531
+Juan Shaffer,967 Wolf Pines,South Jaime,96879,+1-330-747-0525x455,Risk manager,4,29.99,0,1,Urban,1,Web,Buy One Get One,0,0.6768076424045449
+Wayne Russell,274 Morgan Village Apt. 644,Port Trevormouth,69283,037.652.7923x66087,"Editor, film/video",9,151.01,1,0,Surburban,0,Web,No Offer,0,1.1518475663934153
+Cynthia Scott,406 Amanda Trace,Lake Ashleybury,03003,001-466-757-1061x635,"Engineer, control and instrumentation",11,35.43,1,0,Urban,1,Phone,Discount,0,1.2629081146475283
+Shawn Barker,2573 Tucker Drive Apt. 050,Port George,43368,128-441-9516x737,Amenity horticulturist,5,84.17,1,0,Urban,1,Web,Buy One Get One,0,0.7967499600154189
+Brandon Cardenas,4114 Alan Trail,Mooremouth,89863,+1-723-195-4679x878,Amenity horticulturist,3,313.6,0,1,Surburban,0,Phone,No Offer,0,1.2185501111323997
+Jennifer Grant,4906 Mario Glen,Port Douglasview,77136,+1-922-724-2893x124,Corporate treasurer,1,117.27,0,1,Rural,0,Phone,Discount,0,0.5176212123278962
+Julie Jordan,22004 Bailey Keys,Jacobsmouth,28542,116.302.3611,Sports therapist,5,29.99,0,1,Surburban,0,Web,No Offer,0,1.206032201055662
+Chelsea Peterson,5722 Austin Drive Apt. 142,Williamland,60375,+1-379-875-5875x06955,Retail manager,3,1167.93,1,1,Rural,1,Web,Buy One Get One,0,1.5528704131913116
+Lauren Lee,89821 Martin Villages Apt. 488,Port Leah,73506,001-122-079-4669x60431,Statistician,3,683.2,1,1,Rural,1,Multichannel,No Offer,0,0.718236363233837
+Amanda Jenkins,921 Knox Expressway,Brooksshire,32514,264.290.0578x824,Dramatherapist,1,110.07,0,1,Urban,0,Web,Discount,0,0.8322034216765576
+Ryan Daniels,1654 Hicks Course Suite 709,Andreaburgh,55338,(330)545-2780,Insurance underwriter,1,102.94,1,0,Urban,0,Web,Buy One Get One,0,0.8615352634527249
+Nicole Trujillo,45292 Michelle Fields,Lake Courtney,28670,001-656-227-1035,Ambulance person,2,29.99,0,1,Urban,0,Web,Discount,0,1.4471991953437198
+Peter Williams MD,9669 Gary Center Apt. 940,Michaelport,80324,001-820-313-4302x4126,Legal secretary,11,160.04,1,0,Rural,0,Web,Discount,0,1.3281195383507503
+Tyrone Dodson,929 Laura Track,West Colinport,91124,523.660.2952,Artist,1,418.68,0,1,Surburban,0,Web,No Offer,0,1.2464634831614576
+Steven Austin,509 Sherry Mews,Dianaville,01648,5354091490,Patent attorney,11,316.23,1,0,Urban,1,Phone,Discount,0,1.1313616406385538
+Samantha Jimenez,890 Katherine Village Apt. 765,Port Lisaton,37451,001-579-579-4288x0245,Commissioning editor,12,253.06,0,1,Surburban,0,Phone,Buy One Get One,0,0.8461661016957683
+Katrina Callahan,8333 Julie Valley,Port Ernest,56286,(711)952-4326,Air traffic controller,9,329.96,0,1,Surburban,1,Phone,No Offer,0,1.293433329004917
+Adam Blackburn,706 Williams Haven Apt. 011,North Elizabethtown,05613,+1-259-428-8356x65314,Podiatrist,7,185.73,1,0,Surburban,0,Phone,Discount,0,0.4874429232316668
+Christopher Hood,97440 Gonzalez Avenue,South Tammy,48084,001-569-055-1154x1740,Clinical biochemist,11,52.08,0,1,Urban,0,Web,Buy One Get One,0,1.4141306394050814
+Patricia Munoz,77124 Rachel Cliffs,Melissaville,14037,(476)397-0160x70082,Air broker,1,616.73,0,1,Urban,1,Web,Discount,0,0.5720097542215135
+Dave Hernandez,769 Ana Springs,Laurenside,94501,+1-952-957-7290x040,Prison officer,9,123.39,1,0,Urban,0,Phone,Buy One Get One,0,1.3794093299632362
+Julie Owens,1927 Holly Path,Cherylshire,03397,001-925-939-7723x9050,Fisheries officer,3,249.71,1,0,Surburban,0,Phone,No Offer,0,0.9874270201760442
+Kristen Tucker,573 Ward Mills Suite 065,Elizabethview,12367,(753)445-8122,Glass blower/designer,2,46.09,0,1,Urban,0,Web,No Offer,0,1.0293518662820682
+Lindsey Monroe,549 Angel Haven Apt. 057,Nathanton,14208,616-274-4064x2546,Advice worker,8,48.87,1,0,Surburban,1,Web,Discount,0,1.8018284083150908
+Shelby Lopez,6066 Trevor Ridge Suite 391,Howardburgh,69087,806-252-5036,"Therapist, music",10,77.37,1,0,Surburban,0,Phone,Buy One Get One,0,1.298494924548019
+Lindsey Frederick,4729 Jason Squares Suite 193,Bellstad,06669,001-903-341-1767x95847,Careers adviser,4,270.24,1,0,Urban,1,Phone,No Offer,0,1.0425327977292926
+Chloe Fisher,5576 Long Falls Apt. 656,West Ashleyton,87072,8583739605,Medical sales representative,9,228.8,1,0,Surburban,0,Multichannel,Discount,1,1.8067772410475107
+Preston Mooney,515 Lane Overpass,Port Jeanne,90693,(461)443-9018x33937,"Research officer, political party",3,80.18,0,1,Urban,0,Phone,Buy One Get One,0,1.0341785970774853
+Michelle Thompson,4033 Shelby Lodge,Donaldmouth,03204,001-313-753-8106x947,Early years teacher,11,131.76,0,1,Surburban,1,Web,Buy One Get One,1,1.796788378032013
+Jeremy Goodman,832 Michael Throughway Suite 455,Butlerton,56092,865.728.3121x66714,Bookseller,9,162.59,0,1,Urban,0,Phone,Discount,1,1.488604975664932
+Ricardo Brown,338 Ashley Mill,Port Paul,61163,(411)576-9907x586,Medical illustrator,12,87.62,1,0,Urban,1,Phone,Discount,0,0.8605928091782766
+Sandra Rodriguez,087 Justin Rapids,Debbieton,72046,675-354-1911x81350,"Nurse, mental health",3,29.99,1,0,Surburban,0,Phone,Discount,0,0.9482060169466889
+Lisa Gardner,8602 Li Pines,West Kathleenchester,41519,001-442-128-6258,Theme park manager,3,29.99,0,1,Urban,0,Web,Buy One Get One,0,-0.09739614261042373
+Justin Butler,99286 Angela Viaduct,Piercehaven,19752,+1-238-309-5708x5488,Print production planner,7,59.96,1,0,Urban,1,Web,Buy One Get One,0,0.7283689611763455
+Erica Hardy,857 Higgins Parkways,Lake Robertland,32251,257.584.2177,Chief Marketing Officer,7,78.49,0,1,Rural,0,Web,Buy One Get One,0,0.5311785841663548
+Kristen Roberts,6743 Gibson Well Suite 642,Bankshaven,66836,(054)494-9732x30544,Forensic psychologist,2,29.99,0,1,Surburban,0,Phone,Discount,0,0.3728961318071816
+Tamara Hernandez,0553 Ian Way,South Robertshire,95952,941-460-9711x2521,Holiday representative,7,206.8,1,0,Surburban,0,Phone,Buy One Get One,0,0.755276619344815
+James Morris,1177 Luke Fords Suite 866,West Kevin,97370,755.876.6624x33294,Proofreader,7,229.53,1,0,Surburban,0,Web,Discount,1,1.8777889300065382
+Jenna Petersen,57348 Erin Circle Suite 097,Linland,02244,680-393-0062x2708,Product/process development scientist,1,439.93,1,1,Rural,1,Multichannel,No Offer,0,0.9214667934383115
+Brenda Benson,087 Williams Drive Suite 986,Davidshire,34899,001-378-995-9266x5394,"Engineer, maintenance (IT)",10,313.67,1,0,Rural,1,Phone,Buy One Get One,1,2.8321943163543195
+Cynthia Mckenzie,63938 Coleman Vista Suite 800,Thompsontown,61524,(501)450-8842x2737,Marketing executive,7,29.99,1,0,Surburban,1,Web,Buy One Get One,0,0.7618562310885524
+Maria Brewer,2817 Hawkins Parks Suite 903,Port Paulstad,23544,001-134-452-9851x2229,Fast food restaurant manager,3,57.33,0,1,Surburban,0,Web,Buy One Get One,1,1.9033321326687749
+Angela Ramos DDS,8174 Kara Bypass,Cherryberg,61239,(246)581-6595x47710,Museum/gallery curator,2,289.55,0,1,Rural,0,Phone,No Offer,1,1.82612414984879
+Ricardo Ortega,53441 Dennis Plains,Carsonshire,53813,615.533.2899,Forensic scientist,5,29.99,0,1,Surburban,1,Phone,Discount,1,2.3510744203869876
+Mr. Frederick Arroyo Jr.,20414 Erin Causeway Apt. 497,Sullivanberg,69626,001-826-693-6397x01745,Public relations officer,9,274.29,1,0,Surburban,0,Web,No Offer,0,1.0740556326379866
+Audrey Robinson,3089 Robinson Run Suite 785,North Christopher,82595,001-050-232-9792,Quantity surveyor,1,293.37,1,0,Surburban,0,Phone,No Offer,0,1.1301843665135
+Andrea Ramos,519 Austin Trafficway,Jordanport,40972,+1-969-888-1710x85410,Writer,12,29.99,1,0,Urban,1,Phone,No Offer,0,1.7127546928136304
+Benjamin Jones,1330 Duncan Plain,North Victorside,54081,0322218998,Advice worker,1,407.09,1,0,Surburban,0,Web,No Offer,0,1.074716568937101
+Katelyn Moore,804 John Vista,Meganview,37645,001-701-524-8497x9158,Sub,1,142.4,0,1,Surburban,0,Phone,No Offer,0,1.1027761230294197
+William Oliver,8474 Dyer Forks Suite 440,Lake Jacob,35854,(857)148-5756,Tour manager,1,29.99,0,1,Urban,1,Web,Discount,0,0.7710710704325915
+Kristin Reese,332 Sanders Extensions Suite 193,Smithport,85529,001-919-110-8006x69393,Armed forces training and education officer,12,284.54,1,1,Surburban,0,Web,Discount,0,0.7927716040324604
+Tony Weeks,98549 Miller Street Apt. 014,Carolfort,80955,052.248.8522x7471,Make,2,60.2,0,1,Surburban,1,Web,No Offer,0,0.9284211935304256
+Julia Beck,5914 William Glen Apt. 700,Mariafort,90196,617.479.9516x231,"Therapist, occupational",4,1089.77,1,0,Urban,1,Multichannel,Discount,0,1.156197678627441
+Timothy Hall,84391 Gerald Island,New Melissamouth,02428,+1-598-396-6723x72555,Set designer,7,29.99,1,0,Surburban,1,Web,Buy One Get One,0,1.3385708572095858
+Henry White,7620 Isaac Circle,West Alexanderview,00900,2416327626,Energy manager,1,747.31,0,1,Rural,1,Web,Buy One Get One,0,0.3798746082811729
+Alexander Rowland,91412 Anderson Glens Apt. 651,West Christopher,90651,9660043922,Tax inspector,6,136.63,1,0,Urban,1,Web,Buy One Get One,0,1.1795375872233569
+George Montes,84047 Donna View Suite 735,Jasonburgh,75094,+1-284-667-0927x561,Hydrologist,10,29.99,1,0,Rural,1,Web,Buy One Get One,0,0.3489887198268886
+Tanner Frazier,9791 Jacob Trace,Wagnerstad,32951,458.572.6664,"Designer, graphic",11,54.11,1,0,Urban,1,Web,Buy One Get One,0,0.694892547251718
+Alicia Shepherd,01299 Wood Overpass,West Terrihaven,62739,(822)867-7093x7330,"Engineer, structural",1,790.36,1,1,Urban,1,Multichannel,Discount,0,1.3880044944509242
+Todd Sims,111 Lori Canyon Suite 352,North Dariustown,87480,+1-979-344-0038x5599,Commercial art gallery manager,4,36.49,1,0,Urban,1,Web,No Offer,0,0.26332272234806153
+Ariana Black,2217 Joseph Underpass Suite 461,South Andrew,76338,001-399-847-1489x5832,"Conservation officer, historic buildings",12,271.89,1,0,Rural,0,Web,Discount,0,1.4305216544373311
+Trevor Lee,4087 Pearson Mission Suite 748,North Amy,13837,001-698-256-0500x4591,"Engineer, broadcasting (operations)",5,399.46,1,0,Surburban,0,Web,Buy One Get One,0,1.3324326208277562
+Hannah Henderson,0097 Jeremy Row Apt. 114,New Paulmouth,46022,382.951.4553,Social researcher,3,39.83,0,1,Urban,1,Phone,Discount,1,2.3906579979953
+Charles Hernandez,36452 Mullins Rue,Garciachester,29625,089-439-8125x9211,Special effects artist,10,153.58,1,0,Surburban,0,Phone,Buy One Get One,0,0.9426536704238359
+Brian Palmer,22334 Hammond Courts,Andreabury,43880,+1-466-931-9474x6970,Insurance account manager,5,269.99,1,1,Surburban,0,Phone,Discount,0,0.8205019747936254
+Donna Allen,02404 Johnson Prairie Suite 416,New Lindamouth,89823,+1-486-499-6069x877,Chief Executive Officer,2,29.99,1,0,Urban,1,Web,Buy One Get One,0,1.7174621652774618
+Casey Cruz,2858 Elizabeth Hills Apt. 375,Williamsport,64842,(039)479-4519x89155,Tax inspector,4,292.61,1,0,Surburban,0,Multichannel,No Offer,0,0.4172769084283756
+Justin Smith,5539 Holloway Street,Lake Robert,75572,(279)750-8587x618,Academic librarian,2,576.02,0,1,Surburban,1,Web,Buy One Get One,0,1.687111083601967
+Robin Brooks,98717 Wagner View,Michaelport,38659,347.304.2661x1506,Records manager,6,29.99,1,0,Surburban,0,Web,No Offer,0,0.8399503678332185
+Omar Lewis,572 Christopher Parkway,New Brendafurt,02056,001-666-804-4496x7035,"Engineer, water",9,116.3,1,0,Rural,1,Web,Discount,1,1.9374376984662276
+Alexandra Jones,6211 Arnold Curve,West Theresa,82795,772-812-4499,"Psychologist, counselling",5,29.99,1,0,Surburban,0,Web,No Offer,0,0.7091691532651417
+Julie Chandler,101 Lisa Extensions,North Molly,90492,001-806-390-5426x33337,Financial controller,3,29.99,0,1,Urban,1,Web,No Offer,0,0.7698930117581542
+Michael Davis,3198 Mary Port Apt. 986,Collinsside,41431,+1-061-052-6089x4137,Customer service manager,7,968.65,1,1,Surburban,1,Web,Buy One Get One,0,0.8457990467233581
+Mrs. Rebecca Lopez,87652 Melinda Well,East Veronica,95676,(776)231-2722,Chemical engineer,7,39.78,0,1,Surburban,0,Web,Discount,0,0.4648726248673605
+Joshua Meyer,446 Flores Fields Apt. 542,Port Benjaminview,83958,468-183-7151,Medical technical officer,9,311.81,1,0,Urban,0,Multichannel,Buy One Get One,1,2.0423057475286903
+Carlos Moore,671 Deborah Ferry,Andreborough,98750,892-841-7825x6771,Broadcast engineer,1,720.17,1,1,Urban,1,Phone,Discount,0,1.0479250217833431
+Karina Harrison,3430 Julian Dale Apt. 113,Shepardstad,18120,001-370-351-4256x2378,"Chemist, analytical",4,69.08,0,1,Urban,0,Phone,Discount,0,1.3107507981180184
+Robert Bernard,95562 William Crossroad Suite 422,North Erin,37273,+1-337-324-4754x617,Editorial assistant,12,80.56,1,0,Urban,0,Web,Buy One Get One,0,0.8261000742855313
+Jennifer Walters,8719 Christie Rest Apt. 367,Kristabury,67150,001-153-872-0570x23820,Broadcast presenter,1,301.19,1,0,Surburban,1,Web,No Offer,0,0.44934164757752537
+Alexander Cole,7404 Martinez Terrace,Carterland,70435,+1-585-759-9938x439,Astronomer,10,307.64,0,1,Urban,0,Multichannel,Discount,0,0.78322581695185
+Sarah Shields,144 Elizabeth Falls,East Nicholasside,08580,001-401-050-4298x672,Child psychotherapist,7,481.56,1,0,Surburban,0,Web,Discount,0,1.540598711151605
+Katrina Johnson,8853 Charles Hills Apt. 448,Estesshire,41019,271-570-3236,"Journalist, broadcasting",10,29.99,0,1,Surburban,0,Web,No Offer,0,1.1058477697890967
+Dr. Whitney Blackwell,4801 Peters Throughway,Williammouth,32697,+1-131-372-9198x10383,Product manager,1,895.43,0,1,Surburban,1,Web,Buy One Get One,0,1.1537116665228855
+Robert Carpenter,15627 Hampton Manors Apt. 299,Michaelfurt,19811,001-290-594-8137x7748,IT technical support officer,5,425.1,1,0,Rural,1,Phone,Discount,0,0.4917484722931037
+Eric Cross,948 Reynolds Port Apt. 455,Lake John,46663,314.036.5829,Energy manager,10,36.28,1,0,Urban,1,Web,No Offer,0,0.7917580075904451
+Lisa Nash,034 Diana Falls,South Sarahburgh,54124,(333)425-1088x2555,Forensic scientist,4,413.46,0,1,Rural,0,Phone,Buy One Get One,0,0.748251808132068
+Ryan Perez,0708 Le Street Suite 610,Sethland,83232,(238)629-1087x50348,TEFL teacher,7,32.42,1,0,Surburban,0,Phone,No Offer,0,1.6824565883651883
+Kenneth Nelson,2976 Castro Highway Suite 674,New Crystal,22098,225.734.5346x1356,Chiropodist,10,170.32,1,0,Urban,1,Phone,Buy One Get One,0,0.9998766678540852
+Gail Lee,5466 Erica Spur Apt. 113,West Mark,93480,(486)544-6244,Phytotherapist,1,150.93,1,0,Surburban,0,Web,No Offer,0,1.8635092578493853
+Sean Valdez,668 Kenneth Isle Apt. 908,Jackville,68023,(508)380-4335,"Radiographer, diagnostic",11,223.39,1,0,Rural,1,Phone,Buy One Get One,0,0.8458527019229574
+Mary Griffith,1236 Kimberly Roads Apt. 275,Gibsonborough,34948,975-863-9214,Public relations account executive,1,506.51,1,0,Urban,1,Multichannel,No Offer,0,0.26634791550189885
+Lauren Pope MD,8772 Brian Brook,Port Juanberg,91871,001-698-019-3282x30661,Insurance account manager,8,575.62,1,1,Urban,1,Multichannel,Discount,0,1.6450205326464404
+Caitlyn Patterson,002 Justin Land,Williamschester,82996,(746)863-5514x01636,"Designer, multimedia",3,29.99,0,1,Surburban,0,Web,Buy One Get One,1,1.79007181144732
+Jerry Holt,62582 Jenkins Creek Suite 384,Derrickshire,29985,681.695.7349,Armed forces technical officer,2,145.76,0,1,Surburban,1,Web,No Offer,1,1.9926319821804181
+Joshua Gray,6863 Ashley Prairie Apt. 217,Alexisborough,36898,(564)575-8565x52975,Energy manager,1,29.99,1,0,Rural,1,Phone,Buy One Get One,0,0.4809769368273621
+Victor Howell,31788 James Corners Suite 033,Lake Miranda,16250,756-025-3497x674,"Geologist, engineering",8,428.0,1,0,Surburban,1,Multichannel,No Offer,0,1.1685019992931818
+Deborah Jenkins,17974 White Mountains Apt. 924,Jamesfurt,90922,947.335.3569x423,Theatre manager,6,604.39,1,1,Urban,1,Phone,No Offer,0,1.3868932539034828
+Linda Francis,33067 Krystal Prairie Apt. 751,Lake Olivia,90044,854-951-1056x7211,Building control surveyor,8,171.88,1,0,Surburban,0,Phone,No Offer,0,1.745519014395324
+Lynn Walker,75344 Kristen Turnpike Apt. 128,Johnsonmouth,01923,001-275-395-8029x781,Minerals surveyor,4,370.86,0,1,Surburban,0,Multichannel,Buy One Get One,0,1.3351895754891627
+Steven Davis,58056 Kimberly Cape Suite 703,New Jeremy,06691,(764)833-7940,Financial manager,8,138.62,0,1,Urban,1,Web,Buy One Get One,0,0.9535805653965208
+Johnny Kent,0794 Campbell Grove,Matthewshire,83148,373-929-6402x42593,Educational psychologist,7,29.99,1,0,Surburban,1,Web,Discount,0,0.7225032998518786
+Paul Bailey,667 Vaughn Parkway,West Erica,05684,8215227742,Probation officer,1,209.98,1,0,Surburban,0,Web,No Offer,1,2.154473802713329
+Susan Jensen,66390 Franco River,Michelleport,43769,001-963-444-7607x330,"Scientist, physiological",3,166.0,0,1,Urban,0,Web,No Offer,0,1.7800990775829666
+Jeffrey Wilcox,6644 Patricia Gardens Suite 774,Port Susan,49580,001-742-561-9714x7892,Claims inspector/assessor,10,88.37,0,1,Urban,0,Phone,Buy One Get One,1,1.8068231996591488
+David Small,7379 James Port Suite 143,Joanneshire,96204,001-120-039-0618x14536,Furniture designer,8,336.76,0,1,Surburban,0,Phone,Discount,0,1.3212758794923198
+Charles Ortega,63755 Reynolds Summit,South Charleneland,56555,039-252-1290,Firefighter,1,60.71,0,1,Rural,1,Phone,Buy One Get One,0,0.9347800529124646
+Jacqueline Patrick,82564 Bradley Course,Port Dawn,57806,(915)022-7933x0159,Health and safety adviser,4,356.73,0,1,Surburban,0,Web,No Offer,0,1.8843376428069096
+Stephen Hall,906 Curtis Walks Suite 775,Robinsonfurt,77911,7079051409,Mining engineer,4,52.12,1,0,Urban,0,Phone,Discount,0,1.074101980190523
+Jonathan Moore,297 Anderson Mountain,East Edwardside,62375,(569)692-8690,Sports administrator,7,406.7,0,1,Surburban,1,Phone,Discount,0,0.7762141627417951
+Stephanie Martin,435 Simon Village Apt. 525,Nelsonberg,08177,(855)107-5748,"Therapist, speech and language",6,277.81,1,0,Surburban,1,Multichannel,No Offer,0,1.153862138127721
+Crystal Johnson,66140 Jonathan Junctions,Kimview,92638,(882)996-4613x180,Local government officer,1,181.98,0,1,Urban,1,Web,Discount,0,0.7993369452129264
+Thomas Lopez,1754 Gillespie Inlet,Amyland,26959,001-638-962-6675x13631,Patent attorney,2,112.13,1,0,Urban,1,Web,Buy One Get One,0,1.2389138938838489
+Justin Thomas,8969 Dawn Hills Apt. 288,South Gerald,32136,001-732-615-5431,Food technologist,5,29.99,0,1,Rural,1,Web,No Offer,0,1.0306721908285064
+Louis Anderson,0854 Smith Lodge,Lambertstad,69505,(549)908-7194,"Engineer, electronics",5,439.26,1,0,Surburban,0,Multichannel,Buy One Get One,0,0.5997742621665023
+James Johnson,3805 Jackson Forge Suite 759,Julieside,95153,(238)247-7249x6232,"Copywriter, advertising",8,64.16,0,1,Surburban,0,Web,Buy One Get One,0,1.0008364439926138
+Amanda Anderson,29045 James Shoals Apt. 266,South Whitneytown,20237,001-739-498-7375x6227,Personal assistant,5,29.99,0,1,Surburban,0,Web,No Offer,1,1.489366074089197
+Justin Miller,88930 Anna Squares Suite 543,Nathanielton,25706,985-991-4836,Furniture conservator/restorer,6,29.99,0,1,Urban,1,Web,Discount,0,1.7091515896480174
+Austin Smith,0294 Marilyn Garden,New Ralphview,93827,386-375-1287,Production manager,2,591.95,0,1,Urban,1,Multichannel,Buy One Get One,0,0.5774808541890204
+Leah Ellis,8319 Robbins Light,Ianfort,71291,(071)378-5969x589,Research scientist (maths),8,130.31,1,0,Surburban,1,Phone,No Offer,0,1.089998415449119
+Thomas Valentine,19029 Carol Lodge Apt. 575,Greenfort,38631,+1-104-506-6060x847,Soil scientist,3,65.26,1,0,Urban,0,Web,Discount,1,1.5408418729278677
+Robert Meyers,70993 Burnett Shore Suite 250,New Debbieberg,52957,772.990.9313x680,Chartered loss adjuster,10,132.46,1,0,Urban,0,Phone,Buy One Get One,0,0.4793015802661028
+Craig Navarro,9807 Frank Villages Suite 543,Lake Roberttown,67913,991-788-8864x5085,"Designer, exhibition/display",4,225.89,1,1,Rural,1,Web,Buy One Get One,0,0.9940236388586391
+Laurie Lopez,38332 Castaneda Station,New Dustin,55818,040.646.6073,Administrator,2,115.56,0,1,Surburban,1,Web,No Offer,0,1.0466728197968842
+Christina Lawson,273 Amber Corners,New Leslie,56195,634-543-7924,"Engineer, manufacturing systems",8,104.94,0,1,Urban,0,Phone,No Offer,0,1.0530321074910978
+Jeffrey Campos,83670 Taylor Lights Apt. 571,West Annetteside,39139,001-627-585-3631x95604,Hotel manager,7,69.44,1,0,Rural,0,Web,Discount,1,1.700010152806592
+Theresa Miller,7963 Jeremy Village Apt. 655,Smithmouth,57853,845-068-4497,Art therapist,10,47.47,0,1,Surburban,0,Phone,Buy One Get One,0,1.042366365797476
+Ashlee Bell,82181 Sharon Heights Suite 764,Williamshire,92798,001-684-678-5356x6217,"Producer, television/film/video",1,215.08,0,1,Surburban,0,Web,Buy One Get One,1,2.1151260291862695
+Seth Peterson,364 Peter Summit,Mackenzieside,10081,710.801.6668x21910,Scientific laboratory technician,2,224.89,1,1,Urban,0,Multichannel,No Offer,0,1.366206196859354
+Jason Johnson,28058 Shah Stravenue,South Rebeccaburgh,56552,325.712.0502,"Research officer, trade union",9,201.75,1,1,Surburban,0,Phone,Buy One Get One,0,0.7444878033465516
+Ashley Harris,21843 Emily Terrace,Steventon,04883,001-552-319-2593x6692,Emergency planning/management officer,5,354.03,1,0,Urban,0,Web,Discount,0,0.38207698695064873
+Michael Romero,944 Reed Trafficway Apt. 524,Mooreshire,41007,(850)271-6296x87402,Catering manager,10,151.43,1,0,Urban,0,Web,No Offer,0,1.221881703319827
+Karen Mcdonald,64552 Krause Ford Suite 511,Port Dawnton,53620,001-796-270-6294x7836,"Secretary, company",11,120.14,1,0,Urban,0,Web,Discount,0,0.6644691636173307
+Stanley Fischer,3260 Sims Shore Suite 858,Williamsmouth,89854,001-988-869-8882x1179,Catering manager,5,159.41,0,1,Surburban,1,Phone,Buy One Get One,1,1.9529680789084596
+Matthew Green,0662 Breanna Key,New Kristinland,33042,(354)683-7881,Special educational needs teacher,5,290.86,1,0,Urban,1,Web,No Offer,0,1.3842633083521767
+Mr. Carlos Cabrera,51332 Vanessa Path Apt. 528,East Stacey,59221,062-045-2942,Occupational therapist,4,87.2,0,1,Surburban,1,Phone,Buy One Get One,1,2.211290140449332
+Ashley Robinson,28627 Miguel Shores,Lisaport,95855,(745)609-7663,Animator,11,81.06,1,0,Urban,0,Web,Discount,0,1.2503140112941256
+James Rose,1385 Patel Passage,Underwoodland,47263,169-322-5564x58529,Toxicologist,10,55.11,1,0,Urban,1,Web,Discount,0,0.9731185827105383
+Grant Powell,64193 Daniel Extension,Lake Kaitlin,95013,353-964-4513x5916,"Pharmacist, hospital",1,513.83,0,1,Surburban,1,Multichannel,Discount,0,1.4338327553021837
+David Conner,329 Whitaker Flat Apt. 987,West Christopherview,84695,001-090-134-0261,Health and safety adviser,4,770.38,0,1,Rural,1,Multichannel,No Offer,0,0.8546072671881195
+Sabrina Romero,149 Tanya Mission,Rodriguezmouth,35750,+1-774-967-5192x71356,Art therapist,1,33.5,1,0,Surburban,0,Web,Discount,0,1.2137906013135562
+Terri Williams,60104 Cook Throughway Suite 569,Lake Vanessastad,76990,(495)111-7028x0497,Chiropodist,2,56.25,1,0,Surburban,1,Phone,Discount,0,0.7414605617974941
+Ronald Wilcox,107 Jenny Lock Suite 111,Amychester,49021,009.497.7461,Physiological scientist,2,1093.92,1,1,Surburban,1,Web,No Offer,0,1.0387591187388303
+Austin Oliver,778 Harrison Ramp Suite 922,North Jillian,91704,(166)225-4553x07144,"Education officer, museum",1,752.8,1,1,Urban,1,Phone,No Offer,0,0.8292492865078196
+Michael Smith,84455 Andre Circle Suite 872,Port Cassandraton,14087,7574445259,Corporate treasurer,2,199.95,1,0,Surburban,1,Phone,No Offer,0,1.5826354349632705
+Kevin Torres,0102 Scott Radial Suite 296,South Ashley,32014,(398)359-3085,Aid worker,9,239.91,0,1,Rural,0,Phone,No Offer,0,0.7546686144578026
+Seth Gonzalez,1750 Nicole Lights,Jonesland,03829,370-672-6137,Commercial art gallery manager,8,43.16,0,1,Urban,1,Phone,No Offer,0,1.4936110382921841
+Sarah Brown,14910 Diana Streets Apt. 385,South Lisa,42612,(368)753-1238,"Designer, exhibition/display",2,418.81,0,1,Surburban,0,Multichannel,No Offer,0,0.6830001179426246
+Dustin Foster,659 David Glen Suite 871,Michaelfurt,50557,(539)533-6391x9366,"Production assistant, radio",9,318.52,0,1,Urban,0,Web,Buy One Get One,0,1.1309860169997992
+Riley Reyes,619 Walsh Junction Suite 269,Romeroton,66572,4776898268,"Therapist, art",1,109.26,0,1,Surburban,1,Web,Buy One Get One,1,1.4920975477427358
+Anna Foley,32315 Silva Meadow,East Vickie,93123,+1-527-641-1601,Early years teacher,3,67.4,1,0,Surburban,0,Web,Discount,0,1.1760401919421695
+Holly Shea,47867 Rodriguez Pines,Pruitthaven,32259,001-224-926-8159x803,"Therapist, drama",9,135.02,1,0,Surburban,1,Web,Buy One Get One,0,1.4936065541550834
+Scott Garcia,69461 Gomez Parkway Apt. 467,Gonzalezview,77179,+1-125-125-8536,Research scientist (maths),10,54.25,0,1,Surburban,0,Web,Discount,0,0.9312496095430504
+Michael Lee,181 Martinez Shores,Tamarahaven,41709,793.730.0666x025,Adult guidance worker,3,55.34,1,0,Surburban,1,Phone,Buy One Get One,0,1.4178422105184232
+Jared Ortiz,882 David Route,Lake Timothy,08270,529.162.6801,Estate manager/land agent,4,297.8,1,1,Urban,0,Phone,Buy One Get One,1,1.2476740448398025
+Ryan Kane,116 Burns Street,North Michaelside,63243,001-825-689-3648x9562,Systems analyst,4,146.49,0,1,Surburban,0,Phone,Buy One Get One,0,0.6850820872349823
+Michelle Bird,717 Kenneth Ramp,Andersonport,45449,015.505.3941x1031,Health and safety inspector,7,329.26,0,1,Urban,0,Web,Discount,0,1.4009685085976464
+David Wyatt,313 Donna Fall,North Wesley,72712,587.547.9686,"Psychologist, educational",1,29.99,1,0,Rural,1,Phone,Discount,0,0.9782468563414325
+Thomas Green,5201 Curtis Valleys Suite 979,Port Rhondaburgh,51102,1266509203,Public librarian,4,249.61,0,1,Urban,1,Phone,Buy One Get One,0,0.7090763925902767
+Joann Walker,393 Murray Branch Apt. 923,Brownton,03535,(223)259-2280,Stage manager,5,39.52,1,0,Surburban,1,Phone,Discount,0,1.7970417003357624
+Michael Davenport,60762 Sanchez Canyon,Bakerton,69659,001-095-707-9578x704,Chartered loss adjuster,1,307.58,1,0,Surburban,0,Multichannel,No Offer,0,1.1991514156692453
+Melanie Bowers,782 Mejia Mission,New Austinmouth,50428,902.676.4658,Research scientist (maths),6,92.32,0,1,Urban,0,Phone,Discount,0,0.9579904524116873
+Connie Hill,351 Veronica Port,Kristenstad,64911,507-013-8841x312,Clinical molecular geneticist,6,464.17,0,1,Surburban,0,Multichannel,Buy One Get One,0,1.435201526588015
+Gary Christian,981 Brittany Trail,Juliechester,23378,070-257-0713,"Teacher, special educational needs",6,29.99,1,0,Surburban,1,Web,Buy One Get One,0,0.4460897021679291
+Jaime Sandoval,10447 Renee Village,West Amber,22427,008-130-7017,English as a foreign language teacher,2,435.33,0,1,Surburban,0,Web,Buy One Get One,0,0.8736157260681833
+Jordan Williams,44660 Lucas Cape Suite 544,South Sarahhaven,27376,001-665-651-6806x971,Field seismologist,10,375.9,0,1,Urban,0,Web,Discount,0,1.5496125410604749
+Monica Hughes,343 Cheryl Lakes Apt. 453,Sharonborough,90209,+1-598-414-2548,Contracting civil engineer,9,29.99,1,0,Urban,0,Web,Discount,0,0.9439427917152386
+Tammy Becker,542 Peck Island Apt. 565,New Jennaville,53610,6590789963,Government social research officer,9,220.51,1,0,Urban,0,Multichannel,Discount,0,0.6853676911363582
+Megan Martin,998 Nguyen Wells,Christianfurt,73602,935.047.8391,Quality manager,5,180.28,0,1,Surburban,0,Phone,Buy One Get One,0,0.7974812450147092
+Melissa Carter,395 Jennifer Summit Apt. 578,New Kelly,96900,001-367-805-5608x477,"Journalist, broadcasting",6,78.69,0,1,Surburban,0,Phone,Discount,0,1.6651104898819695
+Elizabeth Webb,7279 White Track,Simonborough,27677,+1-070-763-0428x236,Database administrator,2,350.48,1,0,Urban,1,Web,Buy One Get One,0,0.8095481164925109
+Jillian Mcguire,1527 Odonnell Mall Apt. 675,Whiteville,18073,4844774882,Printmaker,3,376.14,1,0,Surburban,0,Phone,No Offer,0,1.6692203246952273
+Kelly Ross,953 Wright Grove Apt. 397,Edwardschester,53666,001-851-946-7090,Town planner,1,179.63,1,0,Surburban,0,Phone,Discount,1,1.4188603354163343
+Juan Mcknight,2026 Wagner Hills Suite 848,Gregorymouth,97592,875-665-1955x37089,Airline pilot,6,164.51,1,0,Surburban,0,Phone,Buy One Get One,1,1.5037952380260484
+Briana Zimmerman,94344 Kenneth Walks Apt. 415,South William,63406,001-469-953-6119x4171,Clinical molecular geneticist,8,59.76,0,1,Urban,1,Web,Discount,0,1.3172878401110175
+Hailey Mcgrath,73353 Brown Wells Apt. 276,Michaelburgh,60074,+1-516-671-6848x3546,Haematologist,11,29.99,0,1,Surburban,0,Web,Buy One Get One,0,1.5426037801286085
+Kristin Sanchez,930 Philip Crest Apt. 556,Smithport,57577,001-411-744-0860,"Embryologist, clinical",2,407.64,0,1,Urban,1,Web,Buy One Get One,0,1.184848093178573
+Cynthia Andrews,2413 James Stream Suite 454,Andersonton,18719,(878)696-3753x32143,TEFL teacher,1,143.0,0,1,Urban,0,Phone,Buy One Get One,0,0.6797913177247584
+Robert Wheeler,6109 Brendan Corner,South Jacobview,26502,698-395-3946x8569,Psychiatric nurse,4,320.17,0,1,Urban,1,Phone,Discount,0,1.6883231412670447
+Jon Klein,236 Joseph Camp Suite 358,Ronaldchester,83682,255.400.0392x0955,Ophthalmologist,1,103.07,1,0,Surburban,0,Web,Discount,0,1.2861738675044705
+Tony Morse,17639 Weber Crescent,New Kelly,38728,001-723-489-9044x72812,IT trainer,10,35.84,1,0,Urban,1,Phone,No Offer,0,0.7656142120207023
+Teresa Santos,0805 Keith Knoll Apt. 895,East Carlosport,15871,(994)217-0706x1020,"Engineer, communications",3,190.66,0,1,Surburban,1,Web,Buy One Get One,0,0.9489273812255531
+Ian Martinez,4131 Mann Well Apt. 669,East Rachael,39064,001-326-837-2134x8826,"Psychologist, educational",2,90.91,1,0,Surburban,0,Web,Discount,0,1.182869858220834
+Harold Jones,834 Lucas Village,Amyfort,83870,773.287.1828x473,Publishing rights manager,5,215.03,0,1,Urban,1,Web,No Offer,0,0.9803874647796245
+Michael Martin,9548 King Harbor Suite 862,Debraside,13510,096-965-2962,Probation officer,1,856.4,0,1,Urban,1,Web,No Offer,0,1.5064958417240073
+Amy Nguyen,343 Melanie Points,New Christopher,89016,0809164476,Sports administrator,10,139.83,1,0,Urban,1,Phone,Discount,0,0.6322348770006037
+Barry Rodgers,8211 Mcfarland Port,Johnberg,81125,(843)624-9712x06125,Logistics and distribution manager,10,245.09,1,0,Urban,0,Multichannel,No Offer,0,0.6617566683850326
+Cynthia Moore,480 Anderson Mountain Apt. 882,South Brandon,17344,(191)924-3301x158,Radiation protection practitioner,6,127.2,0,1,Surburban,0,Phone,No Offer,0,1.3460076202418072
+Robert Bird,55479 Tammy View Suite 834,Stuarttown,25223,206-946-8515x4812,Insurance risk surveyor,1,470.65,1,0,Urban,0,Phone,Discount,0,1.3585352007014766
+Rachel Smith,2028 Patrick Circle Apt. 433,New Rachel,29138,423.849.9779x418,Glass blower/designer,1,59.13,1,0,Urban,1,Web,Discount,0,0.8824457479908735
+Matthew Matthews,358 Edward Corners,East Brittanyview,99358,158-406-2406x159,"Scientist, research (medical)",3,327.1,1,0,Surburban,1,Web,No Offer,0,0.7568856476890843
+Brian Henderson,89713 Turner Land Suite 073,Kathleenmouth,50747,1345685110,Clinical psychologist,1,399.72,1,1,Surburban,0,Phone,Discount,1,3.0961720981065017
+Tiffany Mckay,07326 Katherine Lane Apt. 155,North Brent,16626,001-268-167-1053x34913,Charity officer,3,29.99,1,0,Urban,0,Phone,No Offer,0,0.706918116959682
+Mark Garrison,41493 Levy Circle Apt. 301,North Rodney,57032,(170)711-1536x8586,"Embryologist, clinical",6,398.03,1,1,Surburban,0,Phone,No Offer,0,1.1813795852408544
+Francisco Douglas,1173 Bean Plaza,New Margaret,74808,558.204.4784x05251,Trade mark attorney,4,134.24,0,1,Urban,0,Web,Discount,1,1.6281758703257807
+Katie Martin PhD,6897 Harris Groves Suite 924,Lake Joshuaberg,26199,6984654252,Claims inspector/assessor,10,290.55,0,1,Surburban,0,Web,Discount,0,1.0709447562368162
+David Lee,555 Francisco Forest,Victorview,72854,7065084811,Landscape architect,7,29.99,1,0,Surburban,0,Web,No Offer,0,1.1382047659984542
+Tracy Mullins,824 John Greens,New Karen,14861,367-873-4921x561,Database administrator,4,87.69,1,0,Surburban,0,Web,Discount,0,0.22576299250623333
+Rachel Randall,5815 Robin Summit Apt. 543,Lake Melissaborough,85815,(870)983-8460,Hydrologist,10,335.77,0,1,Rural,0,Multichannel,Buy One Get One,0,1.1000093088080058
+Kelly Washington,9352 Cynthia Roads Apt. 804,Port Josephville,80529,+1-869-301-0105x5384,"Engineer, control and instrumentation",12,465.37,0,1,Rural,1,Multichannel,No Offer,0,1.2194864424572316
+Natalie Schroeder,49497 Horton Common Suite 970,South Duane,45212,001-440-522-1185x02111,Civil Service fast streamer,12,75.26,1,0,Urban,1,Phone,Buy One Get One,0,0.7049688175341453
+Eugene Chang,3697 Townsend Gardens Suite 019,West Kimberlyland,93852,186-649-9750,"Journalist, magazine",10,327.18,0,1,Urban,0,Phone,Buy One Get One,0,1.1850730152164062
+Robert Davis,4305 Ray Street,Lake Russelltown,31572,001-000-349-6733,"Horticulturist, amenity",1,188.89,0,1,Surburban,1,Web,No Offer,0,1.2763589290452415
+Joshua Kelley,4210 Jacob Plain Apt. 589,West Jessica,02324,+1-670-014-2532,Fine artist,4,49.8,1,0,Urban,1,Web,Discount,0,1.3651175489210023
+Joel Lopez,17222 Nelson Burgs,East Andreatown,03102,6962487159,Sports coach,7,688.51,1,1,Rural,1,Multichannel,Buy One Get One,0,1.1764353664249403
+Jonathan Reynolds,36248 Larry Lodge,Lake Jennifermouth,66209,(004)456-4882x24088,Legal executive,3,229.42,0,1,Rural,0,Multichannel,No Offer,0,1.4332207379151511
+Laura Mitchell,43651 Michael Bypass,Lake Amanda,22360,5346220921,General practice doctor,1,253.18,0,1,Surburban,0,Multichannel,Discount,0,0.9090187972562548
+Beth Gonzales,522 Nicole Land Apt. 428,New Taramouth,36306,001-224-869-3386,"Surveyor, rural practice",2,156.4,0,1,Surburban,0,Web,Discount,0,1.0863011415531358
+Nicholas Ford,3414 Caroline Forest,North Emilymouth,45116,(549)488-5743,Professor Emeritus,2,196.93,0,1,Rural,1,Web,Buy One Get One,0,0.813717351463813
+Christian Holmes,93537 Moreno Lock,North Roger,72261,+1-237-466-8051x3141,Charity officer,4,557.47,1,0,Urban,1,Web,No Offer,0,1.1090122826310858
+William Adkins,8648 Kirk Lodge Apt. 404,North Rachael,31382,+1-427-303-8509x071,Industrial buyer,12,177.66,1,0,Surburban,0,Phone,Buy One Get One,1,2.7008628155895185
+Louis Long,13595 Cervantes River Apt. 715,West Jameshaven,71979,+1-914-640-8693,"Horticulturist, commercial",9,29.99,0,1,Surburban,0,Phone,Buy One Get One,0,0.695114722004653
+Katelyn Arnold,82437 Sean Flats Suite 199,Sarahshire,55018,(114)258-6024x3666,Ship broker,11,140.07,0,1,Urban,1,Web,Discount,0,0.3687324123021479
+Nancy Pearson,13320 Brendan Mews Apt. 954,Freemanville,50453,001-118-201-4922,Data processing manager,10,168.04,1,0,Urban,0,Web,No Offer,0,1.197998742560167
+Kelsey Smith,510 Rogers Glen Suite 133,East Christinemouth,86174,+1-344-255-3098x5231,Illustrator,5,173.65,1,0,Urban,0,Web,Buy One Get One,0,1.2848432219571877
+Mitchell Skinner,903 Bruce Isle,Jasonport,96247,930-589-6331,Marine scientist,4,164.7,1,0,Surburban,0,Phone,No Offer,0,0.5715302043783699
+Jessica Brown DVM,2184 Scott Glen,Vargasbury,33009,568-323-5779x819,Building control surveyor,2,57.53,1,0,Urban,1,Phone,No Offer,0,1.4868498080542465
+Dennis Gonzalez DDS,31969 Lisa Courts Suite 481,Port Nicoleberg,63354,(068)448-9472,Publishing rights manager,10,29.99,1,0,Urban,0,Web,Buy One Get One,0,1.051964635284391
+Nichole Matthews,79151 Mcgrath Plain Suite 500,Lake Makayla,13086,(082)705-2533x8622,"Teacher, music",3,188.19,1,0,Urban,0,Phone,Discount,1,2.0416210889046655
+Courtney Castillo,33950 William Mount Apt. 224,North Jennifer,96250,688.446.9092x076,Tax inspector,10,29.99,0,1,Surburban,0,Web,No Offer,1,2.7393082057764673
+Yvette Johnson,9177 Miller Walk Apt. 159,Lake Shane,29126,001-124-910-8915,Personnel officer,1,35.23,1,0,Urban,1,Phone,Discount,0,0.5207178247326189
+Tammy Dean,152 Lisa Forges,Mcneilborough,83814,0913924906,Mental health nurse,4,63.22,1,0,Surburban,0,Web,Buy One Get One,0,1.265749752436416
+Paul Graham,14865 Cook Field Apt. 089,Wellsshire,68734,(389)332-9157x150,Audiological scientist,4,550.59,1,0,Surburban,1,Web,No Offer,0,1.3956449260299708
+Amanda Brown,0157 Merritt Branch Apt. 262,Trujillohaven,55380,+1-366-224-1196x951,"Librarian, public",6,232.94,1,0,Surburban,1,Multichannel,Discount,0,0.87903899203349
+Kathy Callahan,615 Hess Freeway,West Cody,81334,177.757.4471x1035,"Exhibitions officer, museum/gallery",11,91.23,1,0,Urban,0,Web,Buy One Get One,0,1.2254065209131506
+Melissa Watson,5384 Long Island Apt. 983,Griffinton,98740,233-361-8402,Chartered management accountant,2,571.53,1,0,Rural,1,Multichannel,Buy One Get One,0,1.0189503183636335
+Jaime Hill,041 Leon Avenue,Walshhaven,25834,+1-637-662-5629x250,Careers adviser,1,169.31,0,1,Rural,1,Web,Buy One Get One,0,0.8349398800826234
+Nicole Miller,779 Tanner Grove Apt. 966,West Jacqueline,37011,(655)567-4212,Diplomatic Services operational officer,10,205.88,1,0,Urban,0,Phone,No Offer,0,0.4926027062831675
+Troy Perez,77627 Chelsea Island Suite 576,Mistyborough,54706,+1-664-056-1204,Building services engineer,1,1281.48,1,0,Urban,1,Phone,Discount,0,1.343191486957615
+Shari Alvarez,8514 Brown Village Suite 430,North Mia,63207,359-657-6475,Higher education careers adviser,3,29.99,1,0,Urban,0,Web,No Offer,1,2.6382083663215914
+Jose Ibarra,57720 Macdonald Springs Apt. 131,West Clarencefort,88489,+1-658-917-5457,Best boy,3,542.16,1,0,Urban,1,Phone,Discount,1,2.335613834708635
+Michael Li,61898 Amber Prairie,Lake Ericborough,14329,001-579-290-0067x141,Corporate treasurer,7,424.6,0,1,Surburban,1,Phone,Buy One Get One,0,1.9069048433874318
+Brittany Forbes,89213 Traci Brooks Suite 899,North Christophertown,71385,(860)440-4266x630,IT trainer,6,507.25,0,1,Urban,1,Phone,Discount,0,1.3840633702289753
+Karen Lee,116 Brian Islands,West Kathrynview,73834,001.576.7160x8450,Water quality scientist,10,29.99,1,0,Rural,0,Web,Discount,0,0.8268092080216768
+Megan Ortega,69773 Jason Terrace Apt. 430,Kayleeside,00601,(057)468-6470x68409,Data scientist,2,373.14,0,1,Urban,0,Multichannel,Buy One Get One,1,1.999655280182855
+Jesse Ramsey,2801 Adams Creek,Marieberg,95618,175.528.2619x151,"Exhibitions officer, museum/gallery",7,60.02,1,0,Surburban,1,Phone,Discount,0,1.1038185895117607
+Nathan Marsh,55528 Jacob Circle,Tiffanyshire,93940,+1-294-826-9244x8600,"Clinical scientist, histocompatibility and immunogenetics",1,68.5,0,1,Urban,0,Phone,No Offer,0,0.5774371673354481
+Julie Mcgee,37494 Paige Ford Apt. 997,Riggsfort,47676,(553)258-5858,Health physicist,11,37.45,0,1,Urban,0,Phone,No Offer,0,0.23310897189846613
+Jordan Carter,181 Virginia Motorway Suite 274,Timothyside,72374,001-377-385-2612x16976,Orthoptist,2,38.34,1,0,Urban,0,Web,Buy One Get One,0,1.7003804158931373
+Shelly Scott,8503 Melissa Trace,Stewartstad,10677,+1-343-077-1635x147,Cartographer,5,545.73,1,0,Surburban,1,Multichannel,Buy One Get One,0,0.9894416757584313
+Rebecca Rodriguez,95607 Aguilar Estates,Yangland,03758,(294)627-3239x4676,"Surveyor, planning and development",4,70.39,0,1,Surburban,1,Web,No Offer,0,1.3229180271312773
+Eric Hart,271 Phillips Shores Apt. 295,Stoutfurt,91890,6047131589,Production engineer,6,98.8,0,1,Rural,1,Phone,Discount,1,2.1023358733628843
+Amy Barnett,0517 Morgan Light,Cameronstad,22175,001-709-014-6687,Television floor manager,9,29.99,1,0,Urban,0,Web,Buy One Get One,0,1.2494351011207057
+Melissa Hernandez,978 Flores Centers,West George,22241,4422628017,"Scientist, clinical (histocompatibility and immunogenetics)",5,556.5,0,1,Rural,1,Web,Discount,0,1.1784358321706399
+Richard Guzman,34387 Matthews Isle Suite 972,Lake Sharonchester,12771,310.589.7307x4316,Product manager,4,29.99,1,0,Urban,0,Phone,Buy One Get One,0,0.5423168452599163
+Courtney Nguyen,68558 Levine Corners Suite 463,Christopherview,58308,771.356.3359x71166,Insurance broker,6,136.26,0,1,Rural,1,Web,No Offer,0,0.5337857932506187
+Stephanie Hernandez,65377 John Mountain,North Dennis,71749,538-282-4159,Electronics engineer,2,936.63,1,0,Urban,1,Phone,Buy One Get One,0,1.2097609025390694
+Kenneth Levine,8876 King Green,Hudsonport,33285,436.498.3131,Air cabin crew,9,172.14,0,1,Urban,0,Phone,Discount,0,0.6810027099621782
+Stephanie Warner,056 Diana Point Suite 151,Stanleymouth,25622,001-272-497-9330x97117,Clothing/textile technologist,2,203.52,1,1,Urban,1,Multichannel,No Offer,1,2.7537336814321103
+James Galloway,32134 Page Pine Apt. 014,Adammouth,82926,+1-674-850-1572,Warden/ranger,1,422.81,0,1,Urban,0,Phone,Buy One Get One,1,1.3935952251938728
+William Ross,60228 Jacob Circle Apt. 826,Port Aaronburgh,56505,(608)285-0673x97122,Commercial/residential surveyor,10,320.11,0,1,Rural,0,Web,No Offer,0,0.9492066590056953
+John Henderson,99478 Matthew Hollow Suite 222,Port Kellyborough,52089,625-840-8222x938,Education administrator,12,29.99,0,1,Surburban,0,Phone,Buy One Get One,0,0.7995960201680137
+Kenneth Johnson,409 Reese Meadows,Lake Joseborough,84772,+1-356-729-2066x297,Electronics engineer,8,267.25,0,1,Surburban,0,Phone,Discount,0,0.9116414946036441
+Jeffrey Joseph,414 Stewart Fork,Sabrinaton,90483,863-712-6367x1582,Games developer,11,164.9,0,1,Surburban,0,Phone,Buy One Get One,0,0.9602293786127738
+Christopher Martinez,98796 Arnold Mall,Glennborough,87193,003-725-9960,Community education officer,11,265.39,0,1,Surburban,0,Multichannel,Buy One Get One,0,0.9103314754441483
+Maria Livingston,30346 Hernandez Villages Suite 649,Ortizburgh,57524,+1-741-932-8166x994,Special educational needs teacher,9,744.22,1,0,Rural,1,Web,No Offer,0,0.9212086547666114
+Anna Allen,25203 Erica Springs,Stewartview,63030,348.537.1395x377,Call centre manager,3,99.25,1,0,Surburban,1,Phone,No Offer,0,1.2867524809426754
+Amy Murray,82306 Tracy Islands,Lake Brittany,31776,420-644-6742x7465,Contracting civil engineer,5,62.49,1,0,Rural,0,Web,No Offer,0,1.5228498088037323
+Margaret Webb,42800 Deborah Square,Heatherfort,79065,712-184-7449x649,"Journalist, newspaper",4,72.66,0,1,Surburban,1,Phone,Discount,0,0.9979834262846835
+Derek Jones,78950 Mark Greens,Lake Douglas,07372,(703)059-5727,Diagnostic radiographer,10,333.65,0,1,Surburban,0,Web,No Offer,0,1.2440144314294843
+Maria Farley,025 Reed River,Johnsonhaven,92122,(595)907-4081,Sports administrator,7,340.18,0,1,Urban,0,Phone,No Offer,0,1.3988541852298286
+Timothy Parker,552 Espinoza Row Suite 000,Port Alexander,06563,156-800-5634x1140,"Engineer, control and instrumentation",4,300.58,0,1,Surburban,1,Web,Buy One Get One,0,0.577262145008423
+Melissa Flores,0287 Melendez Forks,Dylanview,18954,750.884.0190x83383,"Therapist, music",10,62.63,0,1,Surburban,1,Phone,Discount,0,1.0868916069608554
+Christine Love,3338 Karen Lodge,Amandaview,56695,001-691-426-0236x114,Planning and development surveyor,10,357.28,0,1,Surburban,0,Web,Buy One Get One,0,0.4504841531905771
+Brett Hughes,7001 Bobby Loop,Port Kaitlinmouth,17797,644-292-3674x6239,Naval architect,5,283.55,1,0,Urban,1,Phone,No Offer,0,1.4600823153810911
+Benjamin Ibarra,376 Alan Parkways,West Cindy,71085,2677933530,"Engineer, agricultural",9,48.93,1,0,Rural,1,Phone,Buy One Get One,0,1.1054668517036803
+Isabel Bowen,7873 Flores Rest Suite 479,Bowersbury,37243,(887)460-5039,Manufacturing systems engineer,9,54.34,1,0,Surburban,0,Phone,Discount,1,2.657260869650899
+Ricky Schwartz,7216 Richard Causeway,Russellborough,57276,(975)612-2569,Records manager,5,247.82,1,0,Urban,0,Phone,Discount,0,0.9888894045496397
+Courtney Nunez,8718 Flowers Harbors,Danielton,16622,+1-104-375-7800x60590,Information officer,11,178.56,1,0,Urban,0,Phone,Discount,0,0.33759416369591444
+Elizabeth Ross,185 Julie Parkway,North Michaelmouth,33511,(319)160-2669x2496,Human resources officer,2,86.38,1,0,Urban,1,Web,Discount,0,0.9120974500607277
+Shawn Cooper,42273 Jennifer Isle Apt. 147,East Sandrastad,72453,+1-229-020-3840x4807,Musician,7,233.4,1,1,Urban,0,Multichannel,No Offer,0,1.0353244121391822
+David Reynolds,8756 Allen Village,Sanfordbury,07406,001-523-914-7571x81380,Orthoptist,2,189.67,1,0,Rural,1,Web,Buy One Get One,0,1.4348932277225948
+Donna Giles,5343 Joseph Passage,Christophershire,04076,001-358-846-5851x41971,Newspaper journalist,1,1524.15,1,0,Rural,1,Web,No Offer,0,0.8985300920806096
+Matthew Fisher,7573 Angelica Canyon,Goodmouth,13119,+1-985-612-7576,Product/process development scientist,5,544.43,0,1,Urban,1,Web,Buy One Get One,0,1.313038934838417
+Antonio Morgan,276 Torres Forks,Lake Michael,66250,001-931-881-4836x0581,Risk analyst,8,60.69,1,0,Urban,1,Phone,Buy One Get One,0,1.3428242477335783
+Angela Carroll,028 Stanton Terrace,Jessicabury,54401,(626)183-6536,"Scientist, physiological",10,57.71,0,1,Surburban,0,Web,Discount,0,1.0789272491531896
+Heather Day,96804 Allen Ports Suite 848,South Katherineburgh,95630,(442)148-9761,"Psychologist, educational",4,410.86,0,1,Urban,0,Web,No Offer,0,0.5957011810601966
+Gary Castillo,0479 Morris Crest,South Brittany,90700,001-518-861-3200x93850,Translator,6,40.24,1,0,Surburban,1,Phone,Discount,0,0.9095408705833503
+Tonya Ashley,6058 Ingram Port Suite 995,West Nicholas,01593,001-874-255-1203x906,"Administrator, arts",9,535.17,0,1,Surburban,1,Web,Discount,0,0.3187742086382118
+Brittany Banks,707 Sanders Prairie,North Melanie,60990,036.328.1871x502,"Programmer, multimedia",3,584.63,1,1,Surburban,1,Web,No Offer,0,2.0583766217379553
+Kaitlyn Baker,9160 Allen Mews,North Brandiborough,28982,7623962144,Set designer,1,29.99,1,0,Urban,1,Phone,Discount,0,0.6969138807408666
+Ethan Stevens,85721 Rogers Island,New Angela,81086,(000)657-8612x189,Mechanical engineer,3,1570.59,1,1,Urban,1,Web,Buy One Get One,0,1.3994085807474086
+John Barrett,599 Campbell Stravenue,West Gailchester,66865,001-309-808-3131x14701,Health promotion specialist,5,119.47,1,0,Surburban,0,Phone,No Offer,0,0.5179611948862306
+Jordan Owen,538 Nicholas Ranch,Johnsonhaven,27552,(911)105-1162,"Therapist, speech and language",7,68.86,0,1,Surburban,0,Phone,No Offer,0,1.1411698909893506
+Christine Lewis,048 Johnson Avenue Apt. 409,Wilsontown,61497,(332)846-4602x5910,TEFL teacher,3,68.81,0,1,Urban,0,Phone,Discount,0,1.731781813402045
+Kenneth Nixon,329 Adam Motorway,Stephensborough,77133,158-866-0034x868,Production manager,9,165.62,0,1,Urban,0,Web,No Offer,0,0.9603114018959843
+Mr. Christopher Olson,165 Hurst Ramp Suite 404,Kevinshire,37143,565.426.9370,Land,1,686.08,1,1,Urban,1,Web,No Offer,0,0.7145623191034993
+Amanda Holt,7366 Hunter Loaf,Rachelton,55999,667.751.6856x61925,Land,3,263.07,0,1,Surburban,0,Web,Buy One Get One,0,1.1942819162807436
+Timothy Compton,9477 Jacob Canyon Suite 023,South Earl,56802,(458)847-6331,"Accountant, chartered management",5,568.26,0,1,Surburban,1,Multichannel,Buy One Get One,0,0.8693946799097583
+Shane Hayes,11250 Ryan Locks Apt. 391,Michaeltown,34987,(869)828-5531x77690,Hydrographic surveyor,7,145.89,0,1,Urban,0,Phone,No Offer,0,1.0912049815147746
+Yolanda Cole,412 Brandon Ports Suite 625,Mariamouth,02580,+1-632-441-3823,Waste management officer,2,190.4,0,1,Rural,1,Web,Buy One Get One,1,2.8451661292145642
+Amanda Mullins,12525 Hill Divide Suite 574,Richardsonberg,04964,430.475.8737,"Psychologist, clinical",5,964.59,0,1,Surburban,1,Phone,No Offer,0,0.5038673200815377
+Jacqueline Kelly,57079 Sanchez Islands Suite 917,Michaelmouth,34501,411-449-0198x963,"Editor, magazine features",10,158.55,0,1,Surburban,0,Phone,Buy One Get One,0,0.5686616422346098
+Carl Munoz,87008 Bethany Isle Apt. 563,Lake Stephenland,85496,(457)957-1674x31241,Aid worker,7,578.35,0,1,Surburban,1,Web,Discount,1,2.354709914718196
+Phillip Kelly,3924 Christina Crossing,Kathyton,52060,+1-234-907-8080x841,Systems analyst,7,93.33,1,0,Urban,0,Web,No Offer,0,0.6614149811613093
+Ms. Mary Nguyen,53955 Rebecca Court,Graytown,48275,(630)869-9726x4932,Data scientist,9,157.76,1,0,Urban,0,Phone,Buy One Get One,0,0.9844835879635142
+Judy Lucas,09321 Natalie Keys Suite 020,Garciaburgh,32493,2211310321,"Merchandiser, retail",2,762.0,1,0,Surburban,1,Web,Buy One Get One,0,0.9619119029286747
+Gary Nguyen,9431 Stein Harbor,Cindyhaven,64031,801.483.4382,Musician,5,29.99,1,0,Surburban,0,Phone,Buy One Get One,0,0.9170032537226682
+James Williamson,84421 Torres Stream,Benjaminview,40268,001-334-554-5134x518,Herpetologist,2,235.19,1,0,Urban,1,Multichannel,Buy One Get One,0,1.3561482310692266
+Kenneth Nunez,2082 Jeffery Shores,New Robert,62702,686-594-4275,Data processing manager,5,42.3,0,1,Urban,0,Phone,No Offer,0,1.190770123364282
+Andrew Warren,641 Amy Spring,West Jamesview,92629,980.810.6332x61979,Media planner,4,474.94,0,1,Urban,1,Web,Discount,0,0.8557048462816285
+Kenneth Holmes,2135 Gonzalez Burgs Suite 076,Wellsport,07597,244.983.6178x4885,Operational researcher,7,291.88,1,0,Urban,0,Multichannel,No Offer,0,1.3405016739513114
+Danielle Young,48599 Michael Hills,Port Lesliehaven,66926,127-726-7396x378,Child psychotherapist,3,80.51,1,0,Surburban,1,Web,Buy One Get One,0,1.530213194159343
+Gary Vega,6464 Russell Crossroad Suite 023,North Charles,58638,974-070-7313x51674,Health promotion specialist,2,224.69,1,1,Urban,0,Web,Buy One Get One,0,0.8293761332531856
+Michael Young,1088 Michael Village,Port Lauren,11754,001-530-484-4882x9174,Personnel officer,6,32.17,1,0,Urban,1,Phone,Discount,0,1.510658253720195
+Emily Clarke,429 Mercado Streets Apt. 098,North Anthony,46715,752-987-7691x834,Information systems manager,4,553.42,1,0,Rural,1,Web,Buy One Get One,1,1.5904502809646102
+Jason Perry,093 Steven Cove,Gonzalezfort,36847,001-705-949-8170x79173,Herbalist,1,219.3,0,1,Surburban,0,Phone,Buy One Get One,0,1.0990697659755835
+Christine Davila,52094 Clayton Mission,Hurstview,44410,146.624.8606,Dispensing optician,1,200.26,1,0,Surburban,0,Multichannel,No Offer,0,1.049688947108101
+Craig Oconnor,746 Harvey Street Suite 384,North Patricia,28655,001-228-876-5715x5973,"Engineer, broadcasting (operations)",8,1137.96,0,1,Surburban,1,Phone,Discount,0,0.9909548996087844
+Megan Poole,090 Chan Village,Jeffreyview,35068,+1-544-005-0319,Product manager,8,29.99,0,1,Urban,1,Phone,Buy One Get One,0,0.5836978697218653
+Angela Petersen,653 Mark Springs Suite 755,South Angelaburgh,44431,9519597072,"Conservator, furniture",9,51.53,1,0,Surburban,1,Phone,No Offer,0,1.5854457827366506
+Anthony Sheppard,7529 Michelle Ferry Suite 447,East Christopher,42616,8508737197,Wellsite geologist,3,177.36,0,1,Surburban,1,Web,Discount,0,0.8433301041351451
+Alexis Frank,049 Madden Street Apt. 191,Port Debra,51647,001-258-223-0314x6475,Medical sales representative,9,34.75,1,0,Urban,1,Web,No Offer,0,0.8272931775124834
+Tyler James,575 Justin Rapid Suite 179,Nathanside,23105,(573)067-8581,"Scientist, biomedical",8,402.84,1,0,Surburban,0,Phone,No Offer,0,0.9535055085791619
+Alexander Pena,77876 Hunter Gateway,West Melissaborough,57909,172.208.3076,IT trainer,1,276.21,1,0,Surburban,0,Phone,No Offer,0,0.8499112801845152
+Pamela Clark,51956 Nelson Centers Apt. 067,Rogersmouth,69788,471-588-5189x1964,Trade union research officer,1,960.02,1,1,Rural,1,Web,No Offer,1,2.808373092624417
+Destiny Bell,528 Mary Place Apt. 432,Ramseyfurt,33790,099.414.5467x54810,Production manager,1,100.92,0,1,Urban,1,Web,No Offer,0,0.9535689318095906
+Theresa Whitehead,0793 Weaver Route,South Jacob,65477,+1-633-154-4921,Museum/gallery conservator,7,770.87,1,1,Urban,1,Phone,Buy One Get One,0,0.38420416111365896
+David Levy,1441 Tapia Inlet Suite 764,Lake Tammy,50983,022-378-7800x8131,"Merchandiser, retail",7,63.95,1,0,Urban,1,Phone,Buy One Get One,0,0.7765034477493935
+Thomas Ellis,4909 Michael Walk,Lake Stanley,78912,279-714-8248,Hotel manager,7,348.44,0,1,Surburban,1,Web,Discount,0,1.0669563662064767
+Roger Hicks,28693 Alicia Rapid Apt. 671,South Sarah,88518,(161)899-4354,Technical brewer,11,29.99,0,1,Rural,0,Web,Discount,0,0.9123434152797328
+Robert Murray,99136 Michael Bypass Suite 433,East Elizabethmouth,78646,(850)020-7174x0293,"Scientist, research (life sciences)",3,216.08,0,1,Urban,0,Phone,No Offer,0,0.4077651527234759
+Jennifer Jacobson,1865 Smith Lane Suite 125,West Taylorstad,98047,003.107.7984x272,Interior and spatial designer,3,211.88,1,1,Surburban,0,Web,Buy One Get One,0,0.525687406171494
+Angela Allen,54441 Brian Trail Suite 801,Zacharymouth,29352,343.998.4400,Interpreter,9,129.46,1,0,Urban,1,Phone,Discount,0,0.9589985050610408
+Ricky Lopez,6917 Lee Trace Suite 398,Nielsenshire,83025,(057)887-5810x5567,"Teacher, early years/pre",11,189.23,1,0,Surburban,0,Web,Buy One Get One,0,-0.01651570821146886
+David Lindsey,95232 David Villages,Jenniferberg,91789,548-309-7215,"Engineer, energy",10,149.31,0,1,Rural,1,Phone,Buy One Get One,0,0.7285302878385591
+Ashley Rodriguez,2710 Jillian Ways Suite 589,Lake Jacob,62616,803-602-8511,Accounting technician,4,218.92,0,1,Surburban,0,Web,Discount,1,2.162573191706651
+Tracy Cameron,83488 Mary Rue,Jessicaberg,62913,001-343-713-3290x24026,Photographer,3,109.34,0,1,Surburban,0,Phone,Discount,0,1.3860585087943593
+Thomas Higgins,39997 Geoffrey Plaza Apt. 031,West Nancy,65644,001-640-711-2553x39503,Barrister's clerk,2,32.18,1,0,Surburban,1,Web,Discount,0,0.8445283737159538
+Charles Jennings,68761 Graham Common Suite 404,Port Stephenside,44286,842-083-3519x93370,Furniture designer,7,287.73,1,1,Urban,0,Web,No Offer,1,2.7336204864974536
+Brenda Lewis,6294 Kimberly Cape Apt. 512,Port Chelseaton,88295,3523835506,Ceramics designer,4,29.99,0,1,Urban,1,Phone,No Offer,0,0.851573394742532
+Lauren Yates,03135 James Bypass Suite 965,Debramouth,74799,(581)842-5947x487,"Education officer, museum",12,98.17,0,1,Surburban,1,Web,No Offer,0,1.2373199132680512
+Joseph Roberts,956 Courtney Estate Suite 589,Travischester,44808,8168946475,Ophthalmologist,3,297.33,0,1,Urban,0,Phone,Buy One Get One,0,0.48532055081068826
+Olivia Higgins,73161 Shepherd Run Apt. 847,West Devonstad,24081,+1-819-579-6568x99999,Product manager,5,728.99,1,0,Urban,1,Web,Discount,0,0.42202738601411616
+Dorothy Hayden,3044 Lori Wall Apt. 711,Lake Antonio,08835,9562173702,Electrical engineer,9,483.16,1,1,Urban,0,Phone,Discount,1,2.433989260327318
+Olivia Gill,62658 Johnson Greens Apt. 125,Hannahtown,73369,7228322368,Seismic interpreter,4,93.36,1,0,Surburban,1,Phone,No Offer,0,0.9797870335551875
+Donna Whitaker,655 Robin Underpass,Jacksonside,62391,+1-016-825-9140x8842,Exhibition designer,2,542.34,0,1,Urban,1,Phone,No Offer,0,1.4652442852049203
+Matthew Moore,373 Long Summit,Dixonland,01143,977.702.2439x40220,"Engineer, chemical",9,44.68,1,0,Urban,0,Phone,No Offer,0,1.2181940036191645
+Randy Cruz,18390 Becker Loaf Apt. 246,Westmouth,75591,(814)784-6927,"Radiographer, diagnostic",6,265.61,0,1,Surburban,1,Multichannel,Buy One Get One,1,2.2688205730414466
+Benjamin Mcclure,206 Norman Forges Suite 379,Johnstonville,96377,001-800-231-3838,Public relations account executive,4,184.47,1,0,Rural,0,Phone,Buy One Get One,0,1.350692197303328
+Andrew Olson,81064 Brian Islands Apt. 911,Powellchester,04591,+1-770-382-7630x48555,Water engineer,8,69.67,1,0,Rural,1,Web,Buy One Get One,0,1.0076757213343204
+Kimberly Smith,3977 Matthews Street,Mitchellview,72974,324-603-6450x642,Farm manager,2,188.03,1,0,Urban,1,Phone,No Offer,0,1.303108244842735
+Michael Roberts,82814 Daugherty Walk,East Mary,48520,790.937.3247x69862,Futures trader,1,1873.15,0,1,Urban,1,Phone,Buy One Get One,0,0.4807351793701946
+Cynthia Patrick,79288 Beasley Isle,Port Sean,47966,353.827.1678x77987,Food technologist,1,132.46,1,0,Urban,0,Phone,No Offer,0,1.2385454156120292
+Nathaniel Haynes,59455 Ross Trafficway Suite 133,East Natalie,08820,(408)971-3018,Accommodation manager,8,167.05,0,1,Urban,0,Phone,No Offer,0,1.134684626618132
+Mercedes Mcdaniel,10069 Marsh Falls Apt. 463,Port Julie,98659,001-602-775-0039x4831,"Therapist, drama",3,179.31,0,1,Urban,0,Web,No Offer,0,1.0252385815000225
+Katelyn Lawrence,52460 Donald Throughway,Port Ashley,94458,+1-112-568-1081x918,Newspaper journalist,1,101.99,0,1,Surburban,0,Web,Buy One Get One,1,2.030383546299824
+Laura Chavez,4063 Elizabeth Well,Wrightborough,16652,1153599986,Clinical research associate,1,290.03,1,1,Urban,0,Web,No Offer,1,2.5692061454938897
+Craig Barron,4160 Smith Divide Apt. 699,Port Melissaton,47184,7406415352,Medical physicist,1,89.59,0,1,Surburban,1,Web,Discount,0,0.8688407764899402
+Joshua Daniel,961 Ramos Viaduct,Ricefurt,49576,461-289-9275x87524,Furniture conservator/restorer,4,29.99,0,1,Surburban,1,Web,Buy One Get One,0,0.9349344230985966
+Sandra Fisher,7253 Garrett Groves Suite 454,New Amyport,23948,(303)504-1163,"Psychologist, forensic",2,851.45,1,1,Rural,1,Web,No Offer,1,2.3977581649850395
+Michaela Meyer,7424 Howard View Suite 184,Adamhaven,10275,5418476653,Pension scheme manager,1,248.43,1,0,Surburban,1,Phone,No Offer,0,0.8331134668409864
+Margaret Gonzalez,13946 Fred Villages Apt. 008,North Cassiefort,23778,001-077-096-8637x6433,English as a second language teacher,3,141.2,0,1,Surburban,1,Phone,No Offer,0,1.097727942793142
+John Murphy,19342 Smith Views,West Lisa,52198,230-473-7056x553,Ship broker,9,69.9,1,0,Surburban,1,Web,Buy One Get One,0,1.2811960746202493
+Michelle Camacho,062 John Manor Suite 286,Moorefort,47958,648.606.4595,Risk analyst,7,29.99,1,0,Urban,0,Web,No Offer,0,0.9034622441232065
+Diana Scott,49458 Carter Dale,Hartport,70667,432.263.0341,"Teacher, early years/pre",6,113.6,1,0,Surburban,1,Phone,No Offer,0,0.9582266477514813
+Anthony Carlson,77649 Schaefer Passage,Rachelport,92854,+1-499-243-3053x0008,"Loss adjuster, chartered",10,29.99,0,1,Urban,0,Web,Buy One Get One,0,0.8012528783837172
+Jordan Marshall,453 Taylor Court Suite 070,Patrickland,04233,365.293.1388x107,"Engineer, land",9,302.52,1,0,Urban,0,Phone,Discount,0,0.7652248704633919
+David Hill,354 Torres Station,West William,53795,895.039.5778x549,Pensions consultant,3,73.99,0,1,Surburban,0,Phone,No Offer,0,0.7983093935509011
+Alice House,4152 Edwards Turnpike,South Angelaberg,95276,(615)617-5333,Fish farm manager,1,79.5,0,1,Surburban,0,Web,No Offer,0,0.6507204548203251
+Jason Lee,678 Perry Plains,Obrienside,65069,001-660-574-6124x3652,Public relations officer,12,103.6,1,0,Rural,0,Phone,No Offer,0,1.0379058308095384
+Robert Baird,935 Michael Trafficway,Andrewchester,78536,+1-869-047-4145x29737,Administrator,1,137.29,0,1,Urban,0,Phone,No Offer,0,0.13966305960779368
+Julie Carpenter,39580 Rodriguez Crescent Suite 918,Lawsonview,01496,+1-862-899-0062x60551,Administrator,8,34.8,0,1,Surburban,1,Phone,Buy One Get One,0,1.2732026842442392
+Dan Burke,64832 Emily Vista,Davidshire,97935,256.222.4417,Human resources officer,6,114.74,1,0,Urban,0,Web,No Offer,1,2.0619704462853043
+Tonya Juarez,273 Colleen River,Shafferchester,50156,+1-470-942-4734x62739,Historic buildings inspector/conservation officer,8,244.94,1,0,Surburban,0,Phone,Buy One Get One,0,1.3181721229315804
+Amy Scott,045 Gillespie Mountains,Grayville,78133,9432949006,Catering manager,1,452.72,0,1,Rural,0,Web,Buy One Get One,0,1.5165679654439002
+Danielle Powers,3464 Robles Points,Solomonside,28437,(915)562-5890x54969,Tax inspector,5,29.99,0,1,Urban,0,Web,Discount,0,0.8508271335745179
+Gary Meyer,0450 Mullins Mission Suite 043,West Robert,95186,2840789316,Secondary school teacher,1,386.11,1,1,Urban,0,Multichannel,Discount,0,1.5356800065328917
+Michelle White,230 Alvarez Views Apt. 533,Johnview,45830,001-160-763-8711x352,Audiological scientist,8,45.78,1,0,Surburban,0,Phone,No Offer,0,0.8612535554187954
+Morgan Johnson,2293 Burns River,Weavertown,94337,414.894.8080x640,"Designer, multimedia",6,358.77,0,1,Surburban,0,Web,No Offer,0,0.44957033343558683
+Adam Hines,63340 Chad Drive,Lake Amy,97231,493-713-7005,Retail merchandiser,5,141.74,1,0,Surburban,0,Web,No Offer,0,0.5745675074635164
+Yvonne Swanson,35759 Richard Station Apt. 717,Michaelfurt,82295,4179342289,Telecommunications researcher,9,205.33,1,0,Surburban,1,Multichannel,Discount,0,1.3079916817432582
+Heather Yu,17280 Coleman Forest Apt. 541,West Krystalview,78784,+1-312-095-0869x83417,Plant breeder/geneticist,1,629.85,1,0,Urban,1,Web,Discount,1,1.7777097073916064
+Erin Bryan,7533 Dodson Expressway,Donaldport,52498,(334)314-6570x243,"Research officer, political party",9,64.09,1,0,Surburban,0,Phone,Buy One Get One,0,0.7913974708162301
+Jose Jones,7239 Kim Groves Suite 381,Laurieborough,59189,(724)422-9299x674,Maintenance engineer,4,162.56,0,1,Urban,1,Phone,Buy One Get One,0,0.835899591814872
+David Welch,326 Goodwin Burg Suite 274,Port Colleen,59874,001-651-596-6931,"Surveyor, commercial/residential",9,383.77,0,1,Surburban,1,Phone,Discount,1,2.4233188467044093
+Sandra Ruiz,2174 Mcclure Corners,Port Nicole,26649,578-084-9897x40349,"Loss adjuster, chartered",6,64.33,1,0,Rural,0,Web,No Offer,1,2.3259580877454082
+Tony Brown,39405 Robinson Trace,Meadowsmouth,77100,(623)668-2768x16319,Set designer,11,143.65,0,1,Urban,1,Phone,Buy One Get One,0,1.433324696405938
+Megan Nicholson,99871 Adam Lodge,Mooreberg,71154,9028462065,"Teacher, music",12,63.28,1,0,Urban,1,Phone,Discount,0,1.8566089249334055
+Jennifer Johnson,9681 Johnny Junctions Suite 482,North Jessicaside,51579,895-362-1510x0069,"Conservator, museum/gallery",6,108.83,1,0,Urban,0,Phone,Discount,0,0.6931914378365553
+Richard Chavez,4667 Alison Circle,Riggston,95467,(310)666-3799x63252,"Scientist, research (physical sciences)",4,121.87,1,0,Rural,0,Web,No Offer,0,0.25737787750362395
+Arthur Nichols,3644 Thomas Ports Apt. 515,Port Johnathan,03936,294-242-7331,Editorial assistant,10,489.29,0,1,Surburban,0,Phone,Discount,0,0.4841729601899869
+Aaron Newman,4168 Chambers Unions,West Karenport,41380,+1-048-395-5146x75031,Writer,2,199.97,0,1,Surburban,0,Phone,Discount,0,0.9249347522368919
+Holly Jones,73635 Simpson Pass Apt. 038,Port Jeffreyside,06597,9887492930,Manufacturing systems engineer,4,614.83,1,0,Urban,1,Multichannel,No Offer,0,1.0402243158094073
+Paul Vincent,8245 Manuel Forges,Thomasview,52505,725.044.5015x472,Quality manager,5,103.44,0,1,Rural,1,Web,Buy One Get One,1,2.674646205702035
+Adam Camacho,617 Jessica Parkways,Christopherborough,41805,001-436-208-3867x622,Fitness centre manager,9,199.38,0,1,Urban,1,Phone,Discount,0,1.0092216110693215
+Kristin Bryant,05238 Megan Brook,New Jenniferchester,60361,+1-816-162-2695x61654,"Education officer, environmental",4,224.04,1,0,Urban,0,Web,No Offer,0,1.0398990140189883
+Lori Ward,67821 Brittney Locks Suite 113,Davidberg,26192,(351)305-2240x86505,"Sound technician, broadcasting/film/video",3,80.65,0,1,Surburban,1,Web,Buy One Get One,1,1.544451161272973
+Sandra Morales,83268 Mitchell Rest,Garcialand,70597,193-897-3626x77790,"Psychologist, clinical",3,66.47,1,0,Rural,1,Web,Discount,0,0.9337134053634387
+Carolyn Perez,56323 Adams Key Suite 391,Ochoatown,08018,542.688.9549,Bonds trader,9,33.63,0,1,Rural,0,Phone,No Offer,0,1.4354491064198345
+Jerry Robertson,4171 Samuel Views,Richardstad,95869,126.218.1511,Occupational therapist,6,528.03,1,1,Urban,1,Multichannel,Buy One Get One,0,1.229460957869139
+Tony Weber,5341 Angela Crossroad,Samuelhaven,04738,001-898-455-6260x542,Careers information officer,10,29.99,1,0,Surburban,0,Web,Buy One Get One,0,0.7114864107218466
+Angela Guerrero,431 Thomas Island Apt. 636,North Raven,76559,+1-713-337-4830x46963,Print production planner,2,109.81,1,0,Urban,1,Web,No Offer,1,1.808572748788919
+Nathan Howell,7665 Brooks Throughway Suite 832,New Carlosfurt,56846,(550)888-2033x38345,"Pharmacist, hospital",10,507.15,0,1,Rural,1,Web,Buy One Get One,0,0.9124103354586197
+Kevin Miller,277 Jennifer Views Apt. 103,Williamborough,54258,9471566142,"Teacher, primary school",10,161.43,0,1,Surburban,1,Web,No Offer,1,2.3185486218777274
+Melissa Torres,14826 Smith Ranch Suite 929,East Mark,11562,755.658.7137x172,"Surveyor, building",12,90.15,1,0,Surburban,0,Web,Discount,0,1.6578938375733703
+Sarah Patel,501 Schaefer Camp Suite 099,Jesseberg,63093,567.975.5920,Bonds trader,1,567.13,0,1,Rural,1,Phone,Buy One Get One,0,1.2293809134282705
+Jeffrey Morrison,53677 Taylor Pike Apt. 564,Port Amanda,40944,(913)851-7379x974,Product/process development scientist,1,681.12,1,0,Rural,1,Phone,Discount,0,1.1017272941991323
+Elizabeth Combs,83505 Elizabeth Inlet,North Howardchester,04638,4381918172,"Designer, furniture",9,198.54,0,1,Urban,0,Phone,No Offer,0,1.2830917350234925
+Sarah Herring,168 Drew Underpass Apt. 725,Port Kayla,81056,782.657.0443,Wellsite geologist,11,301.0,1,1,Surburban,1,Web,No Offer,0,0.6322561420969675
+Tiffany Walsh,36109 White Fork Apt. 081,Stephenville,30531,001-624-315-3795x26144,Science writer,2,378.5,0,1,Urban,0,Web,Discount,1,2.4779570735987737
+Zachary Brown,359 Braun Lane,Jessicaland,98827,492-338-6549x677,Educational psychologist,10,131.95,0,1,Surburban,0,Phone,No Offer,1,2.2623348811056276
+Brittany Herman,3474 Smith Rapid Suite 120,Williamsport,05283,(990)852-1332x897,"Engineer, drilling",6,179.51,0,1,Urban,0,Phone,Buy One Get One,0,0.9251431531525146
+Michaela Moore,107 Smith Terrace,Lake Michaelside,09455,(118)505-3482x8408,Air traffic controller,10,375.34,1,0,Rural,0,Web,No Offer,0,0.8386962649233776
+Tammy Smith,318 Schwartz Camp,Williamton,45386,(890)959-8737,Fisheries officer,8,29.99,1,0,Surburban,0,Phone,Buy One Get One,0,0.38844613041275844
+Ryan Wilson,6937 Ross Ford Suite 996,Port Collin,96795,001-020-930-6535x88574,Clinical psychologist,1,286.31,1,1,Surburban,0,Web,No Offer,0,0.5257586407378041
+Dr. Eric Levine,92975 Tammy Court,Gabrielhaven,76071,108-823-7890,Psychiatrist,7,600.13,1,1,Urban,1,Phone,No Offer,0,0.86523236797058
+Victoria Bowman,77216 Coffey Mission,Bryantstad,78176,625-512-7914x181,"Teacher, adult education",6,107.42,0,1,Urban,1,Web,No Offer,0,1.4647953114054242
+Michael Barrera,4937 Barry Mount,South Brian,28857,600-495-0331,Telecommunications researcher,1,1515.82,1,1,Surburban,1,Multichannel,Buy One Get One,1,1.9428660274051928
+Samantha Johnson DVM,7458 Burton Points,Port Charles,29752,+1-682-523-0319x2656,Geophysical data processor,2,102.99,0,1,Surburban,0,Phone,No Offer,0,1.402532670288667
+Jacob Gonzalez,6646 Randy Square,Owentown,28382,+1-993-146-0521x217,Civil Service administrator,10,317.16,1,0,Urban,0,Web,Buy One Get One,0,1.4152398737800476
+Michael Freeman,0424 Rebecca Keys,Mosleystad,17938,4940520486,Hotel manager,7,297.6,1,0,Surburban,0,Web,No Offer,0,0.7333833995529808
+Laurie Carlson,9855 Barber Meadows Apt. 741,Ellishaven,77682,902.121.0088x31755,Educational psychologist,10,599.06,0,1,Urban,1,Web,Buy One Get One,0,0.8065505369025623
+Joshua Bartlett,080 George Branch Suite 216,Phillipsland,26085,(058)990-4490,"Engineer, production",10,29.99,1,0,Urban,0,Web,Buy One Get One,0,1.4946586164735511
+Joseph Rodriguez,533 Tracy Burgs Apt. 614,Karenchester,52425,707.842.1408,"Surveyor, mining",1,783.8,1,1,Surburban,1,Web,No Offer,0,0.6261125077970603
+Maria Morales,3895 Terrell Lakes,West Teresa,35599,272-502-7392x774,Sport and exercise psychologist,9,89.96,1,0,Surburban,0,Web,Discount,1,2.018342870022498
+Jonathan Bernard,28322 Evans Mission,East Colleen,20575,(411)957-1968x324,Fine artist,8,155.75,0,1,Urban,1,Phone,No Offer,0,1.4748861207045567
+Kristin Moore,7459 Christina Curve,New Michaelborough,39389,001-030-939-4746x692,Sports coach,11,29.99,1,0,Surburban,1,Phone,Buy One Get One,0,0.9513019071190865
+Valerie Salazar,160 Warren Club Apt. 195,South Michaelchester,05492,(810)741-3802,Glass blower/designer,5,47.98,0,1,Urban,0,Web,Buy One Get One,0,1.3453503941473848
+Joe Davis,08611 Diaz Ranch,Port Jill,02030,149-266-4467x91986,Best boy,8,135.67,1,0,Rural,1,Web,Discount,0,1.532729732066619
+Lisa Morales,32064 Peter Ferry,East Alan,19500,765.800.0571x73675,Forest/woodland manager,11,504.86,1,0,Rural,1,Multichannel,Buy One Get One,0,1.3831411252585686
+Tina Huff,58454 Chan Springs,South Hunter,53423,001-987-256-5839x668,Broadcast journalist,1,904.58,0,1,Surburban,1,Phone,Buy One Get One,1,2.0982638890666157
+Stephanie James,82403 Fields Village,Jameston,30571,222.532.2427x82238,Ergonomist,11,312.41,1,0,Urban,1,Web,Buy One Get One,0,1.6426418563809566
+Christina Brewer,7945 William Summit,Lake Brent,20874,001-283-627-8249x344,Call centre manager,9,404.03,1,1,Urban,0,Multichannel,No Offer,0,1.5786204602674818
+Jenna Davis,03849 Baker Groves Apt. 810,Stephaniebury,69092,+1-158-754-9829x54226,Emergency planning/management officer,7,251.05,1,0,Surburban,0,Multichannel,Buy One Get One,1,2.2433750225173212
+Aaron Mcconnell,5115 Bonilla Cliffs,North Carlosburgh,23313,7166852676,Fish farm manager,1,30.01,0,1,Urban,1,Web,Buy One Get One,0,1.724391870325231
+Michelle Berry,08281 Navarro Divide,Dawsonburgh,72591,(828)423-7307,Psychiatric nurse,1,155.65,1,0,Urban,0,Web,No Offer,0,1.3394928039229619
+Andre Brooks,5454 Cohen Summit Suite 461,New April,02204,032-629-0981,"Radiographer, diagnostic",12,36.67,0,1,Urban,0,Web,Discount,1,2.0888311700477984
+Eric Lopez,1234 Anthony Junctions Apt. 378,Angelaburgh,23180,0702918406,Dietitian,12,49.27,1,0,Urban,1,Phone,Buy One Get One,0,0.6115795193130151
+Bryan Burgess,3798 Jennifer Stravenue,Lake Andrew,70433,001-040-421-6787x793,Building control surveyor,1,563.7,1,0,Surburban,1,Multichannel,Discount,0,1.0668710200803555
+Ryan Ruiz,5045 Gray Burgs,Port Andre,16292,625-253-6895x77088,"Solicitor, Scotland",6,265.2,1,0,Surburban,0,Phone,Discount,0,2.255851421363175
+Kendra Martin,4627 Smith Drive,North Nicholas,16285,733.627.7938,Colour technologist,1,357.56,0,1,Surburban,0,Phone,No Offer,0,0.43850249439225286
+Lance Aguirre,217 Christopher Motorway,Lake Carrie,56392,401.416.7903x83193,Advertising art director,11,206.97,1,0,Surburban,0,Web,Discount,0,0.99603041864036
+William Vincent,926 Steven Isle,East Christopher,93433,509.293.1121x936,Computer games developer,7,1222.53,1,1,Rural,1,Phone,Discount,1,2.2102910951777934
+Terrance Bright,23625 Mcdaniel Glen Suite 909,Port Ronald,84344,001-865-719-0468,Public house manager,5,67.55,1,0,Surburban,0,Phone,Discount,0,0.8335920622374845
+Rhonda Martin,7175 Cook Well Suite 700,Hillport,60472,+1-923-456-3889x339,"Teacher, special educational needs",9,108.59,1,0,Rural,1,Web,Discount,0,1.0612143593116494
+Mariah Thompson,74115 Dawn Fields Suite 439,South Wendy,62445,+1-438-670-9057x66229,"Administrator, arts",1,615.04,1,1,Surburban,1,Phone,No Offer,0,0.9425659973429217
+Thomas Johnson,80869 Christensen Lock Apt. 705,Port Kristenfurt,18095,736-401-7860x47971,Copy,7,153.17,1,0,Rural,0,Phone,Discount,0,2.0418359801340085
+Lucas Carpenter DDS,22098 Pacheco Valley,East William,11011,+1-428-253-4465x45381,"Engineer, civil (contracting)",9,40.16,1,0,Urban,1,Phone,Buy One Get One,0,1.66255107986342
+Peggy Page,96409 Joseph Estate Apt. 450,West Reginamouth,49377,+1-156-654-6105x002,Lobbyist,4,127.51,1,0,Urban,1,Web,No Offer,0,1.1700218919361047
+Michelle Perez,742 Alyssa Mountain,North Ericfurt,04638,+1-191-774-4277x256,"Conservator, museum/gallery",8,60.9,0,1,Rural,1,Phone,No Offer,0,1.1821569653070398
+Sarah Moore,01876 Craig Haven Suite 643,Wesleyhaven,10947,+1-177-881-6748,"Surveyor, minerals",1,234.17,1,0,Rural,1,Phone,No Offer,0,0.9550507611370945
+Alexis Morales,3382 Cody Burgs,Michaeltown,84034,721-347-4044x734,Surgeon,12,145.27,1,0,Urban,1,Web,Discount,0,0.6316340511785294
+Mario Smith,858 Brandon Terrace,Kristinaport,45666,(313)933-1321,Hydrologist,11,112.61,0,1,Urban,0,Web,No Offer,0,1.0574782400963392
+Ashley Beck,98732 Madden Summit Suite 918,Port Ashley,48855,001-909-556-8391x347,"Conservator, furniture",5,168.1,1,0,Surburban,0,Web,No Offer,0,0.9486539509376417
+Matthew Turner,344 Paul Crescent Apt. 390,Robinberg,18553,(810)327-4183,"Buyer, industrial",1,745.63,1,1,Urban,1,Multichannel,Buy One Get One,0,1.3158007464334025
+Reginald Powers,8507 Trevor Ridges Suite 411,Curtiston,58775,572-214-5385,"Engineer, drilling",6,29.99,0,1,Surburban,0,Web,Buy One Get One,0,0.4478513630464064
+Robert Chambers,449 Sutton Prairie,New Sarahfurt,33657,001-229-992-0785x79850,Primary school teacher,5,37.79,0,1,Surburban,0,Web,No Offer,0,1.71485357506389
+Brenda Woods,7956 Kevin Station,Williambury,90714,+1-558-743-3231x00219,"Radiographer, therapeutic",8,772.55,1,0,Surburban,1,Web,Buy One Get One,0,1.3586769801907617
+Richard Mitchell,430 Garner Locks Apt. 968,Travisburgh,10723,442-434-1356,"Engineer, technical sales",4,70.16,0,1,Surburban,0,Web,No Offer,0,0.9164587510833302
+Nicole Paul,4355 Kimberly Run Suite 171,Lake Marioland,83388,(200)601-3867,Make,7,115.07,0,1,Surburban,0,Phone,Buy One Get One,0,0.7593648612004436
+William Fuentes,04678 Griffith Port,West Timothy,45189,(924)693-7552,Clinical cytogeneticist,3,248.26,0,1,Surburban,1,Multichannel,Buy One Get One,0,1.292160129112095
+Stephanie Frazier,848 Daniel Springs Suite 709,West Amymouth,45500,(331)243-1551,"Designer, industrial/product",6,65.1,1,0,Urban,0,Phone,Discount,0,1.6356869556420652
+James Frost DVM,685 Williams Isle Suite 007,Port Kevin,65151,8794659960,Operational investment banker,1,585.14,1,0,Surburban,1,Multichannel,Buy One Get One,0,0.2692554583277965
+Roger Lindsey,989 Warner Lodge,Nancyton,35950,001-993-038-2412,Environmental consultant,9,297.59,0,1,Surburban,1,Phone,Discount,1,1.58365604266294
+Nicholas Colon,1611 Anthony Points Suite 053,South Kellyshire,63927,001-053-723-2564x9073,Barrister,7,409.76,1,1,Urban,0,Multichannel,Discount,0,0.7683402859708187
+Ashley Alvarez,01561 Wallace Plain,New Angelica,92934,(562)646-9812x2490,"Surveyor, commercial/residential",9,60.15,0,1,Surburban,0,Web,Discount,0,1.3278935732379178
+Leah King,3588 Brent Meadows Suite 243,Jillside,38384,(837)723-9964x713,Corporate treasurer,1,111.37,0,1,Surburban,1,Web,No Offer,0,0.6424986885715569
+Kimberly Paul,62869 Shannon Alley Apt. 899,Barrshire,62044,+1-963-916-0072,"Designer, jewellery",7,29.99,0,1,Urban,0,Phone,No Offer,0,1.2036825197514924
+Brandon Miller,51749 Jones Views Apt. 679,Lake Edwardfurt,33858,069-964-8589x3674,Water engineer,1,87.0,0,1,Rural,1,Phone,Discount,0,1.0369420889234742
+Christina Armstrong,86600 Mcdonald Ville Apt. 200,Lake Preston,78088,461.339.3766x051,Town planner,2,46.47,0,1,Surburban,1,Web,No Offer,0,1.2340854299819402
+Allison Carter,88587 Wilson Burgs,Harveytown,90039,093-626-1841x0210,Science writer,11,297.25,0,1,Urban,1,Phone,Buy One Get One,0,0.7324671833179359
+Tiffany Hamilton,4175 Mary Row,Port Josephmouth,37430,2032180322,Acupuncturist,9,129.29,0,1,Urban,1,Web,No Offer,0,1.164842255994349
+Angelica Harris,2286 Mary Lodge,Matthewside,73537,9297613247,"Designer, ceramics/pottery",5,150.06,1,0,Rural,1,Web,Buy One Get One,0,0.7489837506354919
+Dawn Guzman,5647 Gwendolyn Drive Suite 739,South Robertchester,47067,159.761.6804x23439,Ecologist,3,708.62,0,1,Surburban,1,Phone,Discount,0,1.4597185766443477
+Yolanda Cordova,118 Kimberly Forges Apt. 173,Connerville,47101,589.037.4104x859,Chartered legal executive (England and Wales),3,29.99,1,0,Urban,1,Phone,Discount,0,0.7533577277303295
+Zachary Fowler,9231 James Field,Coxtown,64600,611-505-1405x4530,Seismic interpreter,2,531.69,0,1,Urban,1,Phone,Buy One Get One,0,1.6994355743581773
+Brianna Reyes,8355 Clark Forest Suite 524,Roseburgh,30067,485.890.9712,Secondary school teacher,10,113.33,0,1,Urban,0,Web,No Offer,0,0.5843207853203249
+Mark Fitzgerald,77621 Stephen Manor,Cervanteschester,13365,001-765-538-6078,Brewing technologist,4,737.33,0,1,Surburban,1,Web,Discount,0,0.12543277295030886
+Dr. Brittney Evans,968 Sandra Falls,Port Patrickside,83310,211.671.3299x0641,Minerals surveyor,12,29.99,1,0,Urban,1,Web,Discount,0,0.6269907117032406
+Lauren Nelson,302 Stacy Curve Apt. 357,Thompsonstad,01699,103-615-2806x969,Training and development officer,6,1292.1,1,0,Surburban,1,Web,Buy One Get One,0,0.929238273050367
+Michael Garcia,7157 Jackson Wall Suite 034,West Traceyton,05819,+1-230-757-2527x85367,Nutritional therapist,11,272.89,1,0,Surburban,1,Web,Buy One Get One,0,1.1644741426081082
+Barbara Buck,415 Blair Dale,Ballardburgh,68321,+1-344-508-1855x488,"Designer, television/film set",4,302.86,0,1,Surburban,1,Phone,Buy One Get One,0,1.2406519896078552
+Daniel Stewart,38548 Ellis Stravenue,Leonardberg,06500,+1-767-662-6157x8598,Product designer,11,29.99,0,1,Surburban,0,Web,Discount,0,0.9865422189841482
+Kimberly Jenkins,90126 Obrien Valleys,South Susan,25742,171-132-0574x5523,"Radiographer, therapeutic",7,758.59,0,1,Surburban,1,Web,Discount,0,0.4839874290282832
+Jeremy Garcia,59077 Jason Ferry Suite 409,Williamston,47483,(002)724-6561x68702,Trade mark attorney,4,174.55,1,0,Rural,1,Web,Discount,0,1.7452217972911486
+Kenneth Lane,903 Martha Valley Apt. 451,Barberborough,15643,001-162-055-8586x20538,Product designer,9,76.72,1,0,Surburban,0,Phone,No Offer,0,1.0294998202459682
+Robin Christensen,837 Joseph Pass Suite 106,Donnachester,54432,(300)067-9732,TEFL teacher,6,334.34,0,1,Rural,0,Multichannel,Discount,1,1.9068118121155253
+Laura Sharp,8931 Sullivan Ridge Apt. 580,North Stephaniestad,19858,989-491-2742x642,Training and development officer,12,108.83,1,0,Rural,0,Web,Discount,1,2.0083938270682555
+Joshua Black,9166 Ruiz Lodge,Lake Aliciaside,47616,471-680-6743x37848,"Programmer, applications",10,319.45,0,1,Urban,0,Phone,Discount,0,0.8008545532508323
+Jane Gonzales,50428 Meghan Hills Apt. 730,Donnabury,78901,+1-980-580-3172,Civil Service administrator,10,29.99,1,0,Surburban,1,Web,Discount,0,1.6353502529236916
+Jodi Davis,079 Rivera Crescent Apt. 848,North Joshua,91387,437.699.3661,"Civil engineer, contracting",3,367.27,0,1,Surburban,1,Phone,No Offer,0,0.14850200875659403
+Dr. Stephanie Franklin MD,13678 Lynn Run,Gonzaleztown,82723,018-225-4780x010,Research scientist (physical sciences),8,29.99,1,0,Urban,1,Web,No Offer,0,0.9933087649033326
+Alison Henderson,0529 Molly Neck,Valeriehaven,54388,(464)672-6994,"Teacher, English as a foreign language",10,102.82,1,0,Surburban,1,Web,Discount,0,0.8216789682558704
+Jasmine Scott,41211 Lopez Estate Suite 048,Mitchellhaven,47348,+1-879-632-2793x33861,Technical brewer,10,189.02,0,1,Rural,1,Phone,Buy One Get One,0,1.247196488870924
+David Navarro,095 Bowers View Suite 669,Tonyland,66795,(298)337-0466x3799,Event organiser,4,739.84,1,0,Urban,1,Phone,Discount,0,0.8520742641057
+Paul Anderson,3198 Joel Islands Apt. 407,North Kevin,92264,001-272-329-4551x17529,"Lecturer, further education",4,85.64,1,0,Surburban,1,Web,Buy One Get One,0,2.0284689977149997
+Timothy Bentley,336 Bryce Route Apt. 833,Hortonchester,63978,436.946.8506x82307,Pensions consultant,6,161.43,0,1,Surburban,0,Web,Discount,1,2.118623040149524
+Brittany Reed,293 Ramirez Common,Lake Kelly,57963,001-848-737-2492x254,Estate agent,8,346.57,1,0,Urban,1,Web,No Offer,0,1.4073043785392438
+Larry Stewart,815 Jordan Mills Suite 602,South Michelleside,39137,+1-033-332-5713x8867,Copy,7,729.01,0,1,Rural,1,Phone,No Offer,0,1.2484359116349277
+Alexander Walsh,383 Mendoza Crossing,Greenmouth,03121,+1-662-710-8166x94397,Interpreter,10,51.33,1,0,Surburban,1,Web,Discount,0,0.7225864951005467
+Dawn Francis,39089 David Meadow Apt. 954,Briannaberg,73282,+1-281-441-2105x545,Printmaker,2,159.22,0,1,Surburban,0,Web,Discount,0,0.7958721628044092
+Jason Tucker,3504 Alicia Burg,Lake Tylerfort,59558,702-596-0613,Dramatherapist,5,1079.62,1,1,Surburban,1,Web,No Offer,1,1.5846467686302081
+Tristan Alexander,9407 Oliver Valleys Suite 211,Robertmouth,03151,194-251-0402,Radio producer,10,29.99,1,0,Surburban,1,Web,No Offer,0,1.1696652496495714
+Aaron Payne,27687 James Cliffs,Carsontown,04132,245.312.0730,Structural engineer,11,43.51,0,1,Surburban,0,Web,No Offer,0,1.6052364166011652
+Jeffrey West,42335 Kimberly Neck,New Kirk,40364,041-108-7300,Animal nutritionist,10,163.8,0,1,Urban,1,Web,Discount,0,1.6566048517245249
+John Haney,950 Randy Stravenue,North Donna,18612,112.750.2167x43875,Learning disability nurse,9,212.32,1,0,Surburban,0,Multichannel,No Offer,0,1.1674310102044774
+Jennifer Jackson,65690 Lopez View,Amberside,99063,577.700.9838,Sports therapist,7,147.81,1,0,Surburban,1,Web,Discount,0,0.6641610656558046
+Rhonda Smith,8501 Lewis Cove,Brianburgh,83910,271.332.7006x4150,"Scientist, biomedical",5,168.93,1,0,Urban,1,Web,Buy One Get One,0,0.9240254524752831
+Barry Chambers,21703 Michelle Radial,North Rebeccabury,97036,+1-524-397-5581,Seismic interpreter,6,1462.5,1,0,Urban,1,Phone,Buy One Get One,0,1.2654120058231302
+Peter Weber,55070 Rebecca Manor,South Matthewtown,18777,740.975.2282,"Engineer, production",1,544.98,1,0,Urban,1,Web,No Offer,0,1.3600119173961809
+Hannah Miller,686 Christina Island Apt. 569,South Kathleenton,36454,289-799-0228x94412,Fish farm manager,11,322.87,0,1,Rural,0,Phone,Buy One Get One,0,1.3850919265166306
+Brittany Miller,6922 Rachel Place,West Rachelside,21189,1843468666,Web designer,7,508.18,1,0,Urban,1,Web,Discount,0,1.5676550111708478
+Carla Tran,2352 Diaz Pines Suite 694,South Kathleen,33684,075-959-4172x0384,"Engineer, mining",1,50.62,1,0,Urban,0,Web,No Offer,0,1.0064970446588857
+Christie Frazier,1032 Santos Views,East Kaylee,74660,376-179-2068x9255,Office manager,1,806.91,1,1,Surburban,1,Multichannel,Buy One Get One,1,2.165467994276517
+Brett White,470 Carrillo Crescent,South Andrewburgh,53214,3081469832,"Geneticist, molecular",5,291.17,1,0,Surburban,0,Multichannel,No Offer,0,0.6175009554858708
+Douglas Oliver,479 Turner Meadows Suite 215,North Jessicabury,59341,(999)383-6748x2705,Network engineer,6,447.01,0,1,Urban,1,Web,Buy One Get One,0,0.9427271317887925
+Kevin Harris,72221 Walton Springs Suite 044,Kristinastad,06951,001-252-898-9283x03801,Television floor manager,5,777.95,1,0,Surburban,1,Web,No Offer,0,0.3064074753251059
+Kevin Griffin,92512 Cindy Radial Apt. 894,Joneschester,19320,747.072.8450x332,"Programme researcher, broadcasting/film/video",9,174.11,1,0,Surburban,0,Phone,Buy One Get One,1,2.210198681846168
+Ernest Valentine,75173 Deanna Island Apt. 851,Woodsmouth,64394,307.102.2778x424,Energy manager,5,30.59,0,1,Urban,1,Web,Discount,0,0.588208434775894
+Whitney Yang,508 Brent Island,Laurieville,00807,635-584-4957x991,Furniture conservator/restorer,4,305.76,0,1,Surburban,0,Phone,No Offer,0,1.5772017888507452
+Karina Jacobson,6396 Gina Summit,West Mitchellview,25967,732.779.3302x564,Nutritional therapist,8,29.99,0,1,Surburban,0,Phone,No Offer,1,1.3058020175385856
+Karen Lee,421 Cruz Square,Lake Biancaland,37234,(852)093-5460x091,"Psychologist, educational",8,256.83,0,1,Urban,1,Web,No Offer,0,1.012371634519558
+Mrs. Wanda Clark,178 Daniel Pike Apt. 214,Eatonport,20605,612-728-3251x8900,Pension scheme manager,7,462.7,0,1,Surburban,1,Multichannel,No Offer,0,1.8471888291250704
+Brian Martin DDS,125 Donna Inlet Suite 798,West Stevenfort,31916,001-508-875-0648x9234,Estate manager/land agent,7,489.49,1,0,Rural,1,Web,No Offer,1,1.6408932160104497
+Robert Bell,37887 Jarvis Rapids,Jamesbury,68027,838-374-8026x882,IT trainer,1,352.99,1,0,Urban,0,Web,Buy One Get One,0,0.9769077813519891
+Amanda Wright,3128 Willie Pine,Port Donnafurt,07495,416.457.3594x40217,Arboriculturist,3,54.79,1,0,Surburban,0,Phone,Buy One Get One,0,0.8262616671285954
+Robert Wilson,517 Brittany Ranch Apt. 756,Burnsborough,86384,+1-838-370-5922x7532,Radio broadcast assistant,9,29.99,0,1,Surburban,0,Phone,No Offer,0,1.5314854194571796
+Rebecca Morris,34134 Morrison Field Apt. 714,Yodertown,05744,(252)909-1898x967,"Scientist, research (maths)",5,54.14,0,1,Surburban,1,Web,Buy One Get One,0,1.1906774280025252
+Katherine Sanchez DDS,24269 Serrano Manors,Bassburgh,72531,947-976-7296x3409,Chief Marketing Officer,3,104.0,0,1,Urban,0,Phone,Buy One Get One,0,0.6467188518622426
+Melissa Perry,060 Kayla Junctions Suite 996,Calvinchester,34934,(738)654-9163,Financial trader,2,231.27,0,1,Urban,1,Phone,No Offer,0,0.7130024006699132
+Kim Spencer,411 Johnson Spur,South Alexander,72129,(099)018-4760x846,Social worker,2,50.37,1,0,Urban,0,Phone,Discount,0,1.4247245848449093
+Andrew Carpenter,9211 Sweeney Cliff,Stephenview,80257,439-334-6425x649,Financial manager,9,189.33,1,0,Urban,1,Phone,No Offer,0,0.5344273753697082
+Holly Clark,492 Hall Turnpike Suite 386,Lake Emily,34944,251-271-5254x4084,Lawyer,1,368.01,0,1,Urban,0,Web,No Offer,0,0.8103814331688683
+Jesse Preston,212 Joseph Lodge,New Thomasmouth,22192,(066)842-0219x6815,Seismic interpreter,1,331.21,1,0,Rural,1,Phone,No Offer,0,1.2503045358973295
+Alexandra Ramirez,4645 William Lane,Hernandezshire,41283,(731)929-1658x36641,Colour technologist,2,186.51,0,1,Surburban,0,Phone,Discount,0,1.1404590535810237
+David Lawson,196 Clark Locks,Alexfurt,35160,5957449524,Planning and development surveyor,9,433.89,0,1,Rural,0,Phone,Discount,0,0.8848196808313853
+Evan Carroll,6793 Leonard Alley,Fernandotown,51635,+1-452-142-2074,Artist,8,90.62,1,0,Urban,0,Phone,No Offer,0,1.1958214560231772
+Ashley Garrett,802 Mccullough Wall,Lake Stevenview,89790,(917)730-4949,Water engineer,7,29.99,1,0,Surburban,0,Phone,Buy One Get One,0,1.2894367208494824
+David Andrade,8331 Prince Passage Suite 082,Lake Jillianborough,89587,485.733.5096x0622,English as a second language teacher,2,44.37,0,1,Surburban,0,Web,Discount,0,0.7682283888632793
+Charles Mayer,583 Tristan Lakes Suite 479,Angelaport,33581,(408)644-1592,"Designer, television/film set",1,539.96,0,1,Surburban,1,Web,Buy One Get One,0,1.8149130203197155
+John Foster,4935 Sarah Fork Apt. 486,Arnoldborough,40654,6872219751,Video editor,3,43.0,1,0,Urban,0,Phone,No Offer,0,1.5645226549967333
+Jason Walters,427 Romero Tunnel Suite 802,Port Steven,43793,001-255-306-2689,"Nurse, adult",10,145.73,0,1,Urban,1,Phone,No Offer,0,0.7816458850628846
+Kevin Fritz,855 Adam Mission Suite 847,North Christopherside,07583,(375)423-4493x4616,Sales executive,3,80.86,1,0,Rural,1,Phone,No Offer,0,0.2912363739758186
+Vanessa Brown,44527 Lucas Summit,South Tonya,98900,310.851.6168x508,Optometrist,9,646.2,1,0,Urban,1,Phone,Buy One Get One,0,0.9928766920212746
+Teresa Thomas,67079 Shane Track Suite 621,Horneton,81548,001-498-534-6681x05588,Biomedical engineer,1,585.22,1,0,Urban,1,Phone,Buy One Get One,0,1.0568769444600181
+Scott Myers,004 Michael Villages Apt. 826,New Christophermouth,13318,(613)458-0762x924,Paramedic,2,202.92,0,1,Surburban,0,Phone,Discount,0,0.658940049516081
+Kelly West,247 Sarah Turnpike,Millerbury,22411,(973)625-2157x6407,"Research officer, political party",7,78.57,1,0,Urban,1,Web,Buy One Get One,0,0.6378320118609411
+Richard Diaz,25857 Hawkins Spurs,Watershaven,40036,+1-764-348-4059x256,Fashion designer,1,735.63,1,0,Rural,1,Phone,Buy One Get One,0,0.8070181828202382
+Willie Mack,9254 Cathy Fort Suite 009,Port Annburgh,59551,206.817.0806,Acupuncturist,9,162.44,1,0,Urban,0,Web,Buy One Get One,0,1.5543523042381415
+Ryan Mckee,9371 Susan Lodge Suite 058,New Bradleymouth,48926,385.802.4143,Tax inspector,10,226.15,0,1,Surburban,1,Multichannel,Discount,0,1.1223175921098987
+Susan Garcia,131 Miller Lane,Jonesmouth,72820,854-867-9951x34994,Gaffer,10,29.99,1,0,Urban,0,Web,Buy One Get One,0,0.7313363350490871
+Kevin Rice,216 Hall Square,North Melissa,43843,7947638341,Trading standards officer,9,179.43,0,1,Urban,0,Web,Buy One Get One,0,0.795509649610484
+Jon Aguilar,3941 Shelton Station Apt. 687,Christineshire,45577,001-309-379-1651x37930,Product/process development scientist,6,549.78,1,0,Surburban,1,Web,Discount,0,1.4599977968845501
+Andrew Johnson,31911 Richards Mill,West Claytonmouth,06131,3787895180,Contracting civil engineer,9,34.72,0,1,Surburban,1,Phone,No Offer,0,0.8083843682939658
+Joseph Collins,11523 Carroll Keys Apt. 612,Derricktown,96109,813-249-5469x0215,Human resources officer,1,61.08,0,1,Rural,0,Web,Buy One Get One,1,2.0172571791361693
+Christine Casey,458 Tanner Stravenue,Bassview,72278,001-524-739-7034x4432,Interior and spatial designer,1,92.29,0,1,Rural,1,Phone,No Offer,1,1.3348310117909126
+Dawn Strickland,4688 Jessica Parkway Suite 804,East Darlene,06283,+1-062-971-4362x15543,Sport and exercise psychologist,4,316.87,0,1,Urban,1,Web,Discount,0,1.7338908469176073
+Mrs. Taylor Chan,435 Sullivan Extension Apt. 963,Parksport,19516,886.995.5342,"Exhibitions officer, museum/gallery",2,189.02,0,1,Urban,1,Phone,No Offer,0,1.294149189956255
+Lisa Thomas,5720 Carroll Wall Suite 225,Lewismouth,93522,001-861-952-3733x586,"Therapist, horticultural",2,210.51,0,1,Urban,0,Phone,Discount,1,2.4773092046040186
+Lauren Hunt,404 Steven Road Apt. 331,Hernandezfort,67379,265-635-8245x46423,Seismic interpreter,9,301.15,1,1,Surburban,0,Phone,Discount,1,1.4067422425491698
+Lisa Farmer,7571 Doyle Fields Apt. 569,Courtneyville,98841,784-847-1316x93758,"Lecturer, higher education",9,127.38,1,0,Surburban,0,Web,Buy One Get One,1,2.281961133446712
+Renee Adams,16632 Armstrong Parks Suite 609,East Ashleychester,23368,2636706850,"Journalist, broadcasting",9,29.99,0,1,Surburban,1,Web,Discount,0,1.4020434992671948
+Misty Lutz,3376 Beck Oval Suite 997,Austinbury,81396,001-379-658-5943,"Psychologist, forensic",9,29.99,0,1,Urban,1,Web,No Offer,0,0.3831110068999172
+Stephen Johnson,06318 Matthew Shoals,Traceyshire,46078,+1-810-075-2513,Soil scientist,1,70.17,1,0,Surburban,0,Web,No Offer,0,0.06951670034511936
+Joshua Lopez,8846 Webb Row,East Danny,56914,273.965.1549,Transport planner,11,262.78,1,0,Urban,1,Phone,Buy One Get One,0,0.8179325943661596
+Jason Hansen,723 Preston Island,Michaelport,36797,001-112-309-4020,Musician,10,138.83,1,0,Urban,0,Phone,No Offer,0,0.37952478131193923
+Alex Johnston,142 Elliott Plaza Suite 705,New Nathanieltown,52889,228.990.0805,Biomedical scientist,6,505.48,1,1,Surburban,1,Phone,No Offer,0,0.07047624566057598
+Jason Davis,67043 Park Park Apt. 466,Lake Ian,09178,001-469-542-8806,Museum education officer,11,92.28,0,1,Surburban,1,Web,Buy One Get One,0,0.9590727944957033
+Mark Sheppard,0566 Garcia Street,South Donald,12424,(828)797-3878,Energy engineer,4,209.79,0,1,Rural,0,Multichannel,Discount,1,3.5391528349086636
+Vanessa Smith,47190 Mcconnell Spur,New Kayla,77017,(279)718-8497,Environmental consultant,3,34.22,1,0,Urban,1,Phone,Discount,0,0.4069335288139696
+Sharon Hardy,093 Romero Mall,South Reginaldbury,75952,(814)735-7017x23429,Artist,2,152.95,0,1,Surburban,0,Web,No Offer,0,1.7484565478483551
+Carl Thomas,488 John Vista,South Jennifer,42590,170.072.3816x321,Psychiatric nurse,5,427.17,1,1,Urban,0,Web,No Offer,0,1.3582880662544565
+Gail Long,0963 Christian Trace,Mayport,58311,9667942516,Public relations officer,1,163.58,0,1,Urban,0,Web,Buy One Get One,1,1.707710491313869
+Brittany Roberts,47908 Jason Lake,New Eric,63645,529-094-7418,Clinical research associate,1,75.83,1,0,Surburban,0,Phone,No Offer,1,1.4725940431829763
+Susan Norris DVM,71159 Kevin Rue Apt. 301,Greenmouth,33080,(221)718-2936x470,Media planner,11,184.17,1,0,Surburban,0,Phone,Buy One Get One,0,0.49489295658454424
+Brittany Martinez,015 Darlene Fork,New Patriciatown,13089,001-691-723-0413x73134,Air cabin crew,10,466.25,0,1,Urban,0,Phone,No Offer,0,0.5344631999073437
+Joan Allen,8960 Reyes Club Suite 842,Sharonport,20666,001-243-751-7468x995,Clothing/textile technologist,7,151.91,0,1,Surburban,1,Web,Buy One Get One,0,0.17920700722822636
+Karen Ward,253 Quinn Pike Suite 558,New Ashleyhaven,41984,6069592481,Merchant navy officer,1,148.57,0,1,Urban,0,Web,Buy One Get One,0,0.20308438144764507
+Steven Richards,7231 Williams Oval,New Kyleborough,51396,697-627-3510,Information systems manager,2,200.23,1,0,Surburban,0,Phone,Buy One Get One,0,0.28964062870656015
+Deanna Alexander,84179 Katherine Squares,New Seanton,16925,(537)074-1728x57523,Toxicologist,5,663.14,1,1,Surburban,1,Multichannel,Buy One Get One,1,2.0399142643482726
+Kathryn Jackson,0174 Tammy Loop,West David,73137,001-995-237-3344x1660,Fine artist,4,383.9,0,1,Surburban,0,Web,Buy One Get One,0,0.8310649672558764
+Bianca Turner,814 Robert Courts,Leechester,77888,910-173-9418,Market researcher,2,227.46,1,0,Urban,0,Web,No Offer,0,0.9052760248728924
+Brandon Swanson,41145 Hernandez Forest,Lambertview,32040,001-297-733-2559,Colour technologist,8,212.27,0,1,Urban,1,Multichannel,Buy One Get One,0,1.2991893197984727
+Mr. Jeffrey Oneill Jr.,121 Andrew Junction,New Bridget,42425,513.317.6414x36409,Counsellor,6,97.9,0,1,Surburban,1,Phone,Discount,0,0.9626233184873877
+Gerald Leonard,0858 Crane Square Suite 846,Port Andreaside,11295,0752161665,"Lighting technician, broadcasting/film/video",7,208.25,0,1,Surburban,1,Multichannel,Buy One Get One,0,1.5671545342505016
+Elizabeth Williams,106 Robinson Stream,Adamsbury,50207,220-583-5388x352,Environmental education officer,12,88.65,1,0,Surburban,0,Web,Discount,0,1.8376792810358333
+Samantha Green,0249 Thompson Avenue Apt. 894,Cynthiaton,90526,218.999.2599x2436,"Lecturer, further education",10,64.55,1,0,Surburban,1,Phone,Buy One Get One,0,1.0849867881610908
+Christopher Lucas,335 Cody Well,West Keith,18950,001-679-745-4818x84993,"Surveyor, minerals",2,454.04,1,0,Surburban,0,Web,Buy One Get One,0,0.8126156144370997
+Denise Hughes,65574 Brian Circle Apt. 313,East Jesusshire,53395,700.036.5432x55708,"Scientist, product/process development",1,29.99,0,1,Urban,0,Web,Buy One Get One,0,1.0183234711903657
+Lisa Peterson,3915 Dana Ways,Port Joan,44366,7696336689,Geoscientist,7,157.63,1,0,Urban,1,Phone,Discount,0,0.4611518352915942
+Mr. Shane Robinson,1929 Zachary Crescent,Brianport,26722,742.776.7349,Financial adviser,3,29.99,0,1,Urban,1,Phone,Discount,0,1.5962325110737745
+Cassandra Nelson,2025 Elizabeth Rue Apt. 680,Lake Kristen,09014,966-814-2726x398,"Geologist, wellsite",10,119.63,0,1,Rural,0,Web,Discount,0,0.7792645713324533
+John Kim,631 Becky Rapid,South Kevinborough,15773,+1-419-585-8535x318,Software engineer,4,317.96,0,1,Urban,0,Web,No Offer,0,0.8801457082126365
+Amy Barajas,280 Howard Streets,Kevintown,99197,569-118-1448,"Accountant, chartered",3,138.44,1,0,Urban,1,Phone,Buy One Get One,0,1.0713701405081835
+Christine Young,610 Mcpherson Lodge Suite 177,Anthonyshire,96435,203.593.3632,Building surveyor,4,186.97,1,0,Urban,1,Web,No Offer,0,0.7938680747035336
+Derek Singh,722 Smith Squares,West Evelyn,15846,+1-526-851-2886x749,Computer games developer,5,226.84,0,1,Surburban,1,Multichannel,No Offer,0,1.324674382677038
+Angelica Adams,98461 Sharon Groves,South Stevenstad,37780,3436237298,"Administrator, Civil Service",3,351.2,1,0,Surburban,0,Multichannel,Buy One Get One,0,1.108529208396566
+Mary Smith,8732 Thomas Pike,Victoriabury,55292,001-248-238-9138x3060,Academic librarian,2,458.41,0,1,Surburban,0,Multichannel,Discount,0,1.2845952968933156
+Jeffrey Campbell,18511 Ashley Garden Suite 495,East Annefort,81898,(521)051-0389x4443,Air traffic controller,5,135.64,1,0,Urban,0,Web,Discount,0,-0.13870164973678523
+Donna Stark,739 Lisa Green Apt. 616,Lake Jesse,92107,001-185-841-1080,Data processing manager,10,127.29,0,1,Urban,1,Phone,No Offer,0,1.2736906610270085
+Alyssa Delgado,767 Brown Key,Jackberg,56835,346-990-7410x449,Applications developer,9,158.91,1,0,Rural,1,Web,Buy One Get One,1,1.8466892761658018
+Larry Bryant,106 Baker Road Suite 194,Kyleberg,66741,007-462-3403,Medical illustrator,1,478.49,0,1,Surburban,0,Multichannel,Buy One Get One,0,0.8771599179801062
+Allison Nguyen,0864 Nichols Ports Apt. 851,Robertsport,02611,825.570.9042,Mental health nurse,11,138.08,1,0,Urban,0,Phone,Buy One Get One,0,0.33408796035214694
+Michelle Owen,5259 Humphrey Brooks Suite 648,New Brent,85274,001-912-371-5422,Exhibition designer,1,525.42,0,1,Urban,1,Phone,Discount,0,0.5770717604203845
+Lacey Lynch,181 Ross Island,Michaelside,37593,001-812-395-0238x1650,Cartographer,1,303.34,1,1,Urban,0,Web,Discount,1,2.122690772558828
+Tyler Spencer,865 Linda Lights Suite 621,Lake Felicia,41097,995-984-8130,"Teacher, early years/pre",5,50.63,1,0,Urban,0,Phone,Discount,0,0.7822352107229024
+Stephen Rogers,070 Foley Isle,South Adam,82854,001-454-582-5407x172,Chief Operating Officer,9,35.4,0,1,Surburban,1,Web,No Offer,0,1.393638327568851
+Alexandra Bell,417 Ashley Square Apt. 740,South Anthony,16515,052-299-9461,Chief Strategy Officer,7,38.9,0,1,Surburban,1,Web,Buy One Get One,0,0.5785726796720945
+Mark White,5792 Rodriguez Via Suite 677,Nguyenville,18317,001-616-294-4384x241,Clinical embryologist,5,46.09,1,0,Urban,0,Web,No Offer,0,1.147796237492513
+Brian Knox,716 Carol Valley,Cookburgh,72152,+1-660-323-6362x7967,Local government officer,6,333.21,1,0,Urban,1,Phone,Discount,0,2.032760841086805
+Belinda Griffin,844 Kim Corner,Travismouth,34782,001-921-919-8825,Environmental consultant,2,584.37,1,0,Urban,1,Multichannel,Discount,1,1.8335369360934326
+Annette Johnson,43740 Richard Mountains,West Jorge,94625,430-598-1636x358,Technical sales engineer,6,29.99,0,1,Urban,1,Phone,Buy One Get One,0,1.7113405832708022
+Marc Thomas,492 Ashley River Suite 010,Port William,50261,334-488-0104,Statistician,4,78.96,0,1,Urban,1,Phone,No Offer,0,0.8133721806491696
+Timothy Rogers,807 Patricia Underpass Apt. 339,North Theodoreborough,82090,001-232-249-6552x312,"Scientist, clinical (histocompatibility and immunogenetics)",4,53.42,0,1,Surburban,0,Phone,Discount,0,1.1903112484049012
+Sara Nicholson,31027 Stephanie Streets Apt. 065,Jamieton,35700,+1-024-888-3980,Accommodation manager,3,314.67,1,0,Rural,1,Web,No Offer,0,0.802403128946584
+Juan Ramos,76005 Susan Keys Suite 117,North Stacey,09832,001-397-753-9146x1559,"Therapist, drama",5,306.21,0,1,Surburban,0,Web,Buy One Get One,0,0.5425974015186839
+Mary Brown,059 Robert Course Apt. 173,Bakerport,85711,001-367-427-3951x31541,Manufacturing systems engineer,4,72.38,1,0,Rural,1,Web,Buy One Get One,1,1.9712097745767694
+Benjamin Bishop,05498 Jessica Union,Lake Alicia,14667,886-060-2763x578,"Buyer, industrial",1,375.03,1,0,Surburban,0,Phone,No Offer,0,1.2391276439074885
+Melissa Lee,854 Smith Plaza,New Michelleland,87254,726.347.3977x1634,Print production planner,3,163.76,1,0,Surburban,1,Phone,Buy One Get One,0,0.6203325685205401
+Jonathan Anderson,403 Cory Avenue,Blackwellville,75140,108-478-2064x8692,Educational psychologist,6,178.37,1,0,Surburban,1,Web,Discount,1,1.7281437665310482
+Jason Moore,54583 Riley Points Apt. 019,Michaelchester,08654,207-820-7793x58477,Mudlogger,1,522.77,1,0,Surburban,1,Multichannel,No Offer,0,0.714375887519509
+Stephen Cortez,37494 Kathryn Creek,Sabrinabury,40006,+1-670-636-3020x788,Acupuncturist,8,59.95,1,0,Urban,0,Phone,No Offer,0,0.935821788490509
+Ashley Ramirez,991 Thomas Road Suite 423,Sarahfurt,75587,001-962-764-6780x92510,Actuary,6,569.14,0,1,Surburban,1,Web,No Offer,0,1.6780645442916242
+Andrew Edwards PhD,63434 Kennedy Square Suite 452,Garyborough,57462,(293)933-1881x65419,Telecommunications researcher,4,275.27,1,0,Rural,1,Phone,No Offer,0,1.2205281718969858
+Christopher Rodriguez,0819 Lester Road Apt. 532,Atkinsonfort,42069,386-245-3748x88483,"Geologist, engineering",1,29.99,0,1,Urban,0,Web,No Offer,0,1.234574652083614
+Francisco Jones,783 Christine Plains Apt. 186,New Andrewbury,75767,2886566857,Senior tax professional/tax inspector,2,675.88,1,1,Urban,1,Phone,Discount,0,0.5551294110121274
+Andrea Brown,24854 Murray Mountains,Kelliborough,08164,+1-320-534-5321x379,Actor,10,161.65,1,0,Surburban,0,Web,Buy One Get One,0,0.6012599673535495
+Cody Roberts,88920 Jake Cove,West Kristieburgh,51324,655-601-6030x95515,Garment/textile technologist,11,568.56,1,1,Urban,1,Multichannel,Buy One Get One,0,0.40265261790187945
+Gerald Hanson,229 Lindsay Rapids,South Lisaside,96840,881.535.1889x61165,"Therapist, sports",9,257.6,1,1,Urban,1,Phone,No Offer,0,1.0718288207988704
+Randy Morse,34150 Jonathan Mountain Apt. 732,Millerchester,44873,348-287-4246x7061,Energy engineer,2,269.13,0,1,Surburban,0,Multichannel,Buy One Get One,0,1.1191125756220395
+Jessica Smith,421 Castro Branch Apt. 812,Raymondshire,72188,(150)207-0444x9643,Applications developer,12,32.51,0,1,Rural,0,Phone,No Offer,0,0.5308723845280701
+Terri Rich,575 Cross Gardens,Lake Michaelhaven,21945,7970620204,Health and safety adviser,11,99.05,1,0,Urban,1,Phone,No Offer,0,0.30681027545862716
+Jerry Johnston,280 Drake Keys,North Cindy,71564,402.979.6216,Commissioning editor,7,340.72,1,0,Urban,0,Web,Discount,0,1.3956053996337032
+Debbie Clark,168 Black Cape,Kinghaven,79396,725.658.6875x0879,Astronomer,9,100.86,1,0,Surburban,1,Phone,Discount,0,0.8500212121362618
+Robert Rivera,8709 Walker Shoal,Port Jeffrey,16584,313.464.8979,Operational investment banker,3,1118.27,1,1,Surburban,1,Multichannel,Buy One Get One,0,1.4681537747092812
+Brandy Cortez,5775 Benjamin Crescent,South Tiffany,98727,861-958-9511x305,Agricultural consultant,2,214.95,0,1,Rural,1,Web,Buy One Get One,0,0.6457286083154601
+Christopher Coleman,3875 Jared Grove Apt. 629,East Pamelafurt,21333,(282)962-9766,Applications developer,11,143.91,0,1,Surburban,0,Phone,Buy One Get One,0,0.7696784797952324
+Jessica Austin,404 Sharon Ports,Anthonytown,17506,+1-142-590-0648x45560,"Designer, interior/spatial",10,1097.45,0,1,Surburban,1,Phone,No Offer,1,2.3894032712379447
+Patty Butler,98372 Osborne Canyon Suite 054,New William,96094,9319970767,Higher education careers adviser,6,263.84,0,1,Rural,1,Web,Buy One Get One,1,1.7805020381664034
+Travis Soto,957 Joshua Street,Fishershire,46915,745-316-3283x986,Public house manager,7,45.72,1,0,Urban,0,Phone,No Offer,0,0.6388312977565956
+Leah Strong,77602 Dennis Row,East Alexmouth,87761,610.007.0484x505,"Lecturer, further education",2,243.5,1,1,Surburban,0,Phone,Discount,0,1.0946039086866273
+Christopher Gilbert,072 Calderon Roads Apt. 553,East Cindy,76900,471.787.4483,Operational investment banker,8,58.28,0,1,Urban,0,Phone,Discount,0,1.0618963706992115
+Rebekah Adams,716 May Plaza,Lake Amandaburgh,46889,001-185-630-2960x623,"Surveyor, building control",2,225.35,1,0,Urban,0,Phone,No Offer,0,1.4102440246437171
+Joseph Cannon,863 Bates Radial,South Richardborough,17012,365.046.6396,Paramedic,3,222.8,1,0,Urban,0,Web,Discount,0,1.3909367040957985
+Erin Palmer,8675 Suzanne Ports Suite 062,South Katherinefurt,98380,217-578-3705x184,Radio producer,1,29.99,1,0,Rural,1,Web,Discount,0,1.2244261781662282
+Melissa Webb,31927 Stewart Branch Suite 623,Danielton,71942,+1-884-573-5779x793,Child psychotherapist,1,313.98,0,1,Surburban,0,Web,No Offer,0,0.915625413228546
+Amy Hernandez,01513 Jasmine Plain Apt. 540,Brianburgh,68481,396-563-3781,Veterinary surgeon,6,105.87,1,0,Surburban,1,Web,Discount,0,0.9917853216867633
+Claudia Rivera,737 Melissa Points,West Miranda,26583,524.686.0617,Cabin crew,5,29.99,0,1,Surburban,1,Web,Buy One Get One,0,1.2485325408175703
+James Tucker,5687 Kathleen Keys,Bryantshire,75442,731.015.1789,Agricultural consultant,3,244.64,1,0,Surburban,0,Phone,Buy One Get One,0,0.7958834505635631
+Devin Myers,90156 Smith Stream Suite 236,West Ashleyborough,83694,023-170-6974x04127,Jewellery designer,12,49.5,0,1,Surburban,1,Phone,Buy One Get One,0,0.5914676809726573
+Hannah Burgess,631 Lisa Roads,South Deborah,17180,113.457.9107x922,"Conservator, museum/gallery",7,29.99,1,0,Rural,1,Web,Buy One Get One,0,1.081671577282829
+Sean Webb,545 Brian Islands,Waynebury,73138,996-907-7189,Communications engineer,1,29.99,1,0,Surburban,0,Web,Discount,1,2.0018150272256943
+Samuel Fuller,3575 Jacqueline Mountains Suite 212,Lake Timothyside,37872,001-359-904-2092x8202,Warehouse manager,7,56.46,1,0,Urban,1,Web,Buy One Get One,0,1.2891861500017383
+Samuel Bennett,023 Morris Light,South Kevintown,24708,+1-984-353-1852x0962,Financial controller,4,110.29,0,1,Urban,0,Web,No Offer,0,1.2441236684636665
+Walter Dudley,042 Ryan Ridge,Burnsstad,70299,(990)109-9850x976,Midwife,10,300.6,1,1,Urban,0,Multichannel,Discount,0,0.4282519979140337
+Ryan Carr,3218 Swanson Circles,West Josephhaven,51065,001-711-122-8318,Multimedia programmer,3,29.99,0,1,Surburban,1,Web,Buy One Get One,0,0.6054203092684955
+Oscar White,38851 Jackson Via,Port Johnfort,69394,129-055-8932x81645,Comptroller,9,174.64,0,1,Urban,1,Web,No Offer,0,0.2092840981299583
+Cynthia Leach,8262 Allison Walks Suite 254,Brendamouth,37336,(698)086-7825,"Production assistant, television",5,771.92,0,1,Surburban,1,Multichannel,No Offer,0,0.6568820430494916
+Alicia Miller,477 Barnett Knoll,Biancahaven,25973,001-409-568-7487,Tourism officer,1,215.23,1,0,Urban,1,Multichannel,Buy One Get One,0,0.716118644904736
+Kelly Jefferson,488 Cindy Track Suite 734,Kathrynshire,05800,(512)551-7374x085,Operational researcher,7,192.12,1,0,Urban,0,Web,No Offer,0,0.978382538898928
+Joel Chavez,4096 Stephanie Mission Apt. 413,South Scottborough,57714,+1-793-414-8281x1467,Historic buildings inspector/conservation officer,6,40.02,0,1,Surburban,0,Web,No Offer,0,0.49277724733650186
+Kathleen Smith,912 Michael Lake Apt. 842,Ryanberg,20123,955-841-9484x308,Legal secretary,8,29.99,1,0,Surburban,0,Web,Buy One Get One,1,1.7692676987501201
+Nicole Ibarra,54246 Hatfield Inlet Suite 913,Erinmouth,68112,(160)316-7977,Clothing/textile technologist,10,275.04,1,0,Rural,0,Web,No Offer,0,0.7768130121915058
+George Carlson,684 Colleen Ferry,Leechester,10461,197.963.3310x94976,Contracting civil engineer,2,518.53,0,1,Surburban,1,Phone,Discount,1,2.3310530042965896
+Keith Cook,3555 Amanda Drive,South Brentchester,27500,001-164-892-8399x426,"Designer, fashion/clothing",3,454.0,0,1,Urban,0,Multichannel,Discount,0,1.361440729390899
+Anthony Cook,87991 Montes Square Suite 794,Jacksonfurt,44924,514.075.8646,Industrial/product designer,3,342.64,0,1,Surburban,0,Phone,No Offer,0,1.6347036582415297
+Melissa Barnes,884 Sullivan Shore Suite 522,Brandtstad,35651,(579)211-9881x00418,Records manager,8,337.09,1,0,Surburban,0,Phone,No Offer,0,1.7061835866506518
+Adrian Anderson,795 Hernandez Lock Suite 609,Tammyland,27549,+1-480-061-1632x5326,Chartered loss adjuster,1,1311.69,1,1,Surburban,1,Multichannel,Buy One Get One,0,0.9362712906613186
+Samantha Garcia,02913 Deborah Points,North Daniel,92512,586.180.6997x3763,Psychiatric nurse,1,817.36,1,1,Urban,1,Phone,Buy One Get One,1,2.659953160738482
+Erin Holder,731 Peter Park,Port Robertbury,98036,6630615183,Newspaper journalist,10,246.4,1,0,Urban,0,Phone,Buy One Get One,0,1.129069987883724
+James Torres,293 Perez Rest,Port Courtney,77335,(162)834-4940x11927,Toxicologist,1,406.33,0,1,Surburban,0,Web,Discount,0,0.926921673209842
+Kari Rivera,92516 Marvin Meadow Suite 667,Port Joshuaburgh,42591,183-633-9639x22169,Museum/gallery conservator,11,98.05,0,1,Surburban,1,Web,Discount,0,1.267764757429894
+Donna Stewart MD,158 Daniel Mountains,Guerreroton,83678,(499)579-5048x71982,Accommodation manager,1,186.69,1,0,Surburban,0,Phone,Buy One Get One,0,1.0966065798388227
+Megan Jordan,332 Dixon Way Suite 715,North Emilytown,08684,+1-613-590-0939x9982,Hospital pharmacist,1,29.99,0,1,Surburban,0,Web,No Offer,1,2.3688758845474203
+Brandon Wright,899 Bennett Stravenue,West Brandonmouth,62087,(060)224-6448,Health physicist,8,29.99,1,0,Surburban,1,Web,No Offer,0,1.2148807788363933
+Russell Barker,96094 Ashley Lakes,Michellemouth,22803,708-725-5480x8084,"Surveyor, hydrographic",1,586.52,1,0,Rural,1,Multichannel,No Offer,0,0.725825470812848
+Charles Hernandez,285 Holmes Key,Mariofurt,44834,001-819-483-9358x403,Tree surgeon,8,286.25,0,1,Urban,1,Multichannel,Buy One Get One,0,0.6589893323845581
+Cynthia Berg,384 Edwards Path Apt. 030,Laurashire,38621,001-092-471-7076x97116,Higher education lecturer,10,89.45,1,0,Surburban,1,Web,No Offer,0,0.8245078093303548
+Kelsey Mcdonald,55013 Shepherd Villages Suite 462,Joneschester,14688,381.986.5443,Merchant navy officer,8,194.81,1,0,Urban,1,Web,Buy One Get One,1,1.99726898782956
+Judy Gonzalez,0900 Lang Port,Allisonbury,78529,(879)951-1915x7501,Market researcher,10,33.57,1,0,Urban,0,Phone,Discount,0,0.1415820383335148
+Rebecca Mason,510 Donovan Union Suite 404,West Anthonyberg,67226,(957)502-2871,Tourist information centre manager,9,140.33,1,0,Rural,1,Phone,Buy One Get One,0,1.231098465264691
+Darius Jones,12805 George Row,Tiffanyhaven,64266,5342125692,Further education lecturer,1,382.15,0,1,Urban,0,Phone,Discount,1,2.1228297933320266
+Wendy Nichols,07897 Anderson Oval Suite 909,New Brittneyberg,26330,001-351-682-2954,Holiday representative,5,63.2,0,1,Rural,0,Phone,Discount,0,1.0892936791224357
+Chad Turner,36859 Crawford Ridges Suite 013,Jessicaborough,67421,(627)686-4774x4297,"Lecturer, higher education",10,148.23,0,1,Urban,1,Phone,No Offer,0,0.6564880780483482
+Michael Bryant,386 Matthew Springs,Lake Jennifer,81706,(954)865-2540,"Buyer, industrial",3,123.2,1,0,Urban,1,Phone,Discount,0,1.2185280933906173
+Jesus Hays,55592 Caleb Summit Suite 448,Lake Lisaton,38285,(950)893-9030,Production engineer,1,485.53,1,0,Urban,0,Web,Buy One Get One,0,0.4586424567315093
+Henry Baker,304 Clark Plaza Suite 649,New Brandon,37383,001-201-466-6778x507,Audiological scientist,1,398.71,1,0,Rural,0,Web,Buy One Get One,0,0.7320760042865206
+Natalie Harris,9418 Robert Villages,Diaztown,74955,001-992-669-2145x903,Chartered management accountant,9,46.56,1,0,Surburban,0,Web,Discount,1,2.1448759664314574
+Eileen Russell,48758 Johnson Route,West Williamfort,35127,0597263766,Information systems manager,9,29.99,0,1,Surburban,0,Phone,No Offer,0,0.8147212209527781
+Stephanie Turner,332 Williams Wall,South Laura,52674,+1-706-746-2357x1220,Equities trader,1,162.82,1,0,Surburban,0,Phone,No Offer,1,1.7734752100671565
+Jacob Thomas,6198 Charles Prairie,North Coreyfurt,25250,(305)989-3215x94529,Training and development officer,2,2080.78,1,1,Rural,1,Phone,Buy One Get One,0,1.8087625027743068
+Lonnie Lin,0377 Austin Street,South Christina,16598,+1-736-353-3513,Armed forces technical officer,10,85.31,1,0,Urban,0,Web,No Offer,0,0.7747524800390725
+Sheila Smith,090 Banks Spurs Suite 406,Joelmouth,21743,(579)433-5937,Advertising art director,2,180.48,1,0,Urban,0,Phone,Discount,0,1.361268366437183
+Amy Thompson,209 Jones Radial,Andrewbury,57592,(233)444-2515x96444,Field trials officer,7,139.53,0,1,Surburban,1,Phone,Discount,0,1.594588724668065
+Kelly Sharp,53313 James Stream Apt. 009,Christopherborough,14143,8692162501,"Conservation officer, historic buildings",7,151.89,1,0,Urban,0,Web,No Offer,0,0.7415231632996253
+Kimberly Howard,4645 Kevin Isle Suite 247,West Apriltown,56417,6462640922,"Designer, fashion/clothing",10,29.99,1,0,Urban,0,Phone,No Offer,0,1.0186017954630509
+Dawn Gutierrez,493 Yates Highway,Michelleberg,03064,263-341-8826x274,Ecologist,1,651.65,1,1,Urban,1,Web,No Offer,0,0.8570058390088938
+Dawn Watkins DDS,629 Jessica Points,Andreashire,13492,352-451-1433x3197,"Development worker, international aid",10,209.02,0,1,Rural,0,Multichannel,Buy One Get One,0,0.8449727711822271
+Christina Lee,77250 Fernandez Estates Apt. 509,North Pamela,09754,(261)361-8772x3052,Outdoor activities/education manager,1,305.09,1,1,Surburban,0,Phone,Buy One Get One,1,1.6251980310124965
+Karen Robertson,916 Mccormick Street Apt. 119,East Shawn,90864,572-086-9220,Chief Marketing Officer,2,424.44,0,1,Urban,0,Phone,Discount,0,0.6226373967245404
+Thomas Jacobs,905 Rachael Ports Suite 425,Gutierrezchester,43820,+1-604-049-0125x2758,"Research officer, trade union",10,138.11,0,1,Urban,0,Phone,Buy One Get One,0,0.599096363105732
+Alicia Washington,54067 William Bridge,Lake Christopher,37768,+1-446-911-1880,Plant breeder/geneticist,1,804.15,1,1,Surburban,1,Multichannel,Discount,1,2.096894476587112
+Donald Lewis,3483 Stacy Dale,Port Catherinefort,87958,(640)263-7169x85515,Charity officer,11,85.29,0,1,Surburban,0,Phone,Discount,0,0.6620205339611832
+Laurie Hines,3383 Jordan Dam,Port Robyn,84231,932.189.2474,Higher education careers adviser,9,29.99,0,1,Surburban,1,Phone,No Offer,0,0.3265155946028441
+Alejandro Williams,436 Jennifer Flats Suite 164,East Andrew,63278,(402)815-4371,Jewellery designer,4,307.66,1,0,Urban,1,Web,Discount,1,1.5444031214388958
+Jackie Scott,701 Samantha Way,Brownhaven,01089,001-470-119-8399x741,Forensic psychologist,11,123.25,1,0,Surburban,0,Web,Discount,0,1.0941853795479362
+Cory Ochoa,6179 Marshall Bridge,South Jerryport,70613,091.675.0054x812,"Surveyor, building control",2,322.83,1,0,Surburban,0,Multichannel,No Offer,1,2.6518922237545333
+Matthew Martin,889 Jennifer Camp Apt. 873,Scottshire,95416,2824929448,"Accountant, chartered certified",3,261.43,0,1,Urban,1,Web,Discount,0,0.3501500059295257
+Craig Clark,1312 Ellis Gateway,Anthonyberg,90997,377-022-1357,"Teacher, early years/pre",7,513.78,1,0,Urban,1,Phone,No Offer,0,1.297268716863774
+Samantha Hall,7771 Gregory Springs Suite 738,Vincentshire,31617,725.830.9716x598,"Production designer, theatre/television/film",5,746.6,1,0,Surburban,1,Multichannel,Buy One Get One,1,1.6304891944986142
+Autumn Smith,137 Jeff Flat Apt. 681,Kellybury,75657,792-366-5404x9286,Physiotherapist,8,56.17,1,0,Urban,0,Phone,No Offer,0,1.5884657061612344
+Jeffrey Abbott,336 Harris Street Apt. 859,Keithside,79854,001.878.6470x80035,"Sales professional, IT",1,1486.31,1,1,Surburban,1,Phone,Buy One Get One,1,2.181074316116061
+Christine Stephens,921 Brooks Springs,North William,68318,573.766.3021x530,Broadcast engineer,1,143.84,0,1,Rural,1,Phone,Discount,0,1.425238472756677
+Kristi Brown,41537 Larry Station,South Daniel,14623,001-114-713-2289x55200,Clinical molecular geneticist,10,82.14,0,1,Rural,0,Web,No Offer,1,2.47426620824615
+Charles Torres,394 David Estate Apt. 384,Carlsonbury,50786,(142)807-9670,Human resources officer,9,29.99,0,1,Surburban,1,Web,No Offer,0,0.6644443714528464
+Brittney Graham,0566 Rodney Stream Apt. 270,Port Stephanie,35488,+1-813-761-0227x8052,"Surveyor, hydrographic",9,152.55,0,1,Rural,1,Phone,Discount,0,1.2335753602513098
+Douglas Cowan,77442 Smith Tunnel Suite 460,Coryville,93235,(456)135-2063x8115,Theatre stage manager,5,145.36,1,0,Rural,1,Web,No Offer,1,2.019074285226621
+Debbie Bennett,373 Holloway Haven,Port Joshuaville,13046,674.381.4450x79910,Architect,9,314.36,0,1,Urban,0,Phone,Discount,0,0.992654571579252
+Annette Lewis,9861 Fernando Parkway Apt. 170,East Lisafort,31583,530.209.8777,Hydrogeologist,3,390.34,1,0,Urban,0,Web,No Offer,0,0.8841300872856392
+Randy Phelps,2189 Best Lane Suite 296,Port Laura,91133,153.114.4034,Personal assistant,12,618.13,1,1,Urban,1,Phone,No Offer,0,0.7688635910278407
+Kathleen Bennett,1632 Campbell Plains,Muellerbury,92117,565.627.4641x59846,Software engineer,6,29.99,0,1,Rural,1,Phone,No Offer,0,0.9400603740356244
+Mathew Patel,3460 Joseph Flats Suite 266,Fryebury,88723,(980)264-5072,Leisure centre manager,6,29.99,0,1,Urban,0,Phone,Discount,0,1.1261202882819517
+Denise Alvarez,76589 Silva Skyway Apt. 371,Philipfort,20170,803-391-8871x285,"Surveyor, insurance",6,54.41,0,1,Urban,1,Phone,Buy One Get One,0,1.1154311345090688
+Brianna Peterson,3260 Tina Haven,Port Victoriaside,44033,965.748.4730,Visual merchandiser,9,718.97,0,1,Rural,1,Multichannel,Discount,0,0.8612634668447667
+Marcus Rodriguez,947 Thomas Common Apt. 550,West Danielle,64247,6439760270,"Therapist, music",6,154.16,1,0,Surburban,0,Web,No Offer,0,-0.17560103611354982
+Emily Hawkins,16066 Kristen Trail,East Jeffreyhaven,85008,001-111-718-3563x101,Hydrographic surveyor,9,157.41,0,1,Urban,0,Web,No Offer,0,1.1157883369766661
+Morgan Rodriguez,469 Eric Plaza Suite 211,North Larry,55005,(290)661-1428,Tourist information centre manager,6,56.14,0,1,Surburban,1,Web,Buy One Get One,0,0.8685550227368566
+Henry Jones,661 Ryan Forks,West Garyfort,08563,+1-396-499-2326x161,Rural practice surveyor,7,77.94,1,0,Surburban,1,Web,No Offer,0,1.1430678718759075
+James Johnson,11476 Sherman Plaza Apt. 733,South Michael,03805,3966808564,Copy,1,335.08,0,1,Urban,0,Phone,Buy One Get One,0,1.1522101483696572
+David Rogers,58327 Petersen Track,Baldwinbury,44553,940-035-0525x8322,Risk manager,5,29.99,0,1,Rural,1,Web,Discount,0,0.7701816065234446
+Amber Miller,58967 Peter Orchard Apt. 037,West Charlestown,42568,363.702.0257,Data processing manager,10,110.84,1,0,Surburban,0,Phone,Discount,0,1.2588821530111924
+Susan Bentley,50093 Dalton Walks Suite 589,West John,31501,850.862.8920x79833,"Biochemist, clinical",10,312.03,0,1,Rural,0,Web,Discount,0,1.7614873176748445
+Steve Wagner,262 William Lodge Suite 979,East Jermaineshire,79869,001-672-485-9590x50974,Art gallery manager,5,258.91,0,1,Urban,1,Web,Discount,1,1.9343864697504785
+Mark Maddox,3328 Michaela Prairie Apt. 390,New Daniel,72199,001-528-938-6003x37576,Sports development officer,2,101.67,1,0,Surburban,1,Web,Discount,0,0.910929440499073
+Melissa Golden,8512 Mary Square,West Christianmouth,96745,891-412-9337x6827,Early years teacher,2,741.29,1,1,Urban,1,Phone,No Offer,0,0.6779297151923978
+Daniel Garrett,6251 Shannon Mills,Michaelborough,51389,(384)448-8407x9949,Theme park manager,1,114.68,1,0,Rural,0,Web,Discount,0,0.200042111339078
+Donna Davis PhD,843 Bell Villages Apt. 027,Zacharyhaven,87929,(732)366-3514x0783,Museum education officer,3,82.25,1,0,Surburban,0,Phone,Buy One Get One,0,1.0399394767777999
+Joseph Parks,465 Graham Cliffs,Cordovaview,64981,146-240-5625x9883,Passenger transport manager,7,29.99,0,1,Urban,0,Web,No Offer,0,0.7146573089811129
+Tanya Gregory,2437 Hudson Orchard,Lake Andrewfort,32772,+1-107-368-9200x93978,Orthoptist,8,37.74,0,1,Surburban,1,Phone,Discount,0,1.2993656364471544
+Lindsey Carr,45043 Ray Trafficway,Richardsonbury,46943,765-733-5007x9911,"Research officer, political party",5,153.22,0,1,Urban,0,Phone,No Offer,0,1.634170169073568
+Dr. James Miller,96791 Cynthia Run,New Brittanytown,28392,001-743-277-3554,Air cabin crew,5,582.36,0,1,Surburban,1,Multichannel,No Offer,0,0.6091699949421362
+Michael Reed,43311 Marsh Place Suite 177,Bishopberg,81316,823-869-7552,Chief of Staff,7,29.99,1,0,Urban,1,Phone,Discount,0,1.5075974321756536
+Mrs. Teresa Potts MD,95635 West Crossroad Apt. 172,New Kennethborough,09555,001-867-604-9322x739,Advertising account planner,7,46.51,1,0,Rural,1,Web,Buy One Get One,0,1.7527536333985076
+Alice Rodriguez,73215 Myers Station,East Steven,05178,524-244-1930x6290,Corporate investment banker,2,964.89,1,0,Surburban,1,Phone,No Offer,0,0.9516461493059252
+Michael Hawkins,267 Brittany Rapid Suite 915,Lake Carlos,52747,001-413-981-2689,Data scientist,5,207.31,1,0,Urban,0,Phone,Buy One Get One,0,0.8457388332578772
+Curtis Franklin,774 Jessica Loaf Apt. 437,Lake Maryport,66192,+1-379-264-1789x1749,Advertising copywriter,3,187.74,0,1,Urban,0,Phone,No Offer,0,1.3692953568878077
+Annette Marquez,272 Alexander Mountain,Lake Mary,13735,681-602-6040x2920,"Engineer, aeronautical",4,99.39,1,0,Surburban,0,Phone,Discount,0,1.349840112417946
+Jennifer Montoya,642 Jones Creek,Hendersonburgh,32315,8342115660,Ship broker,3,29.99,1,0,Surburban,0,Phone,Buy One Get One,0,1.1722272585224713
+Jason Black,9257 Williams Curve,Duranfort,11699,807-851-1229x15926,Industrial buyer,2,198.17,0,1,Urban,0,Phone,Buy One Get One,0,0.9945568595985911
+Joseph Berry,347 Barry Forges Apt. 579,East Lesliechester,02109,0063233941,Pathologist,7,213.26,1,1,Urban,1,Phone,Discount,0,0.533792962489692
+Nancy George,8862 Martha Trail Apt. 814,Mitchellburgh,97576,+1-702-294-2003,Chiropractor,12,159.93,1,0,Urban,0,Phone,Discount,0,1.3167720676613894
+Stacy Simpson,41491 Martha Circle Apt. 402,Lake Kimbury,15039,(983)132-0953x04687,Marketing executive,3,70.91,0,1,Urban,1,Web,Discount,0,1.0467370022337592
+William Griffin,218 Joseph Drive Suite 240,South Matthew,78697,635.658.7873,Health physicist,4,173.48,0,1,Urban,1,Phone,No Offer,0,1.2381689745221292
+Alexander Davis,931 Steven Shores,Moorechester,13477,650-991-2723x70281,Corporate investment banker,8,287.06,0,1,Urban,0,Phone,Buy One Get One,1,1.9848146584784878
+Bobby Giles,301 Tammy Inlet,Briannashire,66401,001.955.6036x773,"Scientist, water quality",9,173.88,0,1,Surburban,0,Phone,Discount,1,1.823476991666377
+Christina Kirby,5328 Jacob Divide,Aaronfurt,79242,075-980-7026x4330,Environmental health practitioner,9,428.99,1,0,Urban,0,Multichannel,Discount,0,1.1864081063649223
+Amy Boyd,9614 Lauren Cliffs Suite 625,Kaylahaven,16446,(929)833-1284,Recruitment consultant,8,492.53,1,1,Rural,1,Phone,Discount,0,1.5340485737707326
+Ryan Wong,158 Carlos Crossroad,South Patricia,29237,980.899.8747,"Programmer, multimedia",2,784.22,1,0,Rural,1,Multichannel,No Offer,0,0.6631943896709529
+Stephanie Braun,61094 Wolfe Union Apt. 299,South Lori,34286,001-047-460-4537,Planning and development surveyor,1,81.12,0,1,Urban,0,Web,Discount,1,1.7840874795272397
+Casey Hensley,8458 Blankenship Row,Port Lesliemouth,91017,001-691-281-5279x35871,Research scientist (medical),2,29.99,0,1,Urban,1,Web,No Offer,0,0.9283383242590612
+Kevin Nguyen,57894 Dawson Green Suite 842,Vincentbury,72575,001-894-731-2228x9355,Artist,11,59.11,1,0,Surburban,1,Web,Buy One Get One,0,0.7840970692431557
+Bridget Robinson,12945 Russell Burg,South Adamshire,96605,+1-859-713-9522x2482,"Designer, exhibition/display",1,156.33,0,1,Surburban,1,Phone,No Offer,0,0.9560853324726283
+Jocelyn Woodard,9411 Steven Motorway Suite 649,Deborahmouth,07184,001-877-627-3192,Adult guidance worker,2,64.26,1,0,Urban,0,Phone,No Offer,0,1.047173684485823
+Karen Conley,5676 Robinson Turnpike,Griffithburgh,02413,314.050.6402,Writer,2,836.65,1,1,Surburban,1,Phone,Buy One Get One,0,0.6249650988972719
+Kelsey Houston,80427 Warner Divide,Lindaborough,24592,001-702-006-5609x36205,Speech and language therapist,3,39.37,0,1,Surburban,1,Phone,No Offer,0,1.5084899144304487
+Donald Wood,1371 Shaw Pike Suite 576,North Carolynbury,84031,914-129-4010x83412,"Surveyor, land/geomatics",10,56.6,1,0,Urban,0,Phone,Discount,0,1.5659483710093387
+Julie Cross,857 Joyce Stravenue Apt. 600,Port Christopherview,34955,+1-104-058-5798,Adult guidance worker,7,221.71,0,1,Rural,1,Web,Buy One Get One,0,0.38557308854258643
+Shannon Ochoa,66087 Victoria Cliff Apt. 535,Nicholasport,83541,001-988-141-3309x68050,Chartered accountant,6,29.99,1,0,Urban,1,Phone,Buy One Get One,0,0.9199571083281949
+Sarah Schroeder,478 Cynthia Plains,Marychester,64438,144-467-3694x36204,"Pharmacist, hospital",5,320.43,1,1,Surburban,0,Web,Buy One Get One,0,0.9565091796843387
+Tricia Randall,855 Mcintosh Dam Apt. 180,Rodriguezshire,55334,634.624.7222,Community pharmacist,4,222.32,1,1,Surburban,1,Web,Buy One Get One,1,1.7822670432145682
+Carlos Williamson,2920 Morgan Vista,Heathborough,64367,(897)243-2765x835,Probation officer,1,249.24,0,1,Urban,1,Multichannel,Discount,0,0.8922709906199786
+Daniel Price IV,2603 Taylor Parkways,Sullivanshire,80552,742-880-8750,Market researcher,10,398.03,1,0,Surburban,0,Web,Buy One Get One,0,1.2232555935345217
+Jillian Patterson,94792 Boyer Mill Apt. 865,Perezborough,55054,(674)445-0026,"Designer, ceramics/pottery",2,122.01,0,1,Urban,1,Web,Discount,0,1.3295736469055586
+Kevin Davis,8984 Smith Groves Suite 353,North Henry,11366,+1-133-791-7230,Naval architect,3,105.08,1,0,Rural,0,Phone,No Offer,0,0.8430725160274429
+Vincent Jones,307 Dawn Lane Apt. 835,Port Anna,96157,(693)332-6643x51607,Biomedical engineer,2,61.34,1,0,Rural,1,Web,No Offer,0,0.2332825966247115
+Jonathan Cherry,6547 Erin Trace,North James,62868,649-153-0526,"Engineer, technical sales",11,87.52,0,1,Surburban,0,Phone,Buy One Get One,0,1.5188670126298178
+Cindy Cook,01577 Mary Green Suite 519,Englishmouth,82709,061.643.4999x175,Theatre manager,6,343.82,1,0,Urban,0,Web,No Offer,1,1.0474450228603152
+Jeff Carter,855 Elizabeth Glen,East Stephaniemouth,86832,001-806-706-8312x376,"Pharmacist, hospital",1,767.3,1,1,Surburban,1,Phone,No Offer,1,1.4368273487920002
+Nicole Sanders,050 Smith Loop,New Robertton,54361,3271908731,"Psychologist, occupational",1,283.63,0,1,Surburban,1,Phone,Discount,0,1.1385293911704484
+Patrick Stafford,040 Butler River,Haleyview,75304,+1-140-884-7971x5290,"Surveyor, building",9,29.99,0,1,Surburban,0,Phone,Buy One Get One,0,1.0299777698934922
+Emily Carr,476 Murray Drives,Port Robyn,52551,837-869-2391,Horticultural therapist,4,116.37,1,0,Urban,0,Web,Discount,0,0.5084081736029609
+Tyler Hopkins,6133 Carolyn Mews Suite 106,Mcgeeberg,01467,715.572.3888,Field seismologist,10,175.21,0,1,Urban,0,Web,Buy One Get One,0,0.7989269448225487
+Colin Guzman,0652 Andrew Run Apt. 089,Orozcoport,03652,777.051.5953x5526,Multimedia specialist,11,82.57,1,0,Surburban,0,Phone,Discount,1,1.7757949001444302
+Caroline Williams,66325 Andrew Drive Apt. 489,Port Stevenchester,24405,001-409-941-2435x66312,Forensic psychologist,2,725.51,1,0,Surburban,1,Multichannel,Buy One Get One,0,1.2057136889353346
+Andre Lewis,1369 Christopher Light,South Elizabeth,57609,885.075.9345x75926,Private music teacher,10,363.14,0,1,Rural,0,Web,Buy One Get One,0,1.1219708836308337
+Brandon Mccann,99273 Randy Fords,Grayborough,06762,001-727-594-4230,"Development worker, international aid",6,835.28,1,1,Surburban,1,Phone,No Offer,0,1.1070803016483421
+Shaun Johnson,13803 Smith Locks Apt. 583,South Joelville,77764,(449)549-0860x697,Nutritional therapist,10,167.85,0,1,Surburban,0,Web,Discount,0,0.9538822313468881
+George Todd,0792 Teresa Squares,Ortegaview,60594,(273)314-5776,Landscape architect,9,254.75,1,0,Rural,1,Web,No Offer,0,1.1760960054824692
+Anna Vega,0996 Lisa Locks,Ryanstad,57527,001-456-737-8698x7225,Water engineer,7,116.33,0,1,Rural,0,Web,No Offer,0,0.369323444700957
+Ryan Stewart,52878 Denise Row Apt. 256,Dawnburgh,73770,366-615-2435,Geoscientist,7,662.26,1,0,Urban,1,Multichannel,Discount,0,1.2073279890603072
+Maria Robinson,05071 Ferrell Alley,Lake Steven,44932,001-675-972-9597x239,Trade mark attorney,10,72.77,1,0,Urban,0,Phone,No Offer,0,1.331565758749212
+Elizabeth Sullivan,7138 Robinson Spur,Emilyhaven,40862,013.795.6330,"Engineer, building services",6,109.99,1,0,Urban,1,Web,Discount,0,0.9475581140377787
+Kelly Walker,8385 Bryan Common Apt. 260,New Danielletown,22098,4157377729,Travel agency manager,12,640.99,1,1,Urban,1,Web,Buy One Get One,0,0.9120571496420163
+Jeffrey Osborne,83690 Leslie Flats,Port Kristopherchester,65509,677.887.5272x562,"Engineer, site",3,816.52,1,1,Urban,1,Phone,Discount,0,1.7825216199542417
+Devin Carr,49686 Patrick Unions,South Emmachester,56867,+1-378-238-6156,Sales promotion account executive,3,290.52,1,0,Surburban,0,Web,No Offer,0,0.6764104719408708
+Christine Vaughan,8068 Wells Ports Suite 773,Castilloton,54845,(807)656-0063,Clinical embryologist,7,96.76,1,0,Urban,1,Web,Discount,0,0.9470755010669194
+Craig Alexander,262 Bennett Field,South Jenniferville,87414,(487)209-9998x03866,Probation officer,9,72.97,1,0,Urban,1,Web,Discount,0,1.194852370251486
+Brittany Blackwell,4484 Davis Radial,South Samanthashire,85484,(955)329-8786,Arts administrator,3,257.56,1,1,Surburban,0,Web,Buy One Get One,0,1.0146759277165702
+Charles Hill,73940 Deborah Freeway,Mendozamouth,29456,882-059-1214,Futures trader,2,370.87,0,1,Urban,0,Multichannel,Buy One Get One,0,1.3824545005776605
+Nicholas Stephens,78793 Randy Wells,Port Jenniferborough,05908,(089)750-7477,"Programmer, multimedia",7,29.99,1,0,Urban,0,Web,Discount,0,0.6241116261692867
+Christina Gilmore,206 Lindsay Crossing,Timothyshire,70120,001-145-709-2506x4769,Probation officer,9,115.84,0,1,Surburban,1,Web,No Offer,0,1.1106315365764894
+Charles Ho,13058 Ruiz Mews Apt. 345,Elliston,15212,+1-127-668-9816x08063,Writer,1,29.99,1,0,Urban,0,Phone,No Offer,0,0.6721792669222154
+Donald Bradford,0327 John Hills,Williammouth,50064,+1-489-633-8875,Veterinary surgeon,11,133.15,1,0,Urban,1,Phone,Discount,0,1.5943854339512107
+Brandon Arroyo,4777 Cynthia Via,Gordonshire,70348,001-116-156-6374x7151,Psychiatric nurse,8,235.47,1,0,Surburban,0,Phone,Buy One Get One,0,0.6266884893968343
+Lisa Carter,67665 Phillips Run,Oconnormouth,51316,+1-486-281-4262x84571,Fitness centre manager,9,151.22,1,0,Urban,0,Phone,Discount,0,1.1238803357187472
+Dr. Danielle Chavez,4396 Edwin Garden Suite 342,West Matthewshire,85655,2794783613,Interior and spatial designer,9,57.53,1,0,Urban,0,Phone,No Offer,0,0.28156139658947
+Kathryn Matthews,216 David Stream,Colemanborough,49277,737.184.2955,Science writer,6,85.61,0,1,Urban,0,Web,Buy One Get One,0,0.6626747970919689
+Melissa Nguyen,304 Wayne Key Apt. 992,South Daniel,45716,+1-397-719-7817x6011,Patent examiner,3,106.7,1,0,Urban,0,Phone,Discount,1,0.9450202222283848
+Tracey Shannon,212 Lisa Station Suite 619,Watkinsfurt,57544,(309)298-5689,Further education lecturer,9,29.99,1,0,Urban,1,Phone,Buy One Get One,0,0.4998244562408103
+Ashley Bradley,56058 Lisa Manors Suite 707,Lewisbury,89202,6186004547,"Programmer, systems",9,44.29,1,0,Urban,1,Phone,No Offer,0,0.708396286778582
+Mario Martin,834 Fisher Key Suite 214,Burgessshire,75044,001-650-220-2565,Broadcast journalist,8,33.31,0,1,Surburban,0,Phone,Buy One Get One,1,2.5576817092375883
+Joseph Harris,9232 John Pine,South Patricia,03942,550-380-7823x658,Personal assistant,12,130.84,0,1,Surburban,0,Web,Buy One Get One,1,3.507481319694378
+Erik Morse,748 Mathew Forges,Danielview,26558,664-520-3762x620,Actuary,2,64.51,1,0,Urban,1,Phone,Buy One Get One,0,1.4127116783559375
+Jay Floyd,547 Beard Forest Suite 792,West Kellyland,65900,357-311-5101,"Psychologist, prison and probation services",9,166.68,1,0,Urban,0,Web,No Offer,0,1.618734533700279
+Robert Buchanan,27190 Acevedo Curve Suite 115,Thomasland,77975,394.414.5594x1118,Wellsite geologist,5,231.98,1,0,Surburban,1,Multichannel,Buy One Get One,0,1.2501718255785874
+Desiree Brown,6905 Allen Harbors,Christinafort,61303,927.550.1170,"Surveyor, commercial/residential",2,472.16,0,1,Surburban,0,Multichannel,Buy One Get One,0,0.9853283595093094
+Brandi Mcdowell,213 King Crest,Samanthaland,41683,688.838.5581,Multimedia specialist,7,168.65,0,1,Rural,1,Phone,No Offer,0,0.5771526891703653
+Amy Crawford,0448 Amanda Ranch Apt. 380,Port Dawn,47444,(848)839-0741,"Conservation officer, historic buildings",3,29.99,0,1,Rural,0,Phone,No Offer,1,1.4703515620365937
+Stephen Harris,123 Sherri Pines Suite 334,Walkerburgh,40487,001-648-948-1970x38374,Production engineer,8,51.71,1,0,Rural,0,Web,Discount,1,1.9728702394606317
+Natasha Lewis,728 Garcia Fork,South Kayla,69251,280.769.0349x238,"Buyer, industrial",9,61.26,0,1,Urban,0,Phone,Discount,0,1.395192891536307
+Bobby Simon,283 Castro Camp,Kellytown,01415,262-135-3251x20464,Warden/ranger,10,29.99,1,0,Urban,0,Web,Buy One Get One,0,1.1596177566782175
+Samuel Owens,41954 Rodriguez Spurs,Chelseafort,01673,912-370-3517,Higher education careers adviser,2,201.98,1,0,Urban,0,Phone,No Offer,0,1.39423189803855
+Karina Coleman,542 Benitez Burg Suite 402,North Tinabury,14184,001-563-932-9730x8258,Trading standards officer,3,85.79,0,1,Surburban,1,Web,No Offer,0,0.712342571798573
+Randy Knight,9073 Robin Pine Apt. 715,Fordland,92595,(913)432-9878x93363,Hydrogeologist,4,29.99,1,0,Surburban,0,Web,Buy One Get One,0,0.6040233345583554
+Mrs. Kelsey Wilson,456 Holden Summit Suite 743,Jonesberg,27132,071.076.3415x851,Operational researcher,8,29.99,1,0,Urban,0,Phone,Discount,0,1.4664880339760116
+Dennis Fischer,8019 Miller River Suite 467,Thompsonmouth,14885,001-048-967-4829x5290,Advertising account planner,5,212.1,0,1,Surburban,0,Web,Buy One Get One,0,0.11663109642435643
+Autumn Davis,8779 Jon Fort Suite 477,Port Racheltown,19728,001-420-888-6904,Field seismologist,1,204.6,0,1,Surburban,1,Multichannel,No Offer,0,1.4740449612168764
+Michael Reyes,1371 Brian Mountains,West Christopherbury,14905,953.437.0467,Dancer,8,216.61,1,1,Urban,1,Phone,Discount,0,1.1605878505026292
+James Benjamin,25059 Navarro Terrace Suite 635,South Caitlin,75874,(991)773-4844x9161,Barrister,8,668.22,1,1,Urban,1,Phone,Discount,1,2.859437364379634
+Kyle Marsh,25555 Bradley Fords,Lake Kathryn,71189,731.184.9281x55702,"Programmer, applications",4,133.51,1,0,Urban,1,Phone,Discount,0,0.8426913151016406
+Brent Mccormick,817 Hernandez Shoal Apt. 633,Lisatown,36349,001-988-728-4814x22504,Radio broadcast assistant,3,78.12,0,1,Rural,1,Web,Buy One Get One,0,0.91504772561038
+Kimberly Gill,44816 Green Place Suite 095,Danaburgh,92462,517-909-6364x297,Applications developer,11,51.84,1,0,Urban,0,Web,Discount,0,1.237335519173837
+Jillian Livingston,5248 Long Land Suite 302,South Janetburgh,96422,+1-609-615-0179,"Producer, radio",12,32.73,1,0,Urban,1,Phone,No Offer,0,0.2950516645840664
+Susan Watts MD,689 Katie Hill,East Miaside,20046,(186)287-4186,Careers information officer,6,29.99,0,1,Urban,1,Web,Discount,0,1.4276079249554692
+Amanda Hess,37926 Craig Pines,Lake Keith,41165,2855831820,Energy engineer,9,110.91,0,1,Surburban,0,Web,Buy One Get One,0,0.7384904568970841
+Caleb Wood,586 Gary Rapid Suite 591,South Christyburgh,01869,998.529.3029,"Solicitor, Scotland",7,29.99,1,0,Urban,0,Phone,Buy One Get One,0,1.759763485137793
+Jaime Barnes,45622 Morris Corners Suite 498,New Jodi,09448,173.492.1092,"Biochemist, clinical",3,111.42,1,0,Surburban,1,Web,Discount,0,1.2026442522921752
+Rebecca Little,47982 Elizabeth Locks Suite 085,West Emilyton,48639,(495)606-9268x447,Dietitian,9,64.81,0,1,Surburban,0,Web,No Offer,0,0.3474996488711224
+Marco King,26528 Carroll Lodge Apt. 921,Jamesfurt,39335,(301)111-9598x2524,"Nurse, mental health",8,72.08,1,0,Surburban,1,Web,Buy One Get One,0,0.7500111692936935
+Jacob Jackson,3536 Weber Dale,Beverlyton,63030,+1-009-087-8050x488,"Nurse, learning disability",2,141.22,1,0,Rural,0,Phone,No Offer,1,1.8370143068429048
+Molly Mcclure,62954 Pham Meadows Apt. 654,South Cindymouth,14338,(421)353-7107x608,Lawyer,3,121.46,1,0,Urban,1,Phone,Buy One Get One,0,1.089023586214236
+Colleen Mason,922 Jacob Green,Calhounport,21216,(024)199-8824,Counselling psychologist,5,29.99,1,0,Surburban,0,Phone,Buy One Get One,1,1.7475942388648866
+Kendra Oneal,6252 James Neck,Michellemouth,09407,001-908-142-1878x067,Art gallery manager,1,524.37,1,0,Urban,1,Phone,No Offer,0,0.5729343056966691
+Melissa Garner,20425 Anthony Fall Apt. 366,North Amanda,54689,001-841-930-8265x688,Quantity surveyor,3,43.33,1,0,Surburban,1,Phone,No Offer,0,1.4931294996180906
+Daniel Wyatt,2896 Martinez Forge,Tarabury,65700,212-063-3287,Horticultural therapist,2,675.96,0,1,Urban,1,Phone,No Offer,0,1.0131926406763097
+Beth Riley,8714 Sullivan Road Apt. 687,Jamiemouth,00962,+1-347-639-9231x18453,Adult nurse,9,29.99,0,1,Surburban,0,Phone,Buy One Get One,0,0.5275510595516142
+Debra Anderson,5058 Monica Hollow,North Markborough,03944,596.653.6830x1640,Horticultural therapist,1,487.47,1,0,Urban,0,Phone,Discount,1,1.573867844242569
+Kim Brown,1567 Gill Fall Apt. 215,Perezside,94251,1842837306,"Conservator, museum/gallery",7,370.47,1,1,Rural,1,Phone,Buy One Get One,0,0.9205809324892013
+Tamara Allen,61800 Katrina Crescent,Jennifermouth,08103,382.752.2843,Games developer,9,180.37,0,1,Surburban,0,Web,Discount,0,1.2124016605071837
+Matthew Costa,738 Megan Radial Apt. 056,Johnsonchester,72389,001-884-874-8845x03973,Mudlogger,2,516.56,0,1,Surburban,1,Phone,Discount,0,1.1602761053003408
+Diana Johnson,3031 Kimberly Manors Suite 035,Port Michellestad,69443,000.379.9411x74845,Conference centre manager,10,240.26,1,1,Rural,1,Web,No Offer,0,0.8270418187877336
+Howard Miller,63340 Adam Manor Suite 080,Port Samuelton,17612,+1-522-657-3185x074,TEFL teacher,3,29.99,0,1,Surburban,1,Phone,No Offer,0,0.38623672036349355
+Nicholas Smith,75808 Luke Mountains Apt. 067,South Kathryntown,40535,001-903-989-4585x39919,"Psychologist, clinical",10,115.28,0,1,Surburban,0,Web,Buy One Get One,0,1.321256813189266
+Lance Arnold,7555 Walker Port Apt. 811,South Tommyfurt,37122,+1-141-578-3637x5623,Dispensing optician,11,29.99,1,0,Urban,1,Phone,Buy One Get One,0,0.48100582522725943
+Shawn Baker,818 Craig Street Suite 128,Port Heatherburgh,56697,325-548-1655x440,Financial adviser,6,169.94,1,0,Surburban,1,Web,No Offer,0,0.07213387712672659
+Adam Brown,12120 Meyer Valleys Apt. 840,Bonniefort,77274,(750)000-7816x91707,Chartered loss adjuster,4,553.91,0,1,Rural,1,Phone,Discount,1,1.3966882042543851
+Brenda Brown,24174 John Courts,Castanedashire,37952,(499)409-6089x08364,Computer games developer,4,85.84,1,0,Surburban,1,Web,Discount,0,0.638669275085608
+Mr. Joshua Moreno,2226 John Rest,South Tonyland,79300,741.772.0314x619,Trading standards officer,1,42.86,1,0,Urban,1,Web,Discount,0,0.6869822345148251
+Jennifer Collins,889 Michael Ville Apt. 497,Anthonyhaven,66391,387.731.6341,Product/process development scientist,2,103.33,1,0,Rural,1,Phone,No Offer,0,0.995002749041828
+Robert Warren,3963 Daniel Rest,East Lindafort,84100,744.967.7840x497,Bonds trader,2,185.06,0,1,Rural,0,Web,No Offer,1,2.016627377258677
+William Jimenez,11009 Kyle Spring Suite 696,West Kristen,12418,001-804-272-0259,Commercial art gallery manager,2,102.13,0,1,Urban,0,Web,No Offer,0,1.546684780265587
+Bryan Washington,482 Monica Forest Apt. 431,North Jamieberg,61829,863.334.7486x640,Press sub,1,304.38,1,0,Surburban,0,Web,Discount,0,1.6056148726155843
+William Meza,506 Perez Prairie Suite 902,Brianland,30854,581.131.2152,Quantity surveyor,10,399.28,1,0,Urban,0,Web,No Offer,0,0.9761703514585051
+Gloria Torres,668 Davis Centers Apt. 281,Williamsview,29992,(023)480-2291x31781,"Designer, multimedia",2,496.71,0,1,Surburban,0,Multichannel,Buy One Get One,0,0.5481276337499866
+Melissa Harris,16588 Cruz Port,West Kathryn,37474,001-261-721-6570x36274,"Scientist, research (maths)",7,149.34,1,0,Urban,0,Phone,Discount,1,2.2388293294940977
+Travis Wu,89659 Amanda Junctions,North Vickie,39646,223.975.7433,Animator,10,29.99,1,0,Surburban,1,Web,No Offer,0,0.8369628559978217
+Donald Oliver,045 Barker Shore,North Jeffrey,25073,(701)183-4334x173,"Editor, magazine features",5,197.48,1,0,Rural,0,Phone,No Offer,0,0.9650098113394119
+Chris Castillo,8662 Gregory Green Apt. 914,Lake Jenna,68866,+1-667-325-7855x295,Facilities manager,11,104.47,1,0,Surburban,0,Web,Buy One Get One,0,1.2051018260905708
+Michael Mclaughlin,42205 Wong Port,West Abigailmouth,69889,054-103-7380,"Editor, commissioning",5,403.95,0,1,Rural,0,Web,Discount,0,1.3029969213999073
+Thomas Gardner,221 Gardner Spur,Fernandezstad,99109,(454)683-4207x831,Fast food restaurant manager,6,104.41,1,0,Rural,0,Web,No Offer,0,0.4959904369958441
+Michelle Valenzuela,177 Levine Gateway,East Dean,39631,+1-736-573-4811,Air broker,4,412.95,1,0,Urban,0,Web,Discount,0,1.1591369660072344
+Mrs. Teresa Elliott,64521 Gordon Creek Apt. 657,Lake Christopherfurt,75629,033-723-3261x7290,Financial risk analyst,8,254.17,1,1,Urban,0,Multichannel,Discount,0,0.8063808186843976
+Courtney Jenkins,91954 Hudson Fields Suite 236,Chaseside,46764,001-543-777-8211x1592,"Scientist, research (maths)",5,543.9,1,1,Urban,1,Web,No Offer,0,0.6487492098378667
+Abigail Dominguez,6372 French Unions Suite 883,Petersmouth,26795,8158374520,Exhibition designer,9,45.35,1,0,Rural,1,Phone,No Offer,0,1.0037233177816525
+April Phillips MD,77500 John Port,New Samuelmouth,12437,6425089070,Freight forwarder,1,157.0,1,0,Surburban,0,Web,Buy One Get One,0,0.9555167860057371
+James Jones,496 Jennifer Cove,Riveraville,35562,089.968.6832x19314,"Psychotherapist, child",1,29.99,0,1,Surburban,0,Phone,Discount,1,1.3552101954406277
+Erin Ross,595 Christopher Path,Dawsonfort,51481,7371760497,Special educational needs teacher,2,29.99,1,0,Surburban,1,Phone,Discount,0,1.5044262261165207
+Jeffrey Smith,85924 Frederick Dale,Robinsonview,29135,322-927-6970,Cabin crew,3,29.99,0,1,Surburban,0,Web,Buy One Get One,0,0.6008277231423452
+Ashley Salinas,465 Michael Island,East Carolborough,51368,926-065-4391,"Investment banker, corporate",4,143.66,0,1,Surburban,1,Web,No Offer,0,0.5432768392294663
+Melissa Hill,293 Erin Fields Apt. 760,North Adam,04579,001-560-676-9119x522,Recruitment consultant,6,33.23,1,0,Rural,0,Web,Discount,0,1.3151000196796925
+Brittany Chapman,61313 Brian Spring Apt. 681,Gilbertmouth,92650,(142)061-1750,Dance movement psychotherapist,8,78.04,1,0,Surburban,1,Web,Buy One Get One,0,0.6707005273576901
+Meredith Bradley,543 Diana Ville Suite 660,Jermainehaven,31787,263.076.7810,Forensic psychologist,11,64.06,0,1,Surburban,1,Web,Buy One Get One,0,1.5606457537761322
+Juan Ward,26242 Perry Glen Suite 036,Jacksonburgh,15592,+1-755-741-3930x67516,Archaeologist,1,30.08,1,0,Surburban,0,Web,Buy One Get One,0,1.0402895612530507
+Rose Sanford,62453 Nash Knoll Apt. 471,Nicholsbury,26277,440.049.5746x86729,Fish farm manager,10,476.27,1,1,Urban,1,Multichannel,No Offer,0,1.0078679613265777
+Matthew Brandt,15298 Ortiz Landing Apt. 631,Williamsmouth,36086,348.957.8174,"Psychotherapist, child",9,29.99,1,0,Surburban,1,Web,Discount,0,1.2480684396286672
+Hayden Holland,3418 Allen Street Apt. 020,East Brooke,93762,+1-260-130-5493x444,Food technologist,5,29.99,1,0,Surburban,0,Web,Discount,0,1.3805139019570491
+Courtney Lester,0245 Durham Vista Suite 492,Mitchellburgh,51893,7756856967,Public house manager,9,29.99,1,0,Urban,0,Web,No Offer,0,0.7767891460706021
+Terri Molina,43539 Meyers Land,West Lisastad,37918,371.447.2560x1810,"Producer, radio",9,406.22,1,0,Surburban,1,Web,No Offer,0,0.776347160952893
+David Small MD,1324 Tyler Manor,East Victoriaville,11388,4122224288,Sports development officer,5,253.1,0,1,Urban,1,Phone,Discount,0,1.0636403507871344
+Michael Andrews,41389 Christopher Point,Port Christopher,76018,(919)742-4791x8049,Osteopath,4,39.2,1,0,Urban,1,Web,Discount,0,0.9248866714231433
+Bobby Lara,67768 Ethan Shoal Suite 372,Christopherchester,39242,254-685-2163x3028,"Engineer, drilling",6,44.67,0,1,Surburban,0,Web,Buy One Get One,0,0.6913277929747681
+Scott Cruz,95573 Samantha Parkways Suite 061,Kristinmouth,37232,6043664643,Multimedia specialist,1,56.65,0,1,Urban,1,Web,No Offer,0,1.1921242956801732
+Timothy Herring,2384 Michael Well Suite 900,South Kimberly,42752,968.446.9996x5010,Medical illustrator,1,269.99,1,1,Urban,0,Multichannel,Discount,0,0.8201633744301892
+Charles Santiago,884 Gonzalez Meadow,New Richardmouth,44978,001-522-232-6086x550,Medical secretary,2,48.16,0,1,Urban,0,Web,Discount,1,2.624796695216211
+Barbara Hoffman,6128 Little Cape,Lake Justin,63726,(594)567-7586,Trade union research officer,10,43.31,0,1,Urban,1,Phone,Buy One Get One,0,0.6823678180001964
+Aaron Day,92247 Theresa Circle,Terranceville,17277,+1-850-382-7194x254,Architectural technologist,9,29.99,0,1,Rural,1,Web,No Offer,0,1.6678845093317105
