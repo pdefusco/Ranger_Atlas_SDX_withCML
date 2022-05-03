@@ -1,0 +1,6 @@
+- demo-model-ghmcxa:
+    hive_table_qualified_names:
+    - default.marketing_campaign_table
+    - default.bank_info_table
+    metadata:
+      custom metadata key: custom metadata value

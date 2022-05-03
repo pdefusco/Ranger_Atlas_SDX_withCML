@@ -12,3 +12,7 @@ pyarrow
 fastparquet
 phoenixdb
 sklearn
+seaborn
+imblearn
+yellowbrick
+faker
