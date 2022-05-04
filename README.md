@@ -17,6 +17,7 @@ In the context of ML and MLOps, SDX provides the following key benefits:
 To learn more on SDX please visit [this page](https://www.cloudera.com/products/sdx.html)
 
 
+
 ## Project Summary
 
 In this project you will explore real world examples of how SDX increases ML Governance and overall compliance with ML Ops Best Practices. 
@@ -31,6 +32,7 @@ The project is divided in the following steps:
 6. Train a ML model with the Hive data and deploy the model to a REST Endpoint via CML API V2. Observe the changes in Atlas
 
 
+
 ## Prerequisites
 
 This project requires access to a CML Workspace, a CDW Virtual Warehouse, and rights to access the Data Catalog, Ranger and Atlas (SDX) in CDP Public or Private Cloud. 
@@ -38,6 +40,7 @@ This project requires access to a CML Workspace, a CDW Virtual Warehouse, and ri
 Familiarity with Python, SQL, and Jupyter Notebooks is recommended. However, no coding is required beyond executing the provided scripts. 
 
 If you are completely new to CML and would like a quick intro to creating Projects, Sessions, using Spark and more, please start with [this repository](https://github.com/pdefusco/CML_CrashCourse)
+
 
 
 ## Part 1: CML Project Setup
@@ -70,11 +73,12 @@ Open script "0_Setup.py" and run all the code at once as shown below.
 
 At the end, enter the following code into the prompt. The prompt is located at the bottom right of your screen.
 
-<code>os.environ['STORAGE']</code> 
+```os.environ['STORAGE']```
 
 Take note of the output. This is your Cloud Storage location. You will need this in Part 2. 
 
 ![alt text](images/sdx2cml05.png)
+
 
 
 ## Part 2: Create Hive Managed Tables from Cloud Storage in the CDW Virtual Warehouse
@@ -91,11 +95,15 @@ Notice we are creating a temporary table from each of the three files, and then 
 
 You will proabably have to modify the S3 bucket value. 
 
-To do so, replace the string "s3a://demo-aws-go02" below with value you copied to your clipboard in the CML Session earlier.
+To do so, replace the cloud storage location (in this case an S3 Bucket but it could also be an ADLS2 Account Name) 
+
+```"s3a://demo-aws-go02"``` 
+
+below with value you copied to your clipboard in the CML Session earlier.
 
 #### DDL for Marketing Campaign Table
 
-<code> 
+~~~
 DROP TABLE IF EXISTS marketing_campaign_tbl;
 
 CREATE EXTERNAL TABLE marketing_campaign_tbl(
@@ -106,8 +114,10 @@ CREATE EXTERNAL TABLE marketing_campaign_tbl(
   phone_number STRING, 
   job STRING
   )
-ROW FORMAT DELIMITED FIELDS TERMINATED BY ',' STORED AS TEXTFILE LOCATION "s3a://demo-aws-go02/sdxdemodir/mkt_campaign";
-  
+ROW FORMAT DELIMITED FIELDS TERMINATED BY ',' 
+STORED AS TEXTFILE LOCATION "s3a://demo-aws-go02/sdxdemodir/mkt_campaign"
+TBLPROPERTIES ("skip.header.line.count"="1", "serialization.null.format"="");
+
 SELECT * FROM marketing_campaign_tbl;
 
 DROP TABLE IF EXISTS marketing_campaign_table;
@@ -122,15 +132,16 @@ CREATE TABLE IF NOT EXISTS marketing_campaign_table(
   )
 COMMENT 'Marketing Campaign';
 
-INSERT OVERWRITE TABLE marketing_campaign_table SELECT * FROM marketing_campaign_tbl;
+INSERT OVERWRITE TABLE marketing_campaign_table 
+SELECT * FROM marketing_campaign_tbl;
 
 SELECT * from marketing_campaign_table; 
 DROP TABLE marketing_campaign_tbl;
-</code>
+~~~
 
 #### DDL for Bank Info Table
 
-<code> 
+~~~
 DROP TABLE IF EXISTS bank_info_tbl;
 
 CREATE EXTERNAL TABLE bank_info_tbl(
@@ -151,7 +162,9 @@ CREATE EXTERNAL TABLE bank_info_tbl(
   conversion STRING, 
   score STRING 
 )
-ROW FORMAT DELIMITED FIELDS TERMINATED BY ',' STORED AS TEXTFILE LOCATION "s3a://demo-aws-go02/sdxdemodir/bank";
+ROW FORMAT DELIMITED FIELDS TERMINATED BY ',' 
+STORED AS TEXTFILE LOCATION "s3a://demo-aws-go02/sdxdemodir/bank"
+TBLPROPERTIES ("skip.header.line.count"="1");
 
 SELECT * FROM bank_info_tbl;
 
@@ -177,15 +190,16 @@ CREATE TABLE IF NOT EXISTS bank_info_table(
   )
 COMMENT 'Bank Info';
 
-INSERT OVERWRITE TABLE bank_info_table SELECT * FROM bank_info_tbl;
+INSERT OVERWRITE TABLE bank_info_table 
+SELECT * FROM bank_info_tbl;
 
 SELECT * FROM bank_info_table; 
 DROP TABLE bank_info_tbl;
-</code>
+~~~
 
-#### DDL for Bank Info Table
+#### DDL for CC Info Table
 
-<code> 
+~~~
 DROP TABLE IF EXISTS cc_info_tbl;
 
 CREATE EXTERNAL TABLE cc_info_tbl(
@@ -195,7 +209,9 @@ CREATE EXTERNAL TABLE cc_info_tbl(
   credit_card_security_code STRING,
   credit_card_expire STRING
   )
-ROW FORMAT DELIMITED FIELDS TERMINATED BY ',' STORED AS TEXTFILE LOCATION "s3a://demo-aws-go02/sdxdemodir/creditcard”;
+ROW FORMAT DELIMITED FIELDS TERMINATED BY ',' 
+STORED AS TEXTFILE LOCATION "s3a://demo-aws-go02/sdxdemodir/creditcard"
+TBLPROPERTIES ("skip.header.line.count"="1");  
   
 SELECT * FROM cc_info_tbl;
 
@@ -210,13 +226,15 @@ CREATE EXTERNAL TABLE cc_info_table(
   )
 COMMENT 'Credit Card Info';
   
-INSERT OVERWRITE TABLE cc_info_table SELECT * FROM cc_info_tbl;
+INSERT OVERWRITE TABLE cc_info_table 
+SELECT * FROM cc_info_tbl;
 
 SELECT * FROM cc_info_table; 
 DROP TABLE cc_info_tbl;
-</code>
+~~~
 
 For more on creating Hive Managed Tables please visit [the documentation](https://docs.cloudera.com/cdp-private-cloud-base/7.1.6/using-hiveql/topics/hive_create_an_external_table.html)
+
 
 
 ## Part 3: Create Hive Managed Tables from Cloud Storage in the CDW Virtual Warehouse
@@ -275,6 +293,7 @@ Then navigate back to the Classifications tab and browse for all entities carryi
 ![alt text](images/sdx2cml_15.png)
 
 
+
 ## Part 4: Access the Data in the CML Project via CML Data Connections
 
 Navigate back to CML and create a new session using Jupyter Notebooks. Make sure to launch it with the following options (you can leave the rest to their defaults):
@@ -310,9 +329,12 @@ You can modify the SQL syntax at will to execute more advanced queries. For exam
 
 Scroll down in your notebook and execute the next cells. Notice that you are just updating the SQL syntax. The connection to the Hive Virtual Warehouse is the same. 
 
-![alt text](images/sdx2cml_20.png)
+![alt text](images/sdx2cml_20A.png)
 
-Before moving on, notice the Pandas dataframe shape is 1001 rows x 6 columns. This is the original data contained in the CSV file we loaded from Cloud Storage.
+Before moving on, notice the Pandas dataframe shape is 1000 rows x 6 columns. This is the original data contained in the CSV file we loaded from Cloud Storage.
+
+Take not of a random value for the postcode column. Copy this to your clipboard. For example, in the screenshot above the number 57087
+
 
 
 ## Part 5: Restrict user access in the Ranger UI and observe changes in the CML Project
@@ -390,17 +412,23 @@ Edit the policy details as shown below.
 
 Then set the “Row Filter Conditions” section with your username, “Access Type” to “Select”, and apply the following condition in the “Row Level Filter” column:
 
-marketing_campaign_table.postcode =! "93881"
+```marketing_campaign_table.postcode =! "< postcode you copied to your clipboard earlier >"```
 
-![alt text](images/sdx2cml_34.png)
+In the below screenshot this is "57087" but because the data is generated randomly this number will be different for you. 
+
+Paste the postcode you copied to your clipboard earlier at the end of Part 4.
+
+
+![alt text](images/sdx2cml_34A.png)
 
 Navigate back to your CML notebook and execute all three cells again. 
 Make sure you execute the first cell in particular, as you will need to reconnect to the Hive Virtual Warehouse in order to be affected by the changes in Ranger. 
 
-Notice the row count has changed. We now have 1000 rows rather than 1001. 
-We are no longer allowed to access campaign targets who live in the 93881 postal code. 
+Notice the row count has changed. We now have 1000 rows rather than 999. 
+We are no longer allowed to access campaign targets who live in the 57087 postal code. 
 
-![alt text](images/sdx2cml_35.png)
+![alt text](images/sdx2cml_35A.png)
+
 
 
 ## Part 6: Train a ML model with the Hive data and deploy the model to a REST Endpoint via CML API V2. Observe the changes in Atlas
@@ -482,6 +510,7 @@ Now observe you have navigated away from the CML Model entity and have opened th
 ![alt text](images/sdx2cml_47.png)
 
 
+
 ## Conclusions
 
 SDX is a fundamental component in the Cloudera Data Platform. Every CDP Data Service leverages it in some way. 
@@ -495,6 +524,7 @@ The benefits of a unified control layer for Security, Governance and Data Catalo
 * Visibility into models, datasets, features, and custom ML metadata is also key for ML Ops and specifically Model Reproducibility.  
 
 
+
 ## Related Demos and Tutorials
 
 If you are evaluating CML you may also benefit from testing the following demos:
@@ -505,6 +535,7 @@ If you are evaluating CML you may also benefit from testing the following demos:
 * [CML2CDE](https://github.com/pdefusco/CML2CDE): Build CI/CD pipelines for Spark with the CDE API, CDE CLI, and CML API v2
 * [API v2](https://github.com/pdefusco/CML_AMP_APIv2): Familiarize yourself with API v2, CML's goto Python Library for ML Ops and DevOps
 * [MLOps](https://github.com/pdefusco/MLOps): Explore a detailed ML Ops pipeline powered by Apache Iceberg
+
 
 
 #### Next Steps
