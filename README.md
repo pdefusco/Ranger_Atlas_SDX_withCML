@@ -51,7 +51,9 @@ Log into your CML Workspace. Create a new CML Project.
 
 To create the CML Project, clone it from this GitHub repository by pasting this link as shown below.
 
-<code>https://github.com/pdefusco/SDX2CML.git</code>
+```
+https://github.com/pdefusco/SDX2CML.git
+```
 
 You can leave default runtime settings to default values. 
 
@@ -237,7 +239,7 @@ For more on creating Hive Managed Tables please visit [the documentation](https:
 
 
 
-## Part 3: Create Hive Managed Tables from Cloud Storage in the CDW Virtual Warehouse
+## Part 3: Classify and Query Metadata with SDX Atlas
 
 Exit Hue and navigate back to the CDW Database Catalog. 
 
@@ -333,7 +335,7 @@ Scroll down in your notebook and execute the next cells. Notice that you are jus
 
 Before moving on, notice the Pandas dataframe shape is 1000 rows x 6 columns. This is the original data contained in the CSV file we loaded from Cloud Storage.
 
-Take not of a random value for the postcode column. Copy this to your clipboard. For example, in the screenshot above the number 57087
+Pick a value from the postcode attribute and take note of it. Copy this to your clipboard. For example, in the screenshot above the number 57087.
 
 
 
@@ -346,7 +348,7 @@ Open the Ranger UI corresponding to the Virtual Warehouse where you executed the
 ![alt text](images/sdx2cml_21.png)
 
 With Ranger, you can apply policies to protect your data. Familiarize yourself with the Ranger UI. 
-Notice there is a section for virtually any CDP Service, including ADLS and S3. 
+Notice there is a section for every CDP Service, including ADLS and S3. 
 
 Next, we will enforce stricter data access policies to our Hive tables. 
 Click on the “Hadoop SQL” section and open policy 9: “all - database, table, column” by clicking on the edit icon.
@@ -547,12 +549,3 @@ This demo provided an introduction to SDX core capabilities. However, you can le
 * Building an NLP project with Atlas Entity Descriptions
 
 Please don't hesitate to reach out to your Cloudera Account Team if you want to explore these further. 
-
-
-
-
-
-
-
-
-

@@ -1,6 +1,9 @@
-- demo-model-ghmcxa:
-    hive_table_qualified_names:
-    - default.marketing_campaign_table
-    - default.bank_info_table
-    metadata:
-      custom metadata key: custom metadata value
+"demo-model-jcxnli":
+  hive_table_qualified_names:                # this is a predefined key to link to training data
+  
+    - "default.marketing_campaign_table@cm"  # the qualifiedName of the hive_table object representing 
+    
+    - "default.bank_info_table@cm"
+  metadata:                                  # this is a predefined key for additional metadata
+  
+    additional_timestamp: 27062022014536                 # suggested use case: query used to extract training data
