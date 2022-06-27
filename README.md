@@ -365,7 +365,7 @@ Save the changes to the policy.
 Navigate back to your CML project. Open the same CML Session and go back to notebook “1_Data Access.ipynb”. 
 Rerun the notebook from the start, making sure to also rerun the cell where you initiate the connection to the CDW Virtual Warehouse. 
 
-The second cell should now fail. This is the SQL statement where you attempt to retrieve all data in the Hive table. 
+The second cell will now fail. This is the SQL statement where you attempt to retrieve all data in the Hive table. 
 Notice that while this failed, the previous statement succeeded. 
 This is because you have only denied yourself access to the table, but not the database 
 (recall that the previous statement was a simple “SHOW DATABASE”).
@@ -460,57 +460,63 @@ Again, run all cells in the notebook without changing the code.
 
 ![alt text](images/sdx2cml_39.png)
 
-Navigate back to the CML Project home folder. You should see a new CML Models endpoint. 
+Navigate back to the CML Project home folder. You will see a new CML Models endpoint. 
 Wait a minute or two for the deployment process to finish. The endpoint should look like this after a bit.
 
-![alt text](images/sdx2cml_40.png)
+![alt text](images/sdx2cml_updates_1.png)
 
 Scroll down and examine the Files section. 
-You now should see a “lineage.yml” file. Open it and examine it. 
+You now will see a “lineage.yml” file. Open it and examine it. 
 This is where metadata for your models is stored.
 
-![alt text](images/sdx2cml_41.png)
+![alt text](images/sdx2cml_updates_2.png)
 
-We created this file programmatically in “3_MLOps.ipynb” but it’s actually optional. 
-If you create it, Atlas will track the model along with its metadata exactly the way it tracked your Hive tables earlier. 
+We created this file programmatically in “3_MLOps.ipynb”. 
+Atlas will use the info to track the model along with its metadata exactly the way it tracked your Hive tables earlier. 
 This is because CML Models type have been added to the Atlas entity model by Cloudera.
 
-Before moving on, take down the “build-id” associated with your model. 
-This is located in the Model’s metadata landing page. You can reach it by clicking on the model in the “Overview” page. 
+Go back to Atlas and enter the model name in the search box at the top. You will see an entry in the autopopulated results. 
+Click on the model entity to open it. If you don't see entry try waiting a few seconds. 
 
-![alt text](images/sdx2cml_42.png)
+![alt text](images/sdx2cml_updates_3.png)
 
-The build ID is on the right side of the screen under “Model Details”: 
+Just like with Hive tables above Atlas provides metadata about your model including when the model was created, its author, and much more.
+This is a key feature in CML Model Governance and ML Ops. Once productionized, a model's existance is documented and always visibile. 
 
-![alt text](images/sdx2cml_43.png)
+Notice also that the Model automatically inherited the table's Atlas Classifications that were applied in the previous steps. 
+This is because you set the "Propagate Classifications" option when you applied the tags to the tables. 
 
-Now copy the model name and build ID to your editor and merge them into a single string separated by a dash:
+The "lineage.yaml" file located in the CML Project home folder can be customized with more entries. 
+If you decide to add more metadata it will appear in the "Metadata" box under the Properties tab.
+This means more metadata that can be helpful to your ML Ops can be set here.
 
-*model_name-build_id*
+![alt text](images/sdx2cml_updates_4.png)
 
-For example:
+Open the lineage tab and notice the two tables that were used to construct the training data are shown on the left side. 
+The full lineage for the tables is included, meaning the INSERT SQL statements that were used to load the tables from staging tables are also part of the diagram.
 
-*demo-model-ghmcxa-6*
+![alt text](images/sdx2cml_updates_6.png)
 
-Navigate back to Atlas and search for your model by inputting its name using the above string.
+CML doesn't just track models but each single build and deployment related to it.
 
-![alt text](images/sdx2cml_44.png)
+Next, we will create a new deployment and visualize it in Atlas. But first some context:
+ 
+* A Model Build is the act of loading the container with its dependencies via the cdsw-build.sh script. 
+* A Model Deployment is the act of redeploying the container with the dependencies loaded during the build.
+* In CML you can either redeploy a model with the same build or with a new build. 
+* For example, you may just want to increase the Resource Profile assigned to a Model container. In that case you can reuse the same build.
+* In another scenario, you may have to update the model's dependencies. In that case you should update your cdsw-build.sh script and then deploy with a new build.
 
-Open the Atlas entity. Just like our Hive tables earlier, the model has its own metadata. 
-For example, scroll down in the “Properties” tab and open the “metadata” section as shown below. 
-This metadata can be customized at will by editing the associated “lineage.yml” file in the CML Project. 
+Navigate back to CML. Open the Model in the Model Landing Page and then the "Deployments" tab. On the right side click on the "Re-deploy this Build" icon.
+Use the same default options and hit "deploy".
 
-![alt text](images/sdx2cml_45.png)
+![alt text](images/sdx2cml_updates_7.png)
 
-Expand the “Lineage” tab and observe the full data origin from Hive. 
-All the way on the left side, click on the icon representing the CML Project and then on its “guid”.
+Finally, navigate back to Atlas, reopen the model lineage diagram and click on the "Model Deployment" node in the DAG (this will be the second from the right).
 
-![alt text](images/sdx2cml_46.png)
+Notice there are now two branches after the model build node. Each branch and final node represents a single Model Deployment. 
 
-Now observe you have navigated away from the CML Model entity and have opened the Atlas Lineage tab for the entity representing the CML Project the model has been deployed in. 
-
-![alt text](images/sdx2cml_47.png)
-
+![alt text](images/sdx2cml_updates_8.png)
 
 
 ## Conclusions
